@@ -1,0 +1,777 @@
+[
+  {
+    "detected_utc": "2026-11-16T20:44:19.823108+00:00",
+    "score": 100,
+    "company": "VIP Play, Inc.",
+    "ticker": "VIPZ",
+    "exchange": "OTC",
+    "industry": "Retail-Miscellaneous Retail",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052265",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...tantially all of certain outstanding related-party indebtedness for preferred stock by November 22, 2026, with failure to complete the exchange constituting an event of default. The financing is secured by substantially all of the Company\u2019s assets. See Note 12 \u2013 Subsequent Events for additional information. Management intends to seek additional debt or equity financing and pursue opportunities to generate revenue from its AI and softwar...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1832161/000149315226052265/form10-q.htm",
+    "sha256_proof": "a00aeb25a1211938c2f66cb9c51eb0fc2216db28fc87677a538b5fb10f574e16"
+  },
+  {
+    "detected_utc": "2026-11-16T20:44:20.461561+00:00",
+    "score": 100,
+    "company": "Veritone, Inc.",
+    "ticker": "VERI",
+    "exchange": "Nasdaq",
+    "industry": "Services-Computer Processing & Data Preparation",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001615165-26-000010",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...onvertible Notes. The Indenture includes a prohibition on incurring additional debt as well as other customary covenants and customary events of default. If an event of default involving bankruptcy, insolvency or reorganization events with respect to us occurs, then the principal amount of, and all accrued and unpaid interest on, all of the New Convertible Notes then outstanding will immediately become due and payable without any furthe...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000010/veri-20260930.htm",
+    "sha256_proof": "71fa8e98d5e9a5270d5f0058a40993f1688761a178f5f8aa8c7a0c691195af72"
+  },
+  {
+    "detected_utc": "2026-11-16T19:51:06.516615+00:00",
+    "score": 100,
+    "company": "JBAAM Acquisition Corp II",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Blank Checks",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001731122-26-001445",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ation with a private company or reverse takeover transaction or other transaction after which the Company would cease to be a shell company. In the event of an Event of Default, the entire note shall automatically become due and payable (the \u201cDefault Date\u201d) and starting from five (5) days after the Default Date, the interest rate on the note shall accrue at the rate of eighteen percent (18%) per annum. As of September 30, 2026, the amou...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2133917/000173112226001445/e8057_10-q.htm",
+    "sha256_proof": "66fd8193af4a240cd42ee593f549e3931028800e871ee05602439fbd851ca38a"
+  },
+  {
+    "detected_utc": "2026-11-16T18:49:25.196809+00:00",
+    "score": 100,
+    "company": "AMERICAN REBEL HOLDINGS INC",
+    "ticker": "AREB",
+    "exchange": "OTC",
+    "industry": "Miscellaneous Fabricated Metal Products",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052195",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...ts of $ 13,701.76 on the fifteenth day of each month thereafter (a total payback to 1800 of $ 352,331 ). Upon the occurrence and during the continuation of any Event of Default, the 1800 Note shall become immediately due and payable and the Company will be obligated to pay to 1800 Diagonal, in full satisfaction of its obligations, an amount equal to 150% times the sum of (w) the then outstanding principal amount of the 1800 Note plus (x...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226052195/form10-q.htm",
+    "sha256_proof": "a2ad354b352767da4e97ff551d853594ce3fe8a49b40e6d67636b58df30f75f2"
+  },
+  {
+    "detected_utc": "2026-11-16T17:25:54.590234+00:00",
+    "score": 100,
+    "company": "Childrens Place, Inc.",
+    "ticker": "PLCE",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Family Clothing Stores",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001104659-26-127669",
+    "triggers": [
+      "chapter 11",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "....01. Entry into a Material Definitive Agreement. On November 8, 2026, The Children\u2019s Place, Inc. (the \u201cCompany\u201d) and certain subsidiaries (the \u201cDebtors\u201d) filed Chapter 11 petitions in the U.S. Bankruptcy Court for the District of New Jersey (the \u201cBankruptcy Court\u201d), jointly administered as In re The Children\u2019s Place, Inc., et al. , Case No. 26-22682 (SLM). On November 10, 2026, the Bankruptcy Court entered an interim order authorizing d...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926127669/tm2629801d1_8k.htm",
+    "sha256_proof": "6dbc2a2e57951be5a664f6b287dab085a282e9d767e03bcbc5bca6c4d28622bf"
+  },
+  {
+    "detected_utc": "2026-11-16T17:26:04.591912+00:00",
+    "score": 100,
+    "company": "iPower Inc.",
+    "ticker": "IPW",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Building Materials, Hardware, Garden Supply",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001683168-26-008776",
+    "triggers": [
+      "chapter 7",
+      "event of default",
+      "waiver",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...Day period. 26 14. VOTING RIGHTS . The Holder shall have no voting rights as the holder of this Note, except as required by law (including, without limitation, Chapter 78 of the Nevada Revised Statute) and as expressly provided in this Note. 15. COVENANTS . Until all of the Notes have been converted, redeemed or otherwise satisfied in accordance with their terms: (a) Rank . All payments due under this Note (a) shall rank pari passu with...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/ipower_ex1001.htm",
+    "sha256_proof": "08111e11b948246b834c4e330e1ee90d541ee8a4335d2be8a667437da10fd0af"
+  },
+  {
+    "detected_utc": "2026-11-16T16:48:33.996989+00:00",
+    "score": 100,
+    "company": "American Clean Resources Group, Inc.",
+    "ticker": "ACRG",
+    "exchange": "OTC",
+    "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001213900-26-120297",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness"
+    ],
+    "quote": "...ult interest (calculated at 15 % per annum, retroactive to the original default dates) upon the occurrence of a Springing Default. As of September 30, 2026, no event of default or Springing Default existed under the LaunchIT Note, as amended, and the Company was current on all obligations thereunder. On May 19, 2026, ACRG and LaunchIT amended the existing obligations arising from the November 2025 SWIS LLC rescission. The amendment ackn...",
+    "url": "https://www.sec.gov/Archives/edgar/data/773717/000121390026120297/ea0311708-10q_american.htm",
+    "sha256_proof": "2f530838e61f1efc381ce1f09acc0fb7ff955425a97cce6d8a49f2eb26fbac12"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:19.677366+00:00",
+    "score": 100,
+    "company": "HCW Biologics Inc.",
+    "ticker": "HCWB",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052055",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness"
+    ],
+    "quote": "...$ 3.4 million in addition to payment of outstanding principal and accrued interest. The agreement contains default provisions, according to which, following an event of default, the Company may be required to distribute the Pledged Collateral to the Purchasers on a pro rata basis based on a $ 10.0 million issuance of Secured Notes, in full satisfaction of the indebtedness evidenced by the Secured Notes. The Pledged Collateral will be he...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226052055/form10-q.htm",
+    "sha256_proof": "572dbcac9a6471ca61efe585f154abecaecfdf15b21554b66248da3e0f39401b"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:20.168573+00:00",
+    "score": 100,
+    "company": "Instil Bio, Inc.",
+    "ticker": "TIL",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001789769-26-000067",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "... satisfaction of the remaining conditions, which are tested at the scheduled maturity date in January 2027 and consist of the absence of a potential default or event of default, the absence of material unrepaired casualty damage to or condemnation of the Tarzana facility, the deposit of any additional reserve amounts reasonably required by Lender, and payment of Lender's costs. The 2024 Loan may be prepaid in whole but not in part. Ther...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1789769/000178976926000067/til-20260930.htm",
+    "sha256_proof": "29db5c7b0c1b323e6a162799be256359331150e6ad73dbbe8125c397ce917516"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:20.838873+00:00",
+    "score": 100,
+    "company": "Barrel Energy Inc.",
+    "ticker": "BRLL",
+    "exchange": "OTC",
+    "industry": "Crude Petroleum & Natural Gas",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001477932-26-006973",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...rice of the Pre-Funded Warrant is $ 0.0001 per share, subject to adjustment. If the Company timely repays all obligations under the Note in full and no uncured Event of Default has occurred, the Investor is required, within ten calendar days after repayment, to return to the Company for cancellation 34,860,348 shares of common stock and the entire Pre-Funded Warrant, leaving 10,000,000 shares of common stock retained by the Investor und...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226006973/brll_10q.htm",
+    "sha256_proof": "898e9bb832a95dcbbd850dc5e2e7017511c333c08470ed2dd01e4c346b0af9bd"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:21.580090+00:00",
+    "score": 100,
+    "company": "TerraVolt Holdings, Inc.",
+    "ticker": "GEDC",
+    "exchange": "OTC",
+    "industry": "Real Estate Investment Trusts",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052029",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...turity, is prepayable in whole or in part at any time without penalty or premium, and bears interest at the rate of 12 % per annum during the continuance of an event of default. The Warrant was determined to be equity-classified. The Company allocated the proceeds between the Note and the 6,000,000 Warrant shares based on their relative fair values, resulting in approximately $ 2,166,000 recorded as additional paid-in capital and as a d...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1174891/000149315226052029/form10-q.htm",
+    "sha256_proof": "a9688eba5ff192b409cba2b84c2bf87fdaf6cb3e30f753b87bcc0e2bdb00012e"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:56.929744+00:00",
+    "score": 100,
+    "company": "ESG Inc.",
+    "ticker": "ESGH",
+    "exchange": "OTC",
+    "industry": "Agricultural Production-Crops",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001520138-26-000480",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "...on stock at an initial exercise price of $ 6.00 per share. The Company failed to make the amortization payment due February 5, 2026. The failure constituted an Event of Default under the Labrys note. As of September 30, 2026, the $ 275,000 principal remained outstanding and the stated August 5, 2026 maturity had passed without payment. During the nine months ended September 30, 2026, Labrys converted an aggregate of $ 18,300 .52 of accr...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1883835/000152013826000480/esgh-20260930_10q.htm",
+    "sha256_proof": "5325d1353b0db41c410d180e5d17afab5519f25cb42419bd27d64e8218dc93cd"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:57.460954+00:00",
+    "score": 100,
+    "company": "Quality Industrial Corp.",
+    "ticker": "QIND",
+    "exchange": "OTC",
+    "industry": "Misc Industrial & Commercial Machinery & Equipment",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051930",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...ry 28, 2024, with a total payback to the Holder of $ 197,599 . All principal on the Diagonal Lending Note is convertible into shares of our common stock in the event of default with a conversion price of 65 % multiplied by the lowest Trading Price for the Common Stock during the ten (10) Trading Days prior to the Conversion Date. The note has been repaid in full. F- 16 On August 15, 2023, the Company issued to 1800 Diagonal Lending Ltd....",
+    "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051930/form10-q.htm",
+    "sha256_proof": "d5a988d1d2bed76aa46587741869e9f6a44581395ef8e15cc2b5730181db469d"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:57.907108+00:00",
+    "score": 100,
+    "company": "Sky Quarry Inc.",
+    "ticker": "SKYQ",
+    "exchange": "Nasdaq",
+    "industry": "Hazardous Waste Management",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001628280-26-073981",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ecoming insolvent or unable to pay their debts as they mature; and a breach of any material covenant under the Libertas Note or the Exchange Agreement. Upon an event of default, Libertas may declare the entire unpaid principal balance of the Libertas Note, together with accrued and unpaid interest, immediately due and payable. Marcus Laun, the Company\u2019s Interim Chief Executive Officer, has personally guaranteed the payment obligations u...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1812447/000162828026073981/skyq-20260930.htm",
+    "sha256_proof": "5d44f1866fc2d8af4ca5a25c21e2c7cb95adc082224d1fb3d814f74177089c0e"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:58.504521+00:00",
+    "score": 100,
+    "company": "JS BEAUTY LAND NETWORK TECHNOLOGY INC",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Retail-Jewelry Stores",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051956",
+    "triggers": [
+      "chapter 7",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ult of new information, future events, or otherwise. Overview JS Beauty Land Network Technology Inc. was organized on May 8, 2018 as a Nevada corporation under Chapter 78 of the Nevada Revised Statutes. The Company has one subsidiary, Jiangsu Meiyunmei Technology Inc. (\u201cMYM\u201d), a Chinese company. The Company owns 99% of the common shares of MYM. The Company qualifies as an \u201cemerging growth company,\u201d as defined in Section 2(a)(19) of the ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1745931/000149315226051956/form10-q.htm",
+    "sha256_proof": "0ad789ead457d6a0c084c0bbee3d14bceb013e7a3a42ec20a37b8514e4537a11"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:59.872741+00:00",
+    "score": 100,
+    "company": "CALLAN JMB INC.",
+    "ticker": "CJMB",
+    "exchange": "Nasdaq",
+    "industry": "Services-Business Services, NEC",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051892",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...r of 6.00 %, computed on the basis of a 360-day year for the actual number of days outstanding. Interest is payable monthly, beginning August 29, 2026. Upon an event of default, including failure to pay at maturity, the interest rate increases to 18.00 %. A late charge of 5.00 % of the unpaid portion of a regularly scheduled payment applies to payments more than 10 days late. CTS may prepay the Line of Credit at any time without penalty...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226051892/form10-q.htm",
+    "sha256_proof": "07ed63481118eecafa1aff8d553ddff457c157f7a7983f5ae2f1d387797bc970"
+  },
+  {
+    "detected_utc": "2026-11-16T12:00:00.345775+00:00",
+    "score": 100,
+    "company": "NEXGEL, INC.",
+    "ticker": "NXGL",
+    "exchange": "Nasdaq",
+    "industry": "Surgical & Medical Instruments & Apparatus",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051902",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...the holder\u2019s election, in shares of the Company\u2019s common stock at the applicable conversion price. The notes mature 18 months from their issuance date. Upon an event of default, interest accrues at the lesser of 18 % per annum or the maximum rate permitted by law. The notes are convertible at the option of the holder into shares of the Company\u2019s common stock at an initial conversion price of $ 12.00 per share, subject to customary anti-...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1468929/000149315226051902/form10-q.htm",
+    "sha256_proof": "36761a08a18c6593aa35d94f5c8cd4130d241b8310c2d06e9ad5a94a38ab4ff4"
+  },
+  {
+    "detected_utc": "2026-11-16T12:00:01.515352+00:00",
+    "score": 100,
+    "company": "American Picture House Corp",
+    "ticker": "APHP",
+    "exchange": "OTC",
+    "industry": "Services-Amusement & Recreation Services",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051890",
+    "triggers": [
+      "forbearance",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...s payment by that date of the prior promissory note in full ($ 86,581.63 , consisting of $ 85,204.35 of principal and interest through November 20, 2026) and a forbearance fee of $ 27,500 , a total of $ 114,081.63 . The January 20, 2026 note ($ 172,500 of principal and $ 17,250 of accrued interest) remains outstanding; its payment is not a condition of the standstill. If the payment is not received by November 20, 2026, Labrys has state...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1771995/000149315226051890/form10-q.htm",
+    "sha256_proof": "d2de1df7efa7921d838aef70888778b5c5780bcf11b6fc7a5e200aa8eff20175"
+  },
+  {
+    "detected_utc": "2026-11-16T17:25:55.545778+00:00",
+    "score": 90,
+    "company": "Medicus Pharma Ltd.",
+    "ticker": "MDCX",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001062993-26-006043",
+    "triggers": [
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...and any exercise of the Pre-Funded Warrants; the Company's need for substantial additional funding and the substantial doubt about its ability to continue as a going concern; the risk that the Company fails to maintain compliance as of its future periodic reports and is subject to delisting; and the other risks and uncertainties described under the heading \"Risk Factors\" in the Company's Annual Report on Form 10-K for the fiscal year en...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1997296/000106299326006043/form8k.htm",
+    "sha256_proof": "e8f15460bf6474a4b34fc65c7d1a5e81105841aad46fc75c5c1ee137c3d947fb"
+  },
+  {
+    "detected_utc": "2026-11-16T17:25:56.145341+00:00",
+    "score": 90,
+    "company": "AtlasClear Holdings, Inc.",
+    "ticker": "ATCH",
+    "exchange": "NYSE",
+    "industry": "Finance Services",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051915",
+    "triggers": [
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...to fund any potential shortfall, and based on these plans, management concluded that there is no substantial doubt about the Company\u2019s ability to continue as a going concern. Earnings Conference Call Information Date: Monday, November 16, 2026 Time: 8:30 AM Eastern Time Toll-Free (U.S. & Canada): 1-877-407-0752 U.S./International: 1-201-389-0912 Conference ID: 13763886 Webcast: https://viavid.webcasts.com/starthere.jsp?ei=1783251&tp_key...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1963088/000149315226051915/ex99-1.htm",
+    "sha256_proof": "64929737e453e01edfdbaf2cb7f7f44bba3e316719bb8c3f2ed92855f0e148d7"
+  },
+  {
+    "detected_utc": "2026-11-16T11:59:59.423628+00:00",
+    "score": 90,
+    "company": "Quality Industrial Corp.",
+    "ticker": "QIND",
+    "exchange": "OTC",
+    "industry": "Misc Industrial & Commercial Machinery & Equipment",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-051952",
+    "triggers": [
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "...al over Al Shola Gas shares; the forgiveness or repayment of loans from Fusion Fuel; the Company\u2019s ability to make the remaining installment payments under the Forbearance Agreement and to resolve defaults under its other convertible notes; the Company\u2019s focus on strengthening its balance sheet and addressing its remaining obligations; and other future events or conditions. These statements are based on current expectations, estimates, ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051952/form8-k.htm",
+    "sha256_proof": "8665efff0a3e0213a000015b5804f31ab7024fe8264f267e06c980b894be1bb7"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:24.037380+00:00",
+    "score": 80,
+    "company": "GALECTIN THERAPEUTICS INC",
+    "ticker": "GALT",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001140361-26-043988",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...solidated financial statements have been prepared in accordance with US generally accepted accounting principles (GAAP) assuming the Company will continue as a going concern. The going concern assumption contemplates the realization of assets and satisfaction of liabilities in the normal course of business. The Company has operated at a loss since its inception and has had no revenues. The Company anticipates that losses will continue f...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043988/ef20080546_10q.htm",
+    "sha256_proof": "410e6c57a87eb98be46f9f4ab80a3692775122b4742034f1e122a5f012bedb1c"
+  },
+  {
+    "detected_utc": "2026-11-16T12:00:00.909931+00:00",
+    "score": 80,
+    "company": "Estrella Immunopharma, Inc.",
+    "ticker": "ESLA",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001213900-26-120047",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...of 180 calendar days, or until March 1, 2027, to regain compliance. The notice has no immediate effect on the listing or trading of the Company\u2019s Common Stock. Going Concern In assessing the Company\u2019s liquidity and the substantial doubt about its ability to continue as a going concern, the Company monitors and analyzes cash on hand and operating expenditure commitments. The Company\u2019s liquidity needs are to meet working capital requireme...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1844417/000121390026120047/ea0309377-10q_estrella.htm",
+    "sha256_proof": "9fbb973ee2dc5bd439ad2e466c35f600209bad88c06f090ba164378f63e5d200"
+  },
+  {
+    "detected_utc": "2026-11-16T15:02:23.492784+00:00",
+    "score": 75,
+    "company": "SATIVUS TECH CORP.",
+    "ticker": "SATT",
+    "exchange": "OTC",
+    "industry": "Services-Management Consulting Services",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001683168-26-008744",
+    "triggers": [
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "... 36 convertible loan from a third party. The loan is convertible at a conversion ratio of $1 per share. f. On July 31, 2026, the Company entered into a further forbearance and extension agreement, and a corresponding amended and restated repayment agreement, with YA II PN, Ltd. (\u201cYAII\u201d) with respect to the Company's outstanding convertible debentures. Under the agreement, YAII agreed to extend the forbearance period through March 31, 20...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1661600/000168316826008744/sativus_i10q-093026.htm",
+    "sha256_proof": "2ae919b4c00562d63b66256931b5687ed84add153e085b593c1efa1307438980"
+  },
+  {
+    "detected_utc": "2026-11-16T17:26:01.591451+00:00",
+    "score": 70,
+    "company": "Cycurion, Inc.",
+    "ticker": "CYCU",
+    "exchange": "Nasdaq",
+    "industry": "Services-Computer Programming Services",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001868419-26-000068",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...of other notes into common stock during the months of July and August of 2026. As disclosed in the Company's Quarterly Report on Form 10-Q, we continue to face going concern uncertainty. We ended the quarter with a working capital deficit of $10.5 million, up from $8.9 million as of December 31, 2025, driven mainly by the promissory note for the Cycurion Digital Ally acquisition and higher accounts payable tied to growth and public-comp...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000186841926000068/exhibit991q32026earningsre.htm",
+    "sha256_proof": "f281c312b8a807a4dfdf39c10aa8a8bd7697ef0ee0b5fd8c6308ad0b8c595ec9"
+  },
+  {
+    "detected_utc": "2026-11-16T17:26:02.139305+00:00",
+    "score": 70,
+    "company": "Sono Group N.V.",
+    "ticker": "SSM",
+    "exchange": "Nasdaq",
+    "industry": "Finance Services",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001171843-26-007456",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...of Bitcoin and its covered-call program with Blockchain.com; the Company\u2019s liquidity, its plans to address its liquidity needs and its ability to continue as a going concern; the Company\u2019s convertible debentures maturing between January and April 2027; the proposed Redomiciliation Transaction to be considered at the Special Meeting, including its expected benefits and the expected continued trading of the Class A common stock on the Nas...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326007456/f8k_111626.htm",
+    "sha256_proof": "e8d24c2113955b929ed032e3422c3d4d1334356653e92385007d3e222e130e40"
+  },
+  {
+    "detected_utc": "2026-11-16T17:26:03.322149+00:00",
+    "score": 70,
+    "company": "New Fortress Energy Inc.",
+    "ticker": "NFE",
+    "exchange": "Nasdaq",
+    "industry": "Natural Gas Distribution",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001749723-26-000183",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...s Form 10-Q, because the timing of FLNG 1\u2019s return to service is outside the Company\u2019s control, there is substantial doubt about NFE\u2019s ability to continue as a going concern. In addition to returning FLNG 1 to service, the Company continues to evaluate other actions to improve its liquidity and cash flows. \u2022 Turbine lease: In October 2026, NFE agreed to lease ten mobile turbines, capable of generating up to 300 MW, to a U.S.-based inves...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000183/nfe_q3x2026xearningsxrelea.htm",
+    "sha256_proof": "a555235645c5963ba371a85dcb91fd09bca79fad17c67b3ebf122571f2c89386"
+  },
+  {
+    "detected_utc": "2026-11-16T16:48:34.645249+00:00",
+    "score": 60,
+    "company": "GOOD GAMING, INC.",
+    "ticker": "GMER",
+    "exchange": "OTC",
+    "industry": "Services-Prepackaged Software",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052098",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...he Company seeks to expand its footprint by creating additional partnerships with other telecommunications providers, device manufacturers and game publishers. Going Concern These financial statements have been prepared on a going concern basis, implying that the Company will continue to realize its assets and discharge its liabilities in the normal course of business. The Company has generated minimal revenues to date, has never paid a...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1454742/000149315226052098/form10-q.htm",
+    "sha256_proof": "0e5ee7f45172d00189316c1aa1586d4e649262e4833cf77c8ebbb057e9be7929"
+  },
+  {
+    "detected_utc": "2026-11-16T02:40:27.147216+00:00",
+    "score": 100,
+    "company": "Evofem Biosciences, Inc.",
+    "ticker": "EVFM",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051802",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "...ts to purchase shares of Common Stock. The outstanding balance, including all accrued and unpaid interest thereon, was doubled upon the delivery of a Notice of Event of Default and Reservation of Rights provided by Baker Bros. LP (the Designated Agent) in March 2023; all defaults under the Notice of Event of Default were cured by the Fourth Baker Amendment described below. The Baker Bros. Purchase Agreement was subsequently amended seve...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226051802/form10-q.htm",
+    "sha256_proof": "a2d7c7f3c4433232c697a2597d6e8ad4fc5813bac234e2dc3e5867db40fe07ba"
+  },
+  {
+    "detected_utc": "2026-11-16T02:32:58.876935+00:00",
+    "score": 100,
+    "company": "PILLARSTONE CAPITAL REIT",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Real Estate Investment Trusts",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001437749-26-036722",
+    "triggers": [
+      "chapter 11",
+      "chapter 7",
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...he lender delivered a notice of foreclosure sale to the borrower. On December 1, 2023, Whitestone Uptown Tower, LLC filed a voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy Court for the Northern District of Texas in the case styled In re: Whitestone Uptown Tower, LLC a/a/ Pillarstone Capital REIT Operating Partnership , Case No. 23-32832-mvl-11, in the United States Ban...",
+    "url": "https://www.sec.gov/Archives/edgar/data/928953/000143774926036722/pscr20260930_10q.htm",
+    "sha256_proof": "25dda03dd94e5ccbd92f859a29235fb6e2d07088dc3bca3effdee88dafa0533f"
+  },
+  {
+    "detected_utc": "2026-11-16T02:33:01.420828+00:00",
+    "score": 100,
+    "company": "BLUE BIOFUELS, INC.",
+    "ticker": "BIOF",
+    "exchange": "OTC",
+    "industry": "Industrial Organic Chemicals",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051529",
+    "triggers": [
+      "chapter 11",
+      "chapter 7",
+      "going concern"
+    ],
+    "quote": "...g of the first plant. All interest and loan amounts automatically come due upon a change of control of the Company or if the Company files for bankruptcy under Chapter 11 or Chapter 7. During the nine-month period ended September 30,2026, the Company borrowed an additional $260,000 from Mr. Kneppers with the same terms. The total debt due as of September 30, 2026, is $1,585,000. At September 30, 2026 and December 31, 2025, accrued inter...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1549145/000149315226051529/form10-q.htm",
+    "sha256_proof": "42d8fa18579506cbfeeb72140d01475597f04defbe67b693797d603e16b648b6"
+  },
+  {
+    "detected_utc": "2026-11-16T02:33:02.046518+00:00",
+    "score": 100,
+    "company": "DYADIC INTERNATIONAL INC",
+    "ticker": "DYAI",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051690",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...es) to December 1, 2026. The holders\u2019 redemption right was subsequently eliminated by the December 23, 2025 amendment described below, except in the case of an Event of Default. On September 15, 2025, the Company amended the security agreement to reflect updates to the Secured Parties (as defined in the Security Agreement) thereunder, including the addition of a trust for the benefit of the Company\u2019s Chief Executive Officer, Mark Emalfa...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051690/form10-q.htm",
+    "sha256_proof": "ff6ad967b3a05b74b9254f712a9c3a1f0a2be32bbd63debe3aa9ceee7278a682"
+  },
+  {
+    "detected_utc": "2026-11-16T02:33:02.708155+00:00",
+    "score": 100,
+    "company": "Verrica Pharmaceuticals Inc.",
+    "ticker": "VRCA",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001660334-26-000030",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...) and (b) 12.50 % per annum. The PD Credit Agreement contains an annual YCANTH revenue covenant and a $ 5 million monthly minimum liquidity covenant. Absent an event of default, interest is not payable in cash but is paid in kind, capitalized into the principal balance quarterly in arrears, and is due at maturity. During an event of default, interest accrues at the base rate plus 3 % and is payable in cash. The Term Loans are secured by...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000030/vrca-20260930.htm",
+    "sha256_proof": "8e64d05b4f58a32e2b46051597c768a9a275667b1214950a1521a3615d17a326"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:19.201644+00:00",
+    "score": 100,
+    "company": "AMERICAN SHARED HOSPITAL SERVICES",
+    "ticker": "AMS",
+    "exchange": "NYSE",
+    "industry": "Services-Medical Laboratories",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001437749-26-036845",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "... wholly-owned subsidiary, HoldCo and is guaranteed by GKF. On December 10, 2025, the Loan Parties received a notice from Fifth Third asserting that a specified Event of Default (as defined in the Credit Agreement) occurred under the Credit Agreement due to the Borrower\u2019s failure to maintain minimum unrestricted domestic cash of at least an aggregate of $ 5,000,000 (the \u201cMinimum Cash Covenant\u201d) as of September 30, 2025. As of December 31...",
+    "url": "https://www.sec.gov/Archives/edgar/data/744825/000143774926036845/asha20260930_10q.htm",
+    "sha256_proof": "d8215f9fb633dcad9d740db2a3cd4ffb9f2ec87588bf579a6c725e990a1c342a"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:19.823088+00:00",
+    "score": 100,
+    "company": "American Fusion, Inc.",
+    "ticker": "AMFN",
+    "exchange": "OTC",
+    "industry": "Electric Services",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001079973-26-001489",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "... \u2013 January 2025 Note 60,401 CMB Communications \u2013 June 2023 Note 165,573 CMB Communications \u2013 January 2025 Note 54,672 Total $ 506,890 Upon the occurrence of an event of default, the lenders shall have the option to convert all or any portion of the unpaid principal, accrued interest, and any other fees or charges into shares of the Company\u2019s common stock at a fixed price of $ 0.0002 per share, subject to the limitation that such convers...",
+    "url": "https://www.sec.gov/Archives/edgar/data/96664/000107997326001489/amfn_10q-093026.htm",
+    "sha256_proof": "2da7b8456a0f4e26c2185a8d2c23955512c81c0c6abffdcf0e51a59c158d2523"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:20.471133+00:00",
+    "score": 100,
+    "company": "Fly-E Group, Inc.",
+    "ticker": "FLYE",
+    "exchange": "Nasdaq",
+    "industry": "Motor Vehicles & Passenger Car Bodies",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001213900-26-119848",
+    "triggers": [
+      "forbearance",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...bligations under the Peapack-Gladstone Bank of approximately $ 4.9 million between August 2025 and November 2025. On November 7, 2025, the Company entered into forbearance and modification agreement with the bank for extension of repayment deadline to March 31, 2026. Subsequent to the execution of the forbearance agreement, the Company has received written notices from Peapack-Gladstone Bank asserting defaults and reserving the lender\u2019s...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026119848/ea0311824-10q_flyegroup.htm",
+    "sha256_proof": "3d4a7a02444768bd708625f2162d5a806c63c4a7f9c0a0880fff02e1dbf95163"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:22.290658+00:00",
+    "score": 100,
+    "company": "AMAZE HOLDINGS, INC.",
+    "ticker": "AMZE",
+    "exchange": "OTC",
+    "industry": "Retail-Catalog & Mail-Order Houses",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051840",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "acceleration"
+    ],
+    "quote": "...de a working capital deficit of approximately $ 18.2 million as of September 30, 2026, recurring losses and negative cash flows from operations, the continuing event of default on the A&R Notes (see Note 10), the delisting of the Company\u2019s common stock from the NYSE American, and the loss of the at-the-market funding. The Company\u2019s plans include sales of common stock under the 2026 Purchase Agreement (see Note 18), which became availabl...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226051840/form10-q.htm",
+    "sha256_proof": "f0265f7d72b9845a76755a17502f7a15d2d76ff5d7575d08af6e8634a67834b5"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:22.958291+00:00",
+    "score": 100,
+    "company": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+    "ticker": "BNET",
+    "exchange": "OTC",
+    "industry": "Agricultural Chemicals",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001079973-26-001490",
+    "triggers": [
+      "forbearance",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...per annum and had a maturity date of April 15, 2025. As of the filing date, BLG is owed $498,370, including accrued interest. The Company has entered into four forbearance agreements; the first that raised the interest rate to 9 % , the third that extended the maturity date to June 30, 2026, and the fourth that extended the maturity date to January 31, 2027. (see Note 5, Note payable \u2013 related party (BLG)). In November 2024, the Company...",
+    "url": "https://www.sec.gov/Archives/edgar/data/875729/000107997326001490/bion_10q-093026.htm",
+    "sha256_proof": "5cb7ca5309928cd32edfb2c990571acb28a0330d1043b293dae8b20a9628f6e0"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:23.611154+00:00",
+    "score": 100,
+    "company": "DataMeds AI, Inc.",
+    "ticker": "MEDS",
+    "exchange": "Nasdaq",
+    "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051830",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "acceleration"
+    ],
+    "quote": "...or a principal amount of $ 448,411 , bearing interest at a rate of 10 % per annum, with both principal and accrued interest due in full on May 15, 2025. In the event of default, interest accrues at a default rate of 12 % per annum. In connection with this note, the Company received net proceeds of $ 415,000 , with the remaining $ 33,411 recognized as a debt discount, which was fully amortized as of December 31, 2025. During the nine mon...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051830/form10-q.htm",
+    "sha256_proof": "254c499c4ab7bb02efbac75abd1fb0999d9083a4f33912ef07489063739c929d"
+  },
+  {
+    "detected_utc": "2026-11-16T02:15:25.633275+00:00",
+    "score": 100,
+    "company": "Stardust Power Inc.",
+    "ticker": "SDST",
+    "exchange": "OTC",
+    "industry": "Primary Smelting & Refining of  Nonferrous Metals",
+    "form": "10-Q",
+    "file_date": "2026-11-13",
+    "accession": "0001493152-26-051814",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "... on October 23, 2026, the Company is no longer able to sell shares under the committed equity facility or the at-the-market offering. In addition, following an event of default, Lind converted the entire outstanding principal balance of its convertible note into shares of Common Stock, and no further financing is available from Lind. See Notes 4 and 8 to the unaudited condensed consolidated financial statements for additional informatio...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226051814/form10-q.htm",
+    "sha256_proof": "1bc9121d6685d6e862cf1777706445f8e46add54d81ffc3128447a5dad9a4ee1"
+  }
+]
