@@ -1,5 +1,264 @@
 [
   {
+    "detected_utc": "2026-11-16T23:18:44.579250+00:00",
+    "score": 100,
+    "company": "HYDROFARM HOLDINGS GROUP, INC.",
+    "ticker": "HYFM",
+    "exchange": "Nasdaq",
+    "industry": "Wholesale-Miscellaneous Nondurable Goods",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001437749-26-037201",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "...ther debt outstanding. As previously disclosed, on February 4, 2026, the Company elected to defer making the interest payment on its Term Loan, resulting in an event of default. The Term Loan was classified as current debt on the September 30, 2026 balance sheet. On July 31, 2026, the Company sold its Aurora Peat Products business in Canada for total consideration of $16 million, a portion of which was represented by a promissory note i...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926037201/ex_1006538.htm",
+    "sha256_proof": "de7910bfbe968a28afe2f4474b3f85ad5f906d998285a84d0532dfd377cf6871"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:45.051420+00:00",
+    "score": 100,
+    "company": "Greenlane Holdings, Inc.",
+    "ticker": "GNLN",
+    "exchange": "Nasdaq",
+    "industry": "Wholesale-Durable Goods, NEC",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052478",
+    "triggers": [
+      "chapter 7",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...es (Greenlane Holdings, LLC, Warehouse Goods, LLC, KIM International, LLC and Kush Supply Co. LLC) that executed assignments for the benefit of creditors under Chapter 727, Florida Statutes, on September 30, 2026. The Company received no consideration and retained no interest in the deconsolidated entities and recognized a non-cash gain on deconsolidation of $3.1 million. The assignments do not discharge the assignors\u2019 liabilities; the ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1743745/000149315226052478/ex99-1.htm",
+    "sha256_proof": "bbafb96791f3ab357db139ada8986f5f5d06df9bd0a9d848caa1a427f7cc2604"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:46.324974+00:00",
+    "score": 100,
+    "company": "Cable One, Inc.",
+    "ticker": "CABO",
+    "exchange": "NYSE",
+    "industry": "Cable & Other Pay Television Services",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0000950157-26-001261",
+    "triggers": [
+      "event of default",
+      "delisting"
+    ],
+    "quote": "... under the indenture that governs the Senior Notes (the \u201cIndenture\u201d). If the missed interest payment is not made during the grace period it will constitute an \u201cevent of default\u201d under the Indenture. Upon the occurrence and during the continuance of such an event of default under the Indenture, all principal and accrued and unpaid interest in respect of the Senior Notes may be declared to be immediately due and payable, as further provid...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1632127/000095015726001261/form8-k.htm",
+    "sha256_proof": "1574efc1955d9fb12b9adfea49e5bebc53c17ac68a2ce1259cadf9516bad581f"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:49.154496+00:00",
+    "score": 100,
+    "company": "HYDROFARM HOLDINGS GROUP, INC.",
+    "ticker": "HYFM",
+    "exchange": "Nasdaq",
+    "industry": "Wholesale-Miscellaneous Nondurable Goods",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001437749-26-037211",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "...rate was 14.57 % and interest expense was $ 12,329 , which includes amortization of deferred financing costs and discount of $ 2,576 triggered by the Specified Event of Default (as defined below). 18 Table of Contents Hydrofarm Holdings Group, Inc. NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (dollars in thousands, except share and per share amounts) The principal amount of the Term Loan is required to be repaid ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926037211/hyfm20260930_10q.htm",
+    "sha256_proof": "05744d7f4b4363e5eecd90c83bb27080c8a5525c45e8799ba166245e06aeb260"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:50.088642+00:00",
+    "score": 100,
+    "company": "LiveOne, Inc.",
+    "ticker": "LVO",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Eating  Places",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001437749-26-037225",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "acceleration"
+    ],
+    "quote": "...o comply in order to maintain borrowing availability, including maintaining required minimum liquidity amount and Borrowing Base capacity. The occurrence of an event of default could have resulted in the acceleration of all obligations of the Company to the Senior Lender with respect to indebtedness, whether under the 2025 Business Loan Agreement or otherwise. Other covenants included, but were not limited to, covenants limiting or rest...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1491419/000143774926037225/lvo20260930_10q.htm",
+    "sha256_proof": "f91d995a995231701c0dfc73249bfcd6d228dceddb251163ed518dc2f87603b1"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:51.546628+00:00",
+    "score": 100,
+    "company": "GoPro, Inc.",
+    "ticker": "GPRO",
+    "exchange": "Nasdaq",
+    "industry": "Photographic Equipment & Supplies",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001500435-26-000076",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...t Agreement, the Convertible Debentures, and the 2026 Notes as direct default and cross-default provisions embedded in each respective agreement could, upon an event of default, permit the applicable lenders to declare all outstanding principal and accrued interest immediately due and payable. Further, Amendment No. 4 of the 2021 Credit Agreement dated July 9, 2026 requires the outstanding balance as of the amendment date (which was $ 1...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1500435/000150043526000076/gpro-20260930.htm",
+    "sha256_proof": "6aa4061ca4ebec9f1cd753ba60502f80ffbc2162773f584a8fdde39d7d3a37bb"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:52.124125+00:00",
+    "score": 100,
+    "company": "PodcastOne, Inc.",
+    "ticker": "PODC",
+    "exchange": "Nasdaq",
+    "industry": "Services-Computer Programming, Data Processing, Etc.",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001437749-26-037229",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...applicable Prepayment Premium. LiveOne\u2019s obligations under the Debentures can be accelerated upon the occurrence of certain customary events of default. In the event of default and acceleration of LiveOne\u2019s obligations, LiveOne would be required to pay the applicable prepayment amount described above. LiveOne\u2019s obligations under the Debentures were guaranteed under a Subsidiary Guarantee, dated as of the Closing Date (the \u201cSubsidiary Gu...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1940177/000143774926037229/podc20260930_10q.htm",
+    "sha256_proof": "1dfcc752807cd9a3f2e747c66aa8f2e704384007cc43a63a26cfe8c54c05c088"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:52.647885+00:00",
+    "score": 100,
+    "company": "CLOUDASTRUCTURE, INC.",
+    "ticker": "CSAI",
+    "exchange": "Nasdaq",
+    "industry": "Services-Computer Programming, Data Processing, Etc.",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001683168-26-008864",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...ntially all assets will trigger the right of a holder to receive the liquidation amount), (iii) eliminated the holder-initiated forced redemption right upon an event of default, and (iv) reduced the fixed conversion price to $ 12 per share (reflecting the post-reverse-stock-split equivalent of the $0.40 per share stated in the Amended Series 2 Certificate of Designations, which was filed prior to the 1-for-30 reverse stock split effecte...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1709628/000168316826008864/cloud_i10q-093026.htm",
+    "sha256_proof": "ff15efd060e99acf78656e27ed20ab6e4c862159cdc56ed714722d06452e1e88"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:53.438977+00:00",
+    "score": 100,
+    "company": "MedWellAI, Inc.",
+    "ticker": "MWAI",
+    "exchange": "OTC",
+    "industry": "Finance Services",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001477932-26-007051",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...red on January 15, 2023 , and bears a flat interest charge of $ 130,000 that shall not be reduced or pro-rated in the event of prepayment. In addition, upon an event of default, the Note bears default interest of 18 % per annum. Effective April 1, 2024, the lender agreed to reduce the default interest to 10% per annum. This note is secured by assets and equipment of the Company. As further inducement to enter this note, the Company issu...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1520118/000147793226007051/mwai_10q.htm",
+    "sha256_proof": "ec644d8049fcd0a050b2836cc4e8bd2f3edaf8af89d3f336c8cf606202213e33"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:54.673756+00:00",
+    "score": 100,
+    "company": "Functional Brands Inc.",
+    "ticker": "MEHA",
+    "exchange": "OTC",
+    "industry": "Medicinal Chemicals & Botanical Products",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001213900-26-120824",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...ave substantially identical terms. They mature on August 9, 2027 and bear interest at 12 % per annum, payable at maturity, increasing to 24 % per annum upon an Event of Default. Beginning one year after the issue date, the Company is required to repay the original principal in six equal monthly installments, in cash or, subject to certain equity conditions, in shares of common stock, with any remaining balance due at maturity. The Notes...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1837254/000121390026120824/ea0310994-10q_functional.htm",
+    "sha256_proof": "611feb4e87b1c22cd1d76dab659b1bf92619d37b4ce420e87f7a3a7cc62a8587"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:55.654295+00:00",
+    "score": 100,
+    "company": "INTEGRATED RAIL & RESOURCES INC.",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Real Estate",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001213900-26-120854",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...rges and other amounts become due in a single payment. The Promissory Note may be prepaid without penalty. Upon the occurrence and during the continuance of an event of default, outstanding principal and, to the extent permitted by applicable law, overdue interest accrue interest at a non-compounding default rate of eighteen percent ( 18 %) per annum, together with a five percent ( 5 %) late payment penalty. Upon an event of default, En...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2044112/000121390026120854/ea0311419-10q_integrated.htm",
+    "sha256_proof": "fcd6ad25a66ee117a82c15e5b919a1b8280a9d26651acbe41017ac3acea87863"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:57.570385+00:00",
+    "score": 100,
+    "company": "Iron Dome Acquisition I Corp.",
+    "ticker": "IDAC",
+    "exchange": "Nasdaq",
+    "industry": "Blank Checks",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001213900-26-120721",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...fering. This loan is non-interest bearing, unsecured and is due upon the earlier of January 30, 2026, the closing of the Initial Public Offering, or an earlier event of default. On May 8, 2026 the note was extended to December 31, 2026. As of September 30, 2026 and December 31, 2025, there was $ 0 and $ 86,158 , respectively, outstanding under such promissory note. The note was fully repaid in connection with the Initial Public Offering...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2090441/000121390026120721/ea0312203-10q_iron1.htm",
+    "sha256_proof": "0121245e5a24d1f54544160149b56351ba32f9797e798fe4008092f9bcdf21f3"
+  },
+  {
+    "detected_utc": "2026-11-16T23:18:58.285147+00:00",
+    "score": 100,
+    "company": "BRAINSTORM CELL THERAPEUTICS INC.",
+    "ticker": "BCLI",
+    "exchange": "OTC",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001104659-26-128417",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...$ 182,400 (including $ 22,400 of original issue discount) and received funds of $ 155,000 after combined legal fees and due diligence fees of $ 5,000 . Upon an event of default the Vanquish Note is convertible into shares of common stock of the Company, subject to a 4.99 % beneficial ownership limitation, at a 35 % discount to the lowest trading price of the Company\u2019s common stock for the 10 trading days prior to the conversion. The Van...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1137883/000110465926128417/bcli-20260930x10q.htm",
+    "sha256_proof": "571a90fc0624f36dd3b24b654c132d99122f8f9c7ba252f4a4fff886e05404a9"
+  },
+  {
     "detected_utc": "2026-11-16T21:34:30.474400+00:00",
     "score": 100,
     "company": "Getty Images Holdings, Inc.",
@@ -534,239 +793,5 @@
     "quote": "...al over Al Shola Gas shares; the forgiveness or repayment of loans from Fusion Fuel; the Company\u2019s ability to make the remaining installment payments under the Forbearance Agreement and to resolve defaults under its other convertible notes; the Company\u2019s focus on strengthening its balance sheet and addressing its remaining obligations; and other future events or conditions. These statements are based on current expectations, estimates, ...",
     "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051952/form8-k.htm",
     "sha256_proof": "8665efff0a3e0213a000015b5804f31ab7024fe8264f267e06c980b894be1bb7"
-  },
-  {
-    "detected_utc": "2026-11-16T21:34:38.234002+00:00",
-    "score": 80,
-    "company": "HealthLynked Corp",
-    "ticker": "HLYK",
-    "exchange": "OTC",
-    "industry": "Services-Offices & Clinics of  Doctors of  Medicine",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001213900-26-120571",
-    "triggers": [
-      "event of default",
-      "going concern"
-    ],
-    "quote": "...ginal issue discount of $ 40,000 . The note also gives the holder a conversion right at a 20 % discount to the market price of Company common stock only in the event of default. In connection with the note, the Company also issued the investor a five-year warrant to purchase 32,949 shares of Company common stock at an exercise price of $ 6.07 per share, subject to standard anti-dilution protection (the \u201cJanuary Warrant\u201d). At inception, ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1680139/000121390026120571/ea0311167-10q_health.htm",
-    "sha256_proof": "ec99f1ec249c6a328bc13a8dfdc39c8886e784ab926c73f915ccb0472dffe1d4"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:24.037380+00:00",
-    "score": 80,
-    "company": "GALECTIN THERAPEUTICS INC",
-    "ticker": "GALT",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001140361-26-043988",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...solidated financial statements have been prepared in accordance with US generally accepted accounting principles (GAAP) assuming the Company will continue as a going concern. The going concern assumption contemplates the realization of assets and satisfaction of liabilities in the normal course of business. The Company has operated at a loss since its inception and has had no revenues. The Company anticipates that losses will continue f...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043988/ef20080546_10q.htm",
-    "sha256_proof": "410e6c57a87eb98be46f9f4ab80a3692775122b4742034f1e122a5f012bedb1c"
-  },
-  {
-    "detected_utc": "2026-11-16T12:00:00.909931+00:00",
-    "score": 80,
-    "company": "Estrella Immunopharma, Inc.",
-    "ticker": "ESLA",
-    "exchange": "Nasdaq",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001213900-26-120047",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...of 180 calendar days, or until March 1, 2027, to regain compliance. The notice has no immediate effect on the listing or trading of the Company\u2019s Common Stock. Going Concern In assessing the Company\u2019s liquidity and the substantial doubt about its ability to continue as a going concern, the Company monitors and analyzes cash on hand and operating expenditure commitments. The Company\u2019s liquidity needs are to meet working capital requireme...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1844417/000121390026120047/ea0309377-10q_estrella.htm",
-    "sha256_proof": "9fbb973ee2dc5bd439ad2e466c35f600209bad88c06f090ba164378f63e5d200"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:23.492784+00:00",
-    "score": 75,
-    "company": "SATIVUS TECH CORP.",
-    "ticker": "SATT",
-    "exchange": "OTC",
-    "industry": "Services-Management Consulting Services",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001683168-26-008744",
-    "triggers": [
-      "forbearance",
-      "going concern"
-    ],
-    "quote": "... 36 convertible loan from a third party. The loan is convertible at a conversion ratio of $1 per share. f. On July 31, 2026, the Company entered into a further forbearance and extension agreement, and a corresponding amended and restated repayment agreement, with YA II PN, Ltd. (\u201cYAII\u201d) with respect to the Company's outstanding convertible debentures. Under the agreement, YAII agreed to extend the forbearance period through March 31, 20...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1661600/000168316826008744/sativus_i10q-093026.htm",
-    "sha256_proof": "2ae919b4c00562d63b66256931b5687ed84add153e085b593c1efa1307438980"
-  },
-  {
-    "detected_utc": "2026-11-16T21:34:34.048345+00:00",
-    "score": 70,
-    "company": "Aqua Metals, Inc.",
-    "ticker": "AQMS",
-    "exchange": "Nasdaq",
-    "industry": "Secondary Smelting & Refining of  Nonferrous Metals",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001437749-26-037175",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "... the evaluation of strategic alternatives and any potential transaction or other outcome resulting from that evaluation; the Company\u2019s ability to continue as a going concern and to obtain additional capital; the cost-reduction plan and targeted future reductions in operating costs; the Company\u2019s commercialization plan; Project Headwaters ARC development, site acquisition and long-term site control, engineering, construction, permitting ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621832/000143774926037175/ex_997852.htm",
-    "sha256_proof": "ea1670bcf90eb375f3b9fc4e9ba1794b1b5537f9a3e16be089aa83e214f522c1"
-  },
-  {
-    "detected_utc": "2026-11-16T21:34:34.585420+00:00",
-    "score": 70,
-    "company": "CervoMed Inc.",
-    "ticker": "CRVO",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001437749-26-037172",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...ufficient funding, including funding (through a strategic partnership or otherwise) for any future trial in patients with DLB, and its ability to continue as a going concern; the Company\u2019s plan to focus on strategic partnering to advance neflamapimod into Phase 3 for DLB and the timing of entering into any such partnership, if at all; the therapeutic potential of neflamapimod in DLB, nfvPPA, ALS, or any other indication, including the d...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1053691/000143774926037172/ex_1046609.htm",
-    "sha256_proof": "7fedd6467d4d80faa0f29ec104aba0faaf474685e7eab5b1a63f2b0b93355ccf"
-  },
-  {
-    "detected_utc": "2026-11-16T17:26:01.591451+00:00",
-    "score": 70,
-    "company": "Cycurion, Inc.",
-    "ticker": "CYCU",
-    "exchange": "Nasdaq",
-    "industry": "Services-Computer Programming Services",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001868419-26-000068",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...of other notes into common stock during the months of July and August of 2026. As disclosed in the Company's Quarterly Report on Form 10-Q, we continue to face going concern uncertainty. We ended the quarter with a working capital deficit of $10.5 million, up from $8.9 million as of December 31, 2025, driven mainly by the promissory note for the Cycurion Digital Ally acquisition and higher accounts payable tied to growth and public-comp...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000186841926000068/exhibit991q32026earningsre.htm",
-    "sha256_proof": "f281c312b8a807a4dfdf39c10aa8a8bd7697ef0ee0b5fd8c6308ad0b8c595ec9"
-  },
-  {
-    "detected_utc": "2026-11-16T17:26:02.139305+00:00",
-    "score": 70,
-    "company": "Sono Group N.V.",
-    "ticker": "SSM",
-    "exchange": "Nasdaq",
-    "industry": "Finance Services",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001171843-26-007456",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...of Bitcoin and its covered-call program with Blockchain.com; the Company\u2019s liquidity, its plans to address its liquidity needs and its ability to continue as a going concern; the Company\u2019s convertible debentures maturing between January and April 2027; the proposed Redomiciliation Transaction to be considered at the Special Meeting, including its expected benefits and the expected continued trading of the Class A common stock on the Nas...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1840416/000117184326007456/f8k_111626.htm",
-    "sha256_proof": "e8d24c2113955b929ed032e3422c3d4d1334356653e92385007d3e222e130e40"
-  },
-  {
-    "detected_utc": "2026-11-16T17:26:03.322149+00:00",
-    "score": 70,
-    "company": "New Fortress Energy Inc.",
-    "ticker": "NFE",
-    "exchange": "Nasdaq",
-    "industry": "Natural Gas Distribution",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001749723-26-000183",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...s Form 10-Q, because the timing of FLNG 1\u2019s return to service is outside the Company\u2019s control, there is substantial doubt about NFE\u2019s ability to continue as a going concern. In addition to returning FLNG 1 to service, the Company continues to evaluate other actions to improve its liquidity and cash flows. \u2022 Turbine lease: In October 2026, NFE agreed to lease ten mobile turbines, capable of generating up to 300 MW, to a U.S.-based inves...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000183/nfe_q3x2026xearningsxrelea.htm",
-    "sha256_proof": "a555235645c5963ba371a85dcb91fd09bca79fad17c67b3ebf122571f2c89386"
-  },
-  {
-    "detected_utc": "2026-11-16T16:48:34.645249+00:00",
-    "score": 60,
-    "company": "GOOD GAMING, INC.",
-    "ticker": "GMER",
-    "exchange": "OTC",
-    "industry": "Services-Prepackaged Software",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-052098",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...he Company seeks to expand its footprint by creating additional partnerships with other telecommunications providers, device manufacturers and game publishers. Going Concern These financial statements have been prepared on a going concern basis, implying that the Company will continue to realize its assets and discharge its liabilities in the normal course of business. The Company has generated minimal revenues to date, has never paid a...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1454742/000149315226052098/form10-q.htm",
-    "sha256_proof": "0e5ee7f45172d00189316c1aa1586d4e649262e4833cf77c8ebbb057e9be7929"
-  },
-  {
-    "detected_utc": "2026-11-16T21:34:37.587916+00:00",
-    "score": 55,
-    "company": "FibroBiologics, Inc.",
-    "ticker": "FBLG",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001193125-26-463445",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...s entity acts as the local sponsor for the Company's twelve-week Phase 1/2 clinical trial utilizing CYWC628 for treatment of diabetic foot ulcers in Australia. Going Concern and Management\u2019s Plan The Company has incurred operating losses since Inception and expects such losses to continue in the future as it builds infrastructure, develops intellectual property, and conducts research and development activities. The Company has primarily...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1958777/000119312526463445/fblg-20260930.htm",
-    "sha256_proof": "9382a03c84da44dd5b1730b95017db23f7023698f1bdda017df1c3731d9619a2"
-  },
-  {
-    "detected_utc": "2026-11-16T02:40:27.147216+00:00",
-    "score": 100,
-    "company": "Evofem Biosciences, Inc.",
-    "ticker": "EVFM",
-    "exchange": "OTC",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-13",
-    "accession": "0001493152-26-051802",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "material weakness",
-      "acceleration"
-    ],
-    "quote": "...ts to purchase shares of Common Stock. The outstanding balance, including all accrued and unpaid interest thereon, was doubled upon the delivery of a Notice of Event of Default and Reservation of Rights provided by Baker Bros. LP (the Designated Agent) in March 2023; all defaults under the Notice of Event of Default were cured by the Fourth Baker Amendment described below. The Baker Bros. Purchase Agreement was subsequently amended seve...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226051802/form10-q.htm",
-    "sha256_proof": "a2d7c7f3c4433232c697a2597d6e8ad4fc5813bac234e2dc3e5867db40fe07ba"
-  },
-  {
-    "detected_utc": "2026-11-16T02:32:58.876935+00:00",
-    "score": 100,
-    "company": "PILLARSTONE CAPITAL REIT",
-    "ticker": "UNLISTED",
-    "exchange": "OTC/Private",
-    "industry": "Real Estate Investment Trusts",
-    "form": "10-Q",
-    "file_date": "2026-11-13",
-    "accession": "0001437749-26-036722",
-    "triggers": [
-      "chapter 11",
-      "chapter 7",
-      "event of default",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...he lender delivered a notice of foreclosure sale to the borrower. On December 1, 2023, Whitestone Uptown Tower, LLC filed a voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy Court for the Northern District of Texas in the case styled In re: Whitestone Uptown Tower, LLC a/a/ Pillarstone Capital REIT Operating Partnership , Case No. 23-32832-mvl-11, in the United States Ban...",
-    "url": "https://www.sec.gov/Archives/edgar/data/928953/000143774926036722/pscr20260930_10q.htm",
-    "sha256_proof": "25dda03dd94e5ccbd92f859a29235fb6e2d07088dc3bca3effdee88dafa0533f"
   }
 ]
