@@ -1,5 +1,84 @@
 [
   {
+    "detected_utc": "2026-11-17T00:12:45.371147+00:00",
+    "score": 100,
+    "company": "SONIC AUTOMOTIVE INC",
+    "ticker": "SAH",
+    "exchange": "NYSE",
+    "industry": "Retail-Auto Dealers & Gasoline Stations",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001628280-26-074209",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...e grace period, whether according to the terms of the Credit Agreement, by acceleration, or otherwise, or upon the occurrence and during the continuance of any Event of Default under the Credit Agreement, then any or all of the Guarantors will, upon demand thereof by the Administrative Agent, fully pay to the Administrative Agent, for the benefit of the Secured Parties, subject to any restriction on each Guarantor\u2019s Obligations set fort...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1043509/000162828026074209/exhibit102-guarantyxconsol.htm",
+    "sha256_proof": "a363f6dfffec538c2cf15dcf57c2e58b3ed19e576b4b38656720d43b6b339367"
+  },
+  {
+    "detected_utc": "2026-11-17T00:12:47.190605+00:00",
+    "score": 100,
+    "company": "NovelStem International Corp.",
+    "ticker": "NSTM",
+    "exchange": "OTC",
+    "industry": "Retail-Retail Stores, NEC",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052465",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "material weakness"
+    ],
+    "quote": "...notes are for $ 125,000 each, for a total of $ 250,000 in borrowings utilized for the funding of NewStem. The notes bear interest at 12 % per annum prior to an event of default and at 24 % per annum following an event of default and originally matured on December 21, 2024 . The maturity date of both notes has been extended by successive loan extension agreements entered into with each holder on March 25, 2025, February 17, 2026 and Augu...",
+    "url": "https://www.sec.gov/Archives/edgar/data/912544/000149315226052465/form10-q.htm",
+    "sha256_proof": "21a88556456f275c510d6dbd23a0cce034f928efc8beed27291ad0e6366e2291"
+  },
+  {
+    "detected_utc": "2026-11-17T00:12:47.882365+00:00",
+    "score": 100,
+    "company": "NOMAD POWER SOLUTIONS, INC.",
+    "ticker": "NMAD",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0001493152-26-052573",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...rates of 20 % per annum and have short-term maturities. The loan agreements generally provide for a minimum interest period and equity-based loan fees. Upon an event of default, including failure to repay amounts due within the applicable period following maturity, the lender may, if permitted by applicable law, increase the interest rate to 30 % per annum. The agreements may also provide for additional equity-based fees upon default. D...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226052573/form10-q.htm",
+    "sha256_proof": "3e764c717195bf9782a9c59e2a8549ed88a728002fc268b26b54ee9491d33904"
+  },
+  {
+    "detected_utc": "2026-11-17T00:12:48.466275+00:00",
+    "score": 100,
+    "company": "Aspira Women's Health Inc.",
+    "ticker": "AWHL",
+    "exchange": "OTC",
+    "industry": "In Vitro & In Vivo Diagnostic Substances",
+    "form": "10-Q",
+    "file_date": "2026-11-16",
+    "accession": "0000926617-26-000060",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...rized to take actions to perfect the security interests; however, the Subordinated Loan Agreement provided that a financing statement may be filed only upon an event of default. The January Promissory Note was cancelled upon the issuance of the July Promissory Note (as defined below) effective July 1, 2026. During the three and nine months ended September 30, 2026, the Company has made payments of approximately none and $ 1,093,000 , re...",
+    "url": "https://www.sec.gov/Archives/edgar/data/926617/000092661726000060/awhl-20260930x10q.htm",
+    "sha256_proof": "c17369d11afe1a2f6b491bd3f93feaa2488c2f0684dfc89070ecc26e011e68cd"
+  },
+  {
     "detected_utc": "2026-11-16T23:18:44.579250+00:00",
     "score": 100,
     "company": "HYDROFARM HOLDINGS GROUP, INC.",
@@ -721,77 +800,5 @@
     "quote": "...s payment by that date of the prior promissory note in full ($ 86,581.63 , consisting of $ 85,204.35 of principal and interest through November 20, 2026) and a forbearance fee of $ 27,500 , a total of $ 114,081.63 . The January 20, 2026 note ($ 172,500 of principal and $ 17,250 of accrued interest) remains outstanding; its payment is not a condition of the standstill. If the payment is not received by November 20, 2026, Labrys has state...",
     "url": "https://www.sec.gov/Archives/edgar/data/1771995/000149315226051890/form10-q.htm",
     "sha256_proof": "d2de1df7efa7921d838aef70888778b5c5780bcf11b6fc7a5e200aa8eff20175"
-  },
-  {
-    "detected_utc": "2026-11-16T21:34:33.063636+00:00",
-    "score": 90,
-    "company": "Dare Bioscience, Inc.",
-    "ticker": "DARE",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-052334",
-    "triggers": [
-      "going concern",
-      "delisting"
-    ],
-    "quote": "...n, risks and uncertainties related to: the Company\u2019s ability to obtain additional capital when and as needed to execute its business strategy and continue as a going concern; potential suspension and delisting of the Company\u2019s common stock from the Nasdaq Capital Market; the Company\u2019s dependence on grants and other financial awards from governmental entities and a private foundation and the risk that anticipated funding may be reduced, ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1401914/000149315226052334/ex99-1.htm",
-    "sha256_proof": "01f4cef2d1a5e61769c82517aadea02cfc1928bf4961122a629bccbfbbc20783"
-  },
-  {
-    "detected_utc": "2026-11-16T17:25:55.545778+00:00",
-    "score": 90,
-    "company": "Medicus Pharma Ltd.",
-    "ticker": "MDCX",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001062993-26-006043",
-    "triggers": [
-      "going concern",
-      "delisting"
-    ],
-    "quote": "...and any exercise of the Pre-Funded Warrants; the Company's need for substantial additional funding and the substantial doubt about its ability to continue as a going concern; the risk that the Company fails to maintain compliance as of its future periodic reports and is subject to delisting; and the other risks and uncertainties described under the heading \"Risk Factors\" in the Company's Annual Report on Form 10-K for the fiscal year en...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1997296/000106299326006043/form8k.htm",
-    "sha256_proof": "e8f15460bf6474a4b34fc65c7d1a5e81105841aad46fc75c5c1ee137c3d947fb"
-  },
-  {
-    "detected_utc": "2026-11-16T17:25:56.145341+00:00",
-    "score": 90,
-    "company": "AtlasClear Holdings, Inc.",
-    "ticker": "ATCH",
-    "exchange": "NYSE",
-    "industry": "Finance Services",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051915",
-    "triggers": [
-      "going concern",
-      "delisting"
-    ],
-    "quote": "...to fund any potential shortfall, and based on these plans, management concluded that there is no substantial doubt about the Company\u2019s ability to continue as a going concern. Earnings Conference Call Information Date: Monday, November 16, 2026 Time: 8:30 AM Eastern Time Toll-Free (U.S. & Canada): 1-877-407-0752 U.S./International: 1-201-389-0912 Conference ID: 13763886 Webcast: https://viavid.webcasts.com/starthere.jsp?ei=1783251&tp_key...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1963088/000149315226051915/ex99-1.htm",
-    "sha256_proof": "64929737e453e01edfdbaf2cb7f7f44bba3e316719bb8c3f2ed92855f0e148d7"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:59.423628+00:00",
-    "score": 90,
-    "company": "Quality Industrial Corp.",
-    "ticker": "QIND",
-    "exchange": "OTC",
-    "industry": "Misc Industrial & Commercial Machinery & Equipment",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051952",
-    "triggers": [
-      "forbearance",
-      "going concern"
-    ],
-    "quote": "...al over Al Shola Gas shares; the forgiveness or repayment of loans from Fusion Fuel; the Company\u2019s ability to make the remaining installment payments under the Forbearance Agreement and to resolve defaults under its other convertible notes; the Company\u2019s focus on strengthening its balance sheet and addressing its remaining obligations; and other future events or conditions. These statements are based on current expectations, estimates, ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051952/form8-k.htm",
-    "sha256_proof": "8665efff0a3e0213a000015b5804f31ab7024fe8264f267e06c980b894be1bb7"
   }
 ]
