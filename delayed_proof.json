@@ -1,5 +1,27 @@
 [
   {
+    "detected_utc": "2026-11-17T13:58:25.014065+00:00",
+    "score": 100,
+    "company": "CANNAPHARMARX, INC.",
+    "ticker": "CPMD",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-17",
+    "accession": "0001683168-26-008887",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "...ld result in substantial dilution to existing shareholders. Certain borrowings are secured by the Company\u2019s assets, including equipment and receivables. In the event of default, lenders may have the right to seize collateralized assets. These consolidated financial statements do not include any adjustments that might result from the outcome of these uncertainties. 11 CANNAPHARMARX, INC. NOTES TO THE CONDENSED INTERIM CONSOLIDATED FINANC...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1081938/000168316826008887/cannapharmarx_i10q-093026.htm",
+    "sha256_proof": "35e5d45dc2c460544b4d8ac05f28a85d786039faf5d745f87298430ca2ef1795"
+  },
+  {
     "detected_utc": "2026-11-17T11:44:41.914982+00:00",
     "score": 100,
     "company": "HEALTHY EXTRACTS INC.",
@@ -778,25 +800,5 @@
     "quote": "...ry 28, 2024, with a total payback to the Holder of $ 197,599 . All principal on the Diagonal Lending Note is convertible into shares of our common stock in the event of default with a conversion price of 65 % multiplied by the lowest Trading Price for the Common Stock during the ten (10) Trading Days prior to the Conversion Date. The note has been repaid in full. F- 16 On August 15, 2023, the Company issued to 1800 Diagonal Lending Ltd....",
     "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051930/form10-q.htm",
     "sha256_proof": "d5a988d1d2bed76aa46587741869e9f6a44581395ef8e15cc2b5730181db469d"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:57.907108+00:00",
-    "score": 100,
-    "company": "Sky Quarry Inc.",
-    "ticker": "SKYQ",
-    "exchange": "Nasdaq",
-    "industry": "Hazardous Waste Management",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001628280-26-073981",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ecoming insolvent or unable to pay their debts as they mature; and a breach of any material covenant under the Libertas Note or the Exchange Agreement. Upon an event of default, Libertas may declare the entire unpaid principal balance of the Libertas Note, together with accrued and unpaid interest, immediately due and payable. Marcus Laun, the Company\u2019s Interim Chief Executive Officer, has personally guaranteed the payment obligations u...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1812447/000162828026073981/skyq-20260930.htm",
-    "sha256_proof": "5d44f1866fc2d8af4ca5a25c21e2c7cb95adc082224d1fb3d814f74177089c0e"
   }
 ]
