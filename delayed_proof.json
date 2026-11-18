@@ -1,5 +1,43 @@
 [
   {
+    "detected_utc": "2026-11-17T21:47:12.513893+00:00",
+    "score": 100,
+    "company": "MERCER INTERNATIONAL INC.",
+    "ticker": "MERC",
+    "exchange": "Nasdaq",
+    "industry": "Pulp Mills",
+    "form": "8-K",
+    "file_date": "2026-11-17",
+    "accession": "0001193125-26-465606",
+    "triggers": [
+      "chapter 11",
+      "delisting"
+    ],
+    "quote": "...ously disclosed, on November 9, 2026, Mercer International Inc. (the \u201cCompany\u201d) and one non-operating subsidiary of the Company filed voluntary petitions (the \u201cChapter 11 Cases\u201d) under Chapter 11 of title 11 of the United States Code in the United States Bankruptcy Court for the Southern District of Texas, Houston Division (the \u201cBankruptcy Court\u201d) to implement a joint prepackaged Chapter 11 plan of reorganization (the \u201cPlan\u201d). On Novemb...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1333274/000119312526465606/d169364d8k.htm",
+    "sha256_proof": "f7b5f5ab086793dd03ae0db37fca2f0ed0fd572068684228b3e1c804e3b6cea0"
+  },
+  {
+    "detected_utc": "2026-11-17T21:47:13.570818+00:00",
+    "score": 100,
+    "company": "ReposiTrak, Inc.",
+    "ticker": "TRAK",
+    "exchange": "NYSE",
+    "industry": "Services-Computer Processing & Data Preparation",
+    "form": "8-K",
+    "file_date": "2026-11-17",
+    "accession": "0001437749-26-037393",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...or for the account of SPAR under this Agreement, including any Credit Support Payment or other amount deemed to be a Direct Advance pursuant to Section 2(f). \" Event of Default \" has the meaning set forth in Section 14(a). \" Exchanges \" means SPAR's sale and issuance of shares of Series C Preferred and warrants to purchase Common Stock pursuant to the Exchange Agreement. \" Exchange Agreement \" means that certain Exchange Agreement, date...",
+    "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037393/ex_1047059.htm",
+    "sha256_proof": "bff671409fbbe437238e55525fb97201cd1c1aba24aac1558f741bfbe70822f9"
+  },
+  {
     "detected_utc": "2026-11-17T13:58:25.014065+00:00",
     "score": 100,
     "company": "CANNAPHARMARX, INC.",
@@ -757,48 +795,5 @@
     "quote": "...turity, is prepayable in whole or in part at any time without penalty or premium, and bears interest at the rate of 12 % per annum during the continuance of an event of default. The Warrant was determined to be equity-classified. The Company allocated the proceeds between the Note and the 6,000,000 Warrant shares based on their relative fair values, resulting in approximately $ 2,166,000 recorded as additional paid-in capital and as a d...",
     "url": "https://www.sec.gov/Archives/edgar/data/1174891/000149315226052029/form10-q.htm",
     "sha256_proof": "a9688eba5ff192b409cba2b84c2bf87fdaf6cb3e30f753b87bcc0e2bdb00012e"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:56.929744+00:00",
-    "score": 100,
-    "company": "ESG Inc.",
-    "ticker": "ESGH",
-    "exchange": "OTC",
-    "industry": "Agricultural Production-Crops",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001520138-26-000480",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "waiver",
-      "material weakness",
-      "acceleration"
-    ],
-    "quote": "...on stock at an initial exercise price of $ 6.00 per share. The Company failed to make the amortization payment due February 5, 2026. The failure constituted an Event of Default under the Labrys note. As of September 30, 2026, the $ 275,000 principal remained outstanding and the stated August 5, 2026 maturity had passed without payment. During the nine months ended September 30, 2026, Labrys converted an aggregate of $ 18,300 .52 of accr...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1883835/000152013826000480/esgh-20260930_10q.htm",
-    "sha256_proof": "5325d1353b0db41c410d180e5d17afab5519f25cb42419bd27d64e8218dc93cd"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:57.460954+00:00",
-    "score": 100,
-    "company": "Quality Industrial Corp.",
-    "ticker": "QIND",
-    "exchange": "OTC",
-    "industry": "Misc Industrial & Commercial Machinery & Equipment",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051930",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "acceleration",
-      "delisting"
-    ],
-    "quote": "...ry 28, 2024, with a total payback to the Holder of $ 197,599 . All principal on the Diagonal Lending Note is convertible into shares of our common stock in the event of default with a conversion price of 65 % multiplied by the lowest Trading Price for the Common Stock during the ten (10) Trading Days prior to the Conversion Date. The note has been repaid in full. F- 16 On August 15, 2023, the Company issued to 1800 Diagonal Lending Ltd....",
-    "url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051930/form10-q.htm",
-    "sha256_proof": "d5a988d1d2bed76aa46587741869e9f6a44581395ef8e15cc2b5730181db469d"
   }
 ]
