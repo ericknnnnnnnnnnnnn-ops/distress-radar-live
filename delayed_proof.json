@@ -1,5 +1,82 @@
 [
   {
+    "detected_utc": "2026-11-17T11:44:41.914982+00:00",
+    "score": 100,
+    "company": "HEALTHY EXTRACTS INC.",
+    "ticker": "HYEX",
+    "exchange": "OTC",
+    "industry": "Medicinal Chemicals & Botanical Products",
+    "form": "8-K",
+    "file_date": "2026-11-17",
+    "accession": "0001096906-26-001792",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...urther described in this Note (the \u201cConversion Price\u201d) shall equal the Fixed Price (as defined in this Note), provided, however, that upon the occurrence of an Event of Default (as defined in this Note) under this Note, the Conversion Price shall equal the lesser of (i) the Fixed Price or (ii) the Market Price (as defined in this Note), in each case subject to adjustment as provided in this Note. \u201cFixed Price\u201d shall mean $2.00 per share...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1630176/000109690626001792/hyex_ex10z2.htm",
+    "sha256_proof": "f293f1de4df5c2122c6ba860ad915385a7c05b88af2a9c97256b10d67c712375"
+  },
+  {
+    "detected_utc": "2026-11-17T11:44:42.595121+00:00",
+    "score": 100,
+    "company": "Evernorth Holdings Inc.",
+    "ticker": "XRPN",
+    "exchange": "Nasdaq",
+    "industry": "Commodity Contracts Brokers & Dealers",
+    "form": "8-K/A",
+    "file_date": "2026-11-17",
+    "accession": "0001628280-26-074319",
+    "triggers": [
+      "going concern",
+      "waiver",
+      "delisting"
+    ],
+    "quote": "...24 (inception) through September 30, 2025, in conformity with accounting principles generally accepted in the United States of America. Explanatory Paragraph \u2013 Going Concern The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As more fully described in Note 1, as of September 30, 2026, the Company's liquidity condition and the requirement that it consummate an...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026074319/armada_iix093026xformxxfsx.htm",
+    "sha256_proof": "5fd8a675dd22e05b8ba7f5d3b66ff17186f7d003c3cd3ea7fd3052928ac2e333"
+  },
+  {
+    "detected_utc": "2026-11-17T11:44:41.410238+00:00",
+    "score": 90,
+    "company": "Vivos Therapeutics, Inc.",
+    "ticker": "VVOS",
+    "exchange": "Nasdaq",
+    "industry": "Surgical & Medical Instruments & Apparatus",
+    "form": "8-K",
+    "file_date": "2026-11-17",
+    "accession": "0001493152-26-052658",
+    "triggers": [
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...et Nasdaq\u2019s stockholders\u2019 equity and minimum bid price requirements; (v) the risk that Vivos will not have enough cash to fund its operations and continue as a going concern; (vi) the risk that the final accounting for the SOD Sciences transaction, or review by Nasdaq or Vivos\u2019 independent registered public accounting firm, results in a smaller increase in stockholders\u2019 equity than expected; (vii) the risk that Vivos will not regain com...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226052658/ex99-1.htm",
+    "sha256_proof": "14526f3ee82235b32dd9ea4dd745b3f04fa73eca9f1b4b35b140b24cc1aa6127"
+  },
+  {
+    "detected_utc": "2026-11-17T05:12:49.659244+00:00",
+    "score": 100,
+    "company": "StandardAero, Inc.",
+    "ticker": "SARO",
+    "exchange": "NYSE",
+    "industry": "Aircraft Engines & Engine Parts",
+    "form": "8-K",
+    "file_date": "2026-11-16",
+    "accession": "0001193125-26-461999",
+    "triggers": [
+      "event of default",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "... the meaning of Section 546(g) of the Bankruptcy Code, (C) the rights given to Dealer under this Confirmation and under the Agreement upon the occurrence of an Event of Default with respect to Issuer constitute \u201ccontractual rights\u201d to cause the liquidation, termination or acceleration of or the offset or net out termination values under or in connection with a \u201csecurities contract\u201d and a \u201cswap agreement\u201d, (D) this Confirmation is a \u201cmas...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2025410/000119312526461999/d187540dex102.htm",
+    "sha256_proof": "081cf0a716bbf28bc4c9f4d1c79a17bd54181c7323427c9aea9e4a192813a0ee"
+  },
+  {
     "detected_utc": "2026-11-17T00:12:45.371147+00:00",
     "score": 100,
     "company": "SONIC AUTOMOTIVE INC",
@@ -721,84 +798,5 @@
     "quote": "...ecoming insolvent or unable to pay their debts as they mature; and a breach of any material covenant under the Libertas Note or the Exchange Agreement. Upon an event of default, Libertas may declare the entire unpaid principal balance of the Libertas Note, together with accrued and unpaid interest, immediately due and payable. Marcus Laun, the Company\u2019s Interim Chief Executive Officer, has personally guaranteed the payment obligations u...",
     "url": "https://www.sec.gov/Archives/edgar/data/1812447/000162828026073981/skyq-20260930.htm",
     "sha256_proof": "5d44f1866fc2d8af4ca5a25c21e2c7cb95adc082224d1fb3d814f74177089c0e"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:58.504521+00:00",
-    "score": 100,
-    "company": "JS BEAUTY LAND NETWORK TECHNOLOGY INC",
-    "ticker": "UNLISTED",
-    "exchange": "OTC/Private",
-    "industry": "Retail-Jewelry Stores",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051956",
-    "triggers": [
-      "chapter 7",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ult of new information, future events, or otherwise. Overview JS Beauty Land Network Technology Inc. was organized on May 8, 2018 as a Nevada corporation under Chapter 78 of the Nevada Revised Statutes. The Company has one subsidiary, Jiangsu Meiyunmei Technology Inc. (\u201cMYM\u201d), a Chinese company. The Company owns 99% of the common shares of MYM. The Company qualifies as an \u201cemerging growth company,\u201d as defined in Section 2(a)(19) of the ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1745931/000149315226051956/form10-q.htm",
-    "sha256_proof": "0ad789ead457d6a0c084c0bbee3d14bceb013e7a3a42ec20a37b8514e4537a11"
-  },
-  {
-    "detected_utc": "2026-11-16T11:59:59.872741+00:00",
-    "score": 100,
-    "company": "CALLAN JMB INC.",
-    "ticker": "CJMB",
-    "exchange": "Nasdaq",
-    "industry": "Services-Business Services, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051892",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...r of 6.00 %, computed on the basis of a 360-day year for the actual number of days outstanding. Interest is payable monthly, beginning August 29, 2026. Upon an event of default, including failure to pay at maturity, the interest rate increases to 18.00 %. A late charge of 5.00 % of the unpaid portion of a regularly scheduled payment applies to payments more than 10 days late. CTS may prepay the Line of Credit at any time without penalty...",
-    "url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226051892/form10-q.htm",
-    "sha256_proof": "07ed63481118eecafa1aff8d553ddff457c157f7a7983f5ae2f1d387797bc970"
-  },
-  {
-    "detected_utc": "2026-11-16T12:00:00.345775+00:00",
-    "score": 100,
-    "company": "NEXGEL, INC.",
-    "ticker": "NXGL",
-    "exchange": "Nasdaq",
-    "industry": "Surgical & Medical Instruments & Apparatus",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051902",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "acceleration",
-      "delisting"
-    ],
-    "quote": "...the holder\u2019s election, in shares of the Company\u2019s common stock at the applicable conversion price. The notes mature 18 months from their issuance date. Upon an event of default, interest accrues at the lesser of 18 % per annum or the maximum rate permitted by law. The notes are convertible at the option of the holder into shares of the Company\u2019s common stock at an initial conversion price of $ 12.00 per share, subject to customary anti-...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1468929/000149315226051902/form10-q.htm",
-    "sha256_proof": "36761a08a18c6593aa35d94f5c8cd4130d241b8310c2d06e9ad5a94a38ab4ff4"
-  },
-  {
-    "detected_utc": "2026-11-16T12:00:01.515352+00:00",
-    "score": 100,
-    "company": "American Picture House Corp",
-    "ticker": "APHP",
-    "exchange": "OTC",
-    "industry": "Services-Amusement & Recreation Services",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-051890",
-    "triggers": [
-      "forbearance",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...s payment by that date of the prior promissory note in full ($ 86,581.63 , consisting of $ 85,204.35 of principal and interest through November 20, 2026) and a forbearance fee of $ 27,500 , a total of $ 114,081.63 . The January 20, 2026 note ($ 172,500 of principal and $ 17,250 of accrued interest) remains outstanding; its payment is not a condition of the standstill. If the payment is not received by November 20, 2026, Labrys has state...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1771995/000149315226051890/form10-q.htm",
-    "sha256_proof": "d2de1df7efa7921d838aef70888778b5c5780bcf11b6fc7a5e200aa8eff20175"
   }
 ]
