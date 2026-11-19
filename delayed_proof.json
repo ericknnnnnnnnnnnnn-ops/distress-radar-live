@@ -1,5 +1,44 @@
 [
   {
+    "detected_utc": "2026-11-18T11:54:42.983120+00:00",
+    "score": 100,
+    "company": "LIBERTY STAR URANIUM & METALS CORP.",
+    "ticker": "LBSR",
+    "exchange": "OTC",
+    "industry": "Metal Mining",
+    "form": "8-K",
+    "file_date": "2026-11-18",
+    "accession": "0001493152-26-052960",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...mon Stock in accordance with the terms and conditions of this Note. If, at any time the Borrower does not maintain the Reserved Amount it will be considered an Event of Default under Section 3.2 of the Note. 1.4 Method of Conversion . (a) Mechanics of Conversion . As set forth in Section 1.1 hereof, from time to time, and at any time during the period beginning on the date which is one hundred eighty (180) days following the date of thi...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1172178/000149315226052960/ex3-91.htm",
+    "sha256_proof": "8153bd5f5611601882355840c265e5962d063b93a2843ec7e7be512762d96e4e"
+  },
+  {
+    "detected_utc": "2026-11-18T11:54:44.315447+00:00",
+    "score": 100,
+    "company": "ACCENDRA HEALTH INC/VA/",
+    "ticker": "ACH",
+    "exchange": "NYSE",
+    "industry": "Wholesale-Medical, Dental & Hospital Equipment & Supplies",
+    "form": "8-K",
+    "file_date": "2026-11-18",
+    "accession": "0001104659-26-129254",
+    "triggers": [
+      "event of default",
+      "delisting"
+    ],
+    "quote": "...ll not affect the Company\u2019s business operations or its U.S. Securities and Exchange Commission reporting obligations, and it does not conflict with or cause an event of default under any of the Company\u2019s material debt or other agreements. \u200b \u201cWe are focused on taking the necessary steps and implementing decisive measures to support our turnaround and best position the Company for long-term growth and success,\u201d said Kenny Gardner-Smith, P...",
+    "url": "https://www.sec.gov/Archives/edgar/data/75252/000110465926129254/ach-ex99d1.htm",
+    "sha256_proof": "3499c28448104d4d145aa30000f71b1667af50ecbdd07c2796539216cf608e2f"
+  },
+  {
     "detected_utc": "2026-11-17T21:47:12.513893+00:00",
     "score": 100,
     "company": "MERCER INTERNATIONAL INC.",
@@ -757,43 +796,5 @@
     "quote": "... satisfaction of the remaining conditions, which are tested at the scheduled maturity date in January 2027 and consist of the absence of a potential default or event of default, the absence of material unrepaired casualty damage to or condemnation of the Tarzana facility, the deposit of any additional reserve amounts reasonably required by Lender, and payment of Lender's costs. The 2024 Loan may be prepaid in whole but not in part. Ther...",
     "url": "https://www.sec.gov/Archives/edgar/data/1789769/000178976926000067/til-20260930.htm",
     "sha256_proof": "29db5c7b0c1b323e6a162799be256359331150e6ad73dbbe8125c397ce917516"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:20.838873+00:00",
-    "score": 100,
-    "company": "Barrel Energy Inc.",
-    "ticker": "BRLL",
-    "exchange": "OTC",
-    "industry": "Crude Petroleum & Natural Gas",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001477932-26-006973",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...rice of the Pre-Funded Warrant is $ 0.0001 per share, subject to adjustment. If the Company timely repays all obligations under the Note in full and no uncured Event of Default has occurred, the Investor is required, within ten calendar days after repayment, to return to the Company for cancellation 34,860,348 shares of common stock and the entire Pre-Funded Warrant, leaving 10,000,000 shares of common stock retained by the Investor und...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226006973/brll_10q.htm",
-    "sha256_proof": "898e9bb832a95dcbbd850dc5e2e7017511c333c08470ed2dd01e4c346b0af9bd"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:21.580090+00:00",
-    "score": 100,
-    "company": "TerraVolt Holdings, Inc.",
-    "ticker": "GEDC",
-    "exchange": "OTC",
-    "industry": "Real Estate Investment Trusts",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-052029",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...turity, is prepayable in whole or in part at any time without penalty or premium, and bears interest at the rate of 12 % per annum during the continuance of an event of default. The Warrant was determined to be equity-classified. The Company allocated the proceeds between the Note and the 6,000,000 Warrant shares based on their relative fair values, resulting in approximately $ 2,166,000 recorded as additional paid-in capital and as a d...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1174891/000149315226052029/form10-q.htm",
-    "sha256_proof": "a9688eba5ff192b409cba2b84c2bf87fdaf6cb3e30f753b87bcc0e2bdb00012e"
   }
 ]
