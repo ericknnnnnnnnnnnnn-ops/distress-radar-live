@@ -1,5 +1,46 @@
 [
   {
+    "detected_utc": "2026-11-18T21:37:59.632875+00:00",
+    "score": 100,
+    "company": "Vision Marine Technologies Inc.",
+    "ticker": "VMAR",
+    "exchange": "Nasdaq",
+    "industry": "Ship & Boat Building & Repairing",
+    "form": "10-K",
+    "file_date": "2026-11-18",
+    "accession": "0001104659-26-129700",
+    "triggers": [
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "... under our floor plan facilities. At the time of the Nautical Ventures acquisition, certain floor plan facilities were subject to technical defaults and lender forbearance arrangements arising from historical covenant compliance issues, including changes in ownership and debt service coverage requirements. In connection with the acquisition, certain lenders consented to the change of ownership and entered into forbearance agreements. Th...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1813783/000110465926129700/vmar-20260831x10k.htm",
+    "sha256_proof": "d7ac6da46b50e9d289399885117d7f4761fec7ee52bd60a43ad6a27ecaee7934"
+  },
+  {
+    "detected_utc": "2026-11-18T21:38:00.110196+00:00",
+    "score": 100,
+    "company": "AZIO AI HOLDINGS, INC.",
+    "ticker": "AZIO",
+    "exchange": "Nasdaq",
+    "industry": "Motor Vehicle Parts & Accessories",
+    "form": "10-Q",
+    "file_date": "2026-11-18",
+    "accession": "0001437749-26-037564",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "acceleration"
+    ],
+    "quote": "...s accrue interest on the outstanding principal balance at an annual rate equal to 0 %, which would increase to an annual rate of 18 % upon the occurrence of an Event of Default (as defined in the Promissory Notes) or a Registration Event (as defined in the Promissory Notes) for so long as such event of default remained uncured. Prior to the Company\u2019s entry into the Supplemental Agreement (as defined below), the Promissory Notes were ini...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1563568/000143774926037564/adom20260930c_10q.htm",
+    "sha256_proof": "01bcb057703f405c75f28175fda043d801eaf784e64fb2b810c453affd637817"
+  },
+  {
     "detected_utc": "2026-11-18T11:54:42.983120+00:00",
     "score": 100,
     "company": "LIBERTY STAR URANIUM & METALS CORP.",
@@ -752,47 +793,5 @@
     "quote": "...Day period. 26 14. VOTING RIGHTS . The Holder shall have no voting rights as the holder of this Note, except as required by law (including, without limitation, Chapter 78 of the Nevada Revised Statute) and as expressly provided in this Note. 15. COVENANTS . Until all of the Notes have been converted, redeemed or otherwise satisfied in accordance with their terms: (a) Rank . All payments due under this Note (a) shall rank pari passu with...",
     "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/ipower_ex1001.htm",
     "sha256_proof": "08111e11b948246b834c4e330e1ee90d541ee8a4335d2be8a667437da10fd0af"
-  },
-  {
-    "detected_utc": "2026-11-16T16:48:33.996989+00:00",
-    "score": 100,
-    "company": "American Clean Resources Group, Inc.",
-    "ticker": "ACRG",
-    "exchange": "OTC",
-    "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001213900-26-120297",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "waiver",
-      "material weakness"
-    ],
-    "quote": "...ult interest (calculated at 15 % per annum, retroactive to the original default dates) upon the occurrence of a Springing Default. As of September 30, 2026, no event of default or Springing Default existed under the LaunchIT Note, as amended, and the Company was current on all obligations thereunder. On May 19, 2026, ACRG and LaunchIT amended the existing obligations arising from the November 2025 SWIS LLC rescission. The amendment ackn...",
-    "url": "https://www.sec.gov/Archives/edgar/data/773717/000121390026120297/ea0311708-10q_american.htm",
-    "sha256_proof": "2f530838e61f1efc381ce1f09acc0fb7ff955425a97cce6d8a49f2eb26fbac12"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:19.677366+00:00",
-    "score": 100,
-    "company": "HCW Biologics Inc.",
-    "ticker": "HCWB",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-052055",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "waiver",
-      "material weakness"
-    ],
-    "quote": "...$ 3.4 million in addition to payment of outstanding principal and accrued interest. The agreement contains default provisions, according to which, following an event of default, the Company may be required to distribute the Pledged Collateral to the Purchasers on a pro rata basis based on a $ 10.0 million issuance of Secured Notes, in full satisfaction of the indebtedness evidenced by the Secured Notes. The Pledged Collateral will be he...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226052055/form10-q.htm",
-    "sha256_proof": "572dbcac9a6471ca61efe585f154abecaecfdf15b21554b66248da3e0f39401b"
   }
 ]
