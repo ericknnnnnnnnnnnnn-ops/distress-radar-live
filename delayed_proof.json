@@ -39,6 +39,24 @@
     "sha256_proof": "3499c28448104d4d145aa30000f71b1667af50ecbdd07c2796539216cf608e2f"
   },
   {
+    "detected_utc": "2026-11-18T14:18:47.944698+00:00",
+    "score": 95,
+    "company": "Sadot Group Inc.",
+    "ticker": "SDOT",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Eating & Drinking Places",
+    "form": "8-K",
+    "file_date": "2026-11-18",
+    "accession": "0001731122-26-001461",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "... generated gross profit of approximately $40,000. The Company did not execute any commodity trades during the first or second quarters of 2026. \u00b7 Liquidity and going concern: At September 30, 2026, the Company had cash of approximately $1.3 million and a working capital deficit of approximately $5.7 million. As disclosed in the Form 10-Q, there is substantial doubt about the Company\u2019s ability to continue as a going concern. Financial Re...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001461/e8069_ex99-1.htm",
+    "sha256_proof": "7e01bd6f490693682c93902b2e01cf343bafe9788d59e046bbf510a8a7e1b51a"
+  },
+  {
     "detected_utc": "2026-11-17T21:47:12.513893+00:00",
     "score": 100,
     "company": "MERCER INTERNATIONAL INC.",
@@ -776,25 +794,5 @@
     "quote": "...$ 3.4 million in addition to payment of outstanding principal and accrued interest. The agreement contains default provisions, according to which, following an event of default, the Company may be required to distribute the Pledged Collateral to the Purchasers on a pro rata basis based on a $ 10.0 million issuance of Secured Notes, in full satisfaction of the indebtedness evidenced by the Secured Notes. The Pledged Collateral will be he...",
     "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226052055/form10-q.htm",
     "sha256_proof": "572dbcac9a6471ca61efe585f154abecaecfdf15b21554b66248da3e0f39401b"
-  },
-  {
-    "detected_utc": "2026-11-16T15:02:20.168573+00:00",
-    "score": 100,
-    "company": "Instil Bio, Inc.",
-    "ticker": "TIL",
-    "exchange": "Nasdaq",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001789769-26-000067",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "acceleration"
-    ],
-    "quote": "... satisfaction of the remaining conditions, which are tested at the scheduled maturity date in January 2027 and consist of the absence of a potential default or event of default, the absence of material unrepaired casualty damage to or condemnation of the Tarzana facility, the deposit of any additional reserve amounts reasonably required by Lender, and payment of Lender's costs. The 2024 Loan may be prepaid in whole but not in part. Ther...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1789769/000178976926000067/til-20260930.htm",
-    "sha256_proof": "29db5c7b0c1b323e6a162799be256359331150e6ad73dbbe8125c397ce917516"
   }
 ]
