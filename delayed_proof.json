@@ -1,5 +1,23 @@
 [
   {
+    "detected_utc": "2026-11-19T22:35:16.149475+00:00",
+    "score": 100,
+    "company": "Passage BIO, Inc.",
+    "ticker": "PASG",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "8-K",
+    "file_date": "2026-11-19",
+    "accession": "0001140361-26-044947",
+    "triggers": [
+      "event of default",
+      "going concern"
+    ],
+    "quote": "...alue assuming conversion into Series B preferred stock. The conversion price is $2.0880 per share for a public company-related event, certain corporate events, event of default, or maturity-related conversion, and 80% of the applicable cash price per share in a Qualified or non-Qualified Financing. See the Company\u2019s audited financial statements for the year ended December 31, 2025 for a complete description of the 2025 Notes conversion ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1787297/000114036126044947/ef20085976_ex99-1.htm",
+    "sha256_proof": "94dc9def55e85539137aa0db1fb16052888ead75b041fdb29b055314e5295376"
+  },
+  {
     "detected_utc": "2026-11-19T21:44:15.381052+00:00",
     "score": 100,
     "company": "Thryv Holdings, Inc.",
@@ -767,25 +785,5 @@
     "quote": "...tantially all of certain outstanding related-party indebtedness for preferred stock by November 22, 2026, with failure to complete the exchange constituting an event of default. The financing is secured by substantially all of the Company\u2019s assets. See Note 12 \u2013 Subsequent Events for additional information. Management intends to seek additional debt or equity financing and pursue opportunities to generate revenue from its AI and softwar...",
     "url": "https://www.sec.gov/Archives/edgar/data/1832161/000149315226052265/form10-q.htm",
     "sha256_proof": "a00aeb25a1211938c2f66cb9c51eb0fc2216db28fc87677a538b5fb10f574e16"
-  },
-  {
-    "detected_utc": "2026-11-16T20:44:20.461561+00:00",
-    "score": 100,
-    "company": "Veritone, Inc.",
-    "ticker": "VERI",
-    "exchange": "Nasdaq",
-    "industry": "Services-Computer Processing & Data Preparation",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001615165-26-000010",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...onvertible Notes. The Indenture includes a prohibition on incurring additional debt as well as other customary covenants and customary events of default. If an event of default involving bankruptcy, insolvency or reorganization events with respect to us occurs, then the principal amount of, and all accrued and unpaid interest on, all of the New Convertible Notes then outstanding will immediately become due and payable without any furthe...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000010/veri-20260930.htm",
-    "sha256_proof": "71fa8e98d5e9a5270d5f0058a40993f1688761a178f5f8aa8c7a0c691195af72"
   }
 ]
