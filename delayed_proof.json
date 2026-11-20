@@ -1,5 +1,41 @@
 [
   {
+    "detected_utc": "2026-11-19T14:26:38.847110+00:00",
+    "score": 100,
+    "company": "Game Your Game Inc.",
+    "ticker": "GYGY",
+    "exchange": "Nasdaq",
+    "industry": "Services-Prepackaged Software",
+    "form": "8-K",
+    "file_date": "2026-11-19",
+    "accession": "0001213900-26-122040",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...ted party, for accounting and other support services; the risk of product defects, returns, warranty claims and negative customer reviews; the occurrence of an Event of Default under the Certificate of Designation governing the Series A Convertible Preferred Stock and the resulting increase in Stated Value and dilution to holders of the Company\u2019s common stock; substantial potential dilution from conversion of the Series A Convertible Pr...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026122040/ea031287901ex99-1.htm",
+    "sha256_proof": "f96ba4e1d429356691711251eacdf153f3a31bbc3b2b08298e17a961823162dc"
+  },
+  {
+    "detected_utc": "2026-11-19T14:26:40.807963+00:00",
+    "score": 70,
+    "company": "Beeline Holdings, Inc.",
+    "ticker": "BLNE",
+    "exchange": "Nasdaq",
+    "industry": "Mortgage Bankers & Loan Correspondents",
+    "form": "8-K",
+    "file_date": "2026-11-19",
+    "accession": "0001493152-26-053181",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...vidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion. Substantial Doubt About the Company\u2019s Ability to Continue as a Going Concern The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has experienced negative cash flows from operations since inception and has relied on...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226053181/ex99-1.htm",
+    "sha256_proof": "6af0124aaa73116d17f194865ab1167fecc46960cce2808006bc21067a3f0c22"
+  },
+  {
     "detected_utc": "2026-11-18T21:37:59.632875+00:00",
     "score": 100,
     "company": "Vision Marine Technologies Inc.",
@@ -753,45 +789,5 @@
     "quote": "...ts of $ 13,701.76 on the fifteenth day of each month thereafter (a total payback to 1800 of $ 352,331 ). Upon the occurrence and during the continuation of any Event of Default, the 1800 Note shall become immediately due and payable and the Company will be obligated to pay to 1800 Diagonal, in full satisfaction of its obligations, an amount equal to 150% times the sum of (w) the then outstanding principal amount of the 1800 Note plus (x...",
     "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226052195/form10-q.htm",
     "sha256_proof": "a2ad354b352767da4e97ff551d853594ce3fe8a49b40e6d67636b58df30f75f2"
-  },
-  {
-    "detected_utc": "2026-11-16T17:25:54.590234+00:00",
-    "score": 100,
-    "company": "Childrens Place, Inc.",
-    "ticker": "PLCE",
-    "exchange": "Nasdaq",
-    "industry": "Retail-Family Clothing Stores",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001104659-26-127669",
-    "triggers": [
-      "chapter 11",
-      "acceleration",
-      "delisting"
-    ],
-    "quote": "....01. Entry into a Material Definitive Agreement. On November 8, 2026, The Children\u2019s Place, Inc. (the \u201cCompany\u201d) and certain subsidiaries (the \u201cDebtors\u201d) filed Chapter 11 petitions in the U.S. Bankruptcy Court for the District of New Jersey (the \u201cBankruptcy Court\u201d), jointly administered as In re The Children\u2019s Place, Inc., et al. , Case No. 26-22682 (SLM). On November 10, 2026, the Bankruptcy Court entered an interim order authorizing d...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926127669/tm2629801d1_8k.htm",
-    "sha256_proof": "6dbc2a2e57951be5a664f6b287dab085a282e9d767e03bcbc5bca6c4d28622bf"
-  },
-  {
-    "detected_utc": "2026-11-16T17:26:04.591912+00:00",
-    "score": 100,
-    "company": "iPower Inc.",
-    "ticker": "IPW",
-    "exchange": "Nasdaq",
-    "industry": "Retail-Building Materials, Hardware, Garden Supply",
-    "form": "8-K",
-    "file_date": "2026-11-16",
-    "accession": "0001683168-26-008776",
-    "triggers": [
-      "chapter 7",
-      "event of default",
-      "waiver",
-      "acceleration",
-      "delisting"
-    ],
-    "quote": "...Day period. 26 14. VOTING RIGHTS . The Holder shall have no voting rights as the holder of this Note, except as required by law (including, without limitation, Chapter 78 of the Nevada Revised Statute) and as expressly provided in this Note. 15. COVENANTS . Until all of the Notes have been converted, redeemed or otherwise satisfied in accordance with their terms: (a) Rank . All payments due under this Note (a) shall rank pari passu with...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/ipower_ex1001.htm",
-    "sha256_proof": "08111e11b948246b834c4e330e1ee90d541ee8a4335d2be8a667437da10fd0af"
   }
 ]
