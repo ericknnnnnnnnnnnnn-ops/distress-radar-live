@@ -1,5 +1,25 @@
 [
   {
+    "detected_utc": "2026-11-19T21:44:15.381052+00:00",
+    "score": 100,
+    "company": "Thryv Holdings, Inc.",
+    "ticker": "THRY",
+    "exchange": "Nasdaq",
+    "industry": "Services-Advertising",
+    "form": "8-K",
+    "file_date": "2026-11-19",
+    "accession": "0001556739-26-000055",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...es of any failure to comply with the financial covenants under our debt agreements, Exhibit 99.1 including the possibility that such failure could result in an event of default, acceleration of amounts outstanding under our debt agreements, or other adverse effects on our liquidity and financial condition; the potential loss of one or more key employees or our inability to attract and to retain highly skilled employees; our ability to m...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1556739/000155673926000055/a2027guidancepr.htm",
+    "sha256_proof": "c166bbb9e852655804462915d71ac8d91e1d32c53cf27c25599dff768ef2a9ad"
+  },
+  {
     "detected_utc": "2026-11-19T14:26:38.847110+00:00",
     "score": 100,
     "company": "Game Your Game Inc.",
@@ -767,24 +787,5 @@
     "quote": "...onvertible Notes. The Indenture includes a prohibition on incurring additional debt as well as other customary covenants and customary events of default. If an event of default involving bankruptcy, insolvency or reorganization events with respect to us occurs, then the principal amount of, and all accrued and unpaid interest on, all of the New Convertible Notes then outstanding will immediately become due and payable without any furthe...",
     "url": "https://www.sec.gov/Archives/edgar/data/1615165/000161516526000010/veri-20260930.htm",
     "sha256_proof": "71fa8e98d5e9a5270d5f0058a40993f1688761a178f5f8aa8c7a0c691195af72"
-  },
-  {
-    "detected_utc": "2026-11-16T19:51:06.516615+00:00",
-    "score": 100,
-    "company": "JBAAM Acquisition Corp II",
-    "ticker": "UNLISTED",
-    "exchange": "OTC/Private",
-    "industry": "Blank Checks",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001731122-26-001445",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ation with a private company or reverse takeover transaction or other transaction after which the Company would cease to be a shell company. In the event of an Event of Default, the entire note shall automatically become due and payable (the \u201cDefault Date\u201d) and starting from five (5) days after the Default Date, the interest rate on the note shall accrue at the rate of eighteen percent (18%) per annum. As of September 30, 2026, the amou...",
-    "url": "https://www.sec.gov/Archives/edgar/data/2133917/000173112226001445/e8057_10-q.htm",
-    "sha256_proof": "66fd8193af4a240cd42ee593f549e3931028800e871ee05602439fbd851ca38a"
   }
 ]
