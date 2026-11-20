@@ -36,6 +36,23 @@
     "sha256_proof": "6af0124aaa73116d17f194865ab1167fecc46960cce2808006bc21067a3f0c22"
   },
   {
+    "detected_utc": "2026-11-19T16:34:32.730359+00:00",
+    "score": 50,
+    "company": "HUGOTON ROYALTY TRUST",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Oil Royalty Traders",
+    "form": "8-K",
+    "file_date": "2026-11-19",
+    "accession": "0001193125-26-467998",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...tributions since July 2023, and a reduction in the Trust\u2019s expense reserve. These conditions raise substantial doubt about the Trust\u2019s ability to continue as a going concern as the Trust does not have sufficient cash to meet its obligations during the one-year period after the dates that the year-end financial statements are issued. Factors attributable to the cash shortage are primarily lower oil and natural gas prices, development cos...",
+    "url": "https://www.sec.gov/Archives/edgar/data/862022/000119312526467998/hgtxu-ex99_1.htm",
+    "sha256_proof": "3ce8e390026961684ae2726442651429d2ca843cfadb4ec82b00105215294ce1"
+  },
+  {
     "detected_utc": "2026-11-18T21:37:59.632875+00:00",
     "score": 100,
     "company": "Vision Marine Technologies Inc.",
@@ -769,25 +786,5 @@
     "quote": "...ation with a private company or reverse takeover transaction or other transaction after which the Company would cease to be a shell company. In the event of an Event of Default, the entire note shall automatically become due and payable (the \u201cDefault Date\u201d) and starting from five (5) days after the Default Date, the interest rate on the note shall accrue at the rate of eighteen percent (18%) per annum. As of September 30, 2026, the amou...",
     "url": "https://www.sec.gov/Archives/edgar/data/2133917/000173112226001445/e8057_10-q.htm",
     "sha256_proof": "66fd8193af4a240cd42ee593f549e3931028800e871ee05602439fbd851ca38a"
-  },
-  {
-    "detected_utc": "2026-11-16T18:49:25.196809+00:00",
-    "score": 100,
-    "company": "AMERICAN REBEL HOLDINGS INC",
-    "ticker": "AREB",
-    "exchange": "OTC",
-    "industry": "Miscellaneous Fabricated Metal Products",
-    "form": "10-Q",
-    "file_date": "2026-11-16",
-    "accession": "0001493152-26-052195",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "delisting"
-    ],
-    "quote": "...ts of $ 13,701.76 on the fifteenth day of each month thereafter (a total payback to 1800 of $ 352,331 ). Upon the occurrence and during the continuation of any Event of Default, the 1800 Note shall become immediately due and payable and the Company will be obligated to pay to 1800 Diagonal, in full satisfaction of its obligations, an amount equal to 150% times the sum of (w) the then outstanding principal amount of the 1800 Note plus (x...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226052195/form10-q.htm",
-    "sha256_proof": "a2ad354b352767da4e97ff551d853594ce3fe8a49b40e6d67636b58df30f75f2"
   }
 ]
