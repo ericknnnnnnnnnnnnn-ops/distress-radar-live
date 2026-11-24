@@ -1,5 +1,63 @@
 [
   {
+    "detected_utc": "2026-11-23T21:46:46.810099+00:00",
+    "score": 100,
+    "company": "zSpace, Inc.",
+    "ticker": "ZSPC",
+    "exchange": "OTC",
+    "industry": "Services-Prepackaged Software",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-131065",
+    "triggers": [
+      "event of default",
+      "forbearance"
+    ],
+    "quote": "...his Agreement and until the Creditor Facility has been repaid in full, Itria shall not, without the prior written consent of Creditor, (i) declare any default, event of default or similar event pursuant to the Itria Loan Documents, or (ii) amend, supplement, modify, restate or replace the Itria Loan Documents or enter into any new loan agreement; provided, however, that upon termination of the Standstill (defined below), if the event of...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637147/000110465926131065/tm2628391d1_ex10-5.htm",
+    "sha256_proof": "098325d1e61e33eff3cf9fa8e438516249a87ed6cdf6edd2bba0989c37b3770d"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:49.220611+00:00",
+    "score": 100,
+    "company": "Exyn Technologies, Inc.",
+    "ticker": "EXYN",
+    "exchange": "Nasdaq",
+    "industry": "Services-Prepackaged Software",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-131113",
+    "triggers": [
+      "event of default",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "...mbedded derivatives related to these terms. The Company determined that the variable-share settlement features, the change of control repayment feature and the event of default acceleration feature were not clearly and closely related to the debt host and bifurcated them as a single compound derivative liability measured at fair value, with changes in fair value recognized in non-operating income (expense) on the condensed consolidated ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1960355/000110465926131113/exyn-20260930x10q.htm",
+    "sha256_proof": "68da423d4a59d0344913a9187cb43a4a103f110e2b7b71f7ba22288b4261c56d"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:49.824326+00:00",
+    "score": 100,
+    "company": "Longevity Health Holdings, Inc.",
+    "ticker": "XAGE",
+    "exchange": "OTC",
+    "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001437749-26-038069",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": "... 104.10 % \u200b 100.54 % \u200b 93.66 % Risk-free interest rate \u200b 4.67 % \u200b 4.25 % \u200b 4.06 % Credit-adjusted discount rate \u200b 16.72 % \u200b 14.81 % \u200b 14.50 % Probability of an event of default (holder converts) \u200b 100 % \u200b 50 % \u200b 50 % Probability of raising $15 million in capital at market (fixed conversion price resets) \u200b 50 % \u200b 50 % \u200b 50 % Probability of a change in control event (holder converts) (12/31/26 / 03/31/27 / 06/30/27) \u200b 15%/30%/40% \u200b \u200b 25%/...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1842939/000143774926038069/xage20260930_10q.htm",
+    "sha256_proof": "5978b086022c709066d3e0386956052146580ce918f0dfdfbc8ff5a6df38e04c"
+  },
+  {
     "detected_utc": "2026-11-23T20:52:10.075891+00:00",
     "score": 100,
     "company": "Cosmos Health Inc.",
@@ -209,6 +267,42 @@
     "sha256_proof": "0ca3ce2c27c489538c000cf27601f47dce70e399f773b95fff5beed9a74f1206"
   },
   {
+    "detected_utc": "2026-11-23T21:46:51.014156+00:00",
+    "score": 80,
+    "company": "Shreya Acquisition Group",
+    "ticker": "SAGU",
+    "exchange": "NYSE",
+    "industry": "Blank Checks",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001829126-26-012748",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...take priority over the claims of the Public Shareholders. In the event of liquidation and subsequent dissolution, the rights will expire and will be worthless. Going Concern Consideration In connection with the Company\u2019s assessment of going concern considerations in accordance with Financial Accounting Standards Board (\u201cFASB\u201d) Accounting Standards Codification (\u201cASC\u201d) 205-40, \u201cPresentation of Financial Statements - Going Concern,\u201d manag...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2083452/000182912626012748/shreyaacq_10q.htm",
+    "sha256_proof": "4205764424b44f23b9c6493d33ea4cf1d47d2c51558defd482fc918678e8bb27"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:51.504936+00:00",
+    "score": 80,
+    "company": "DeFi Capital Markets, Inc.",
+    "ticker": "DCM",
+    "exchange": "NYSE",
+    "industry": "Wholesale-Electronic Parts & Equipment, NEC",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-131101",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ances of convertible debt and, in the prior fiscal year, through the proceeds of the sale of assets to Feit Electric Company, Inc. Our ability to continue as a going concern is dependent on our ability to generate cash flows from operations and find additional sources of funding through either equity offerings, debt financings, or a combination of any such transactions. As of September 30, 2026, Universal DeFi had a remaining commitment...",
+    "url": "https://www.sec.gov/Archives/edgar/data/102109/000110465926131101/dcm-20260930x10q.htm",
+    "sha256_proof": "042afcf5f5d002af9b94a63c2958aa0e5435056c45347da8d8c0e6293913d7ad"
+  },
+  {
     "detected_utc": "2026-11-23T19:58:04.884442+00:00",
     "score": 80,
     "company": "Spark I Acquisition Corp",
@@ -246,6 +340,74 @@
     "sha256_proof": "604b4ad4751f7db321068d2f1a6e6bddc8fc1e7c2029d54b9b6d66b90a583ada"
   },
   {
+    "detected_utc": "2026-11-23T21:46:47.246445+00:00",
+    "score": 70,
+    "company": "Sky Quarry Inc.",
+    "ticker": "SKYQ",
+    "exchange": "Nasdaq",
+    "industry": "Hazardous Waste Management",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001096906-26-001880",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...any regional price premium, the Company\u2019s ability to obtain sufficient working capital and additional financing, manage existing indebtedness and continue as a going concern, as well as commodity price volatility, regulatory requirements and other risks described under \u201cRisk Factors\u201d in the Company\u2019s most recent Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q and other filings with the U.S. Securities and Exchange ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1812447/000109690626001880/skyq_ex99z1.htm",
+    "sha256_proof": "9001429c255e28d9bd6f4d1f0693b633caf02e2ed889f5f30a3100c692a9176a"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:47.704673+00:00",
+    "score": 70,
+    "company": "FF EAI Robotics Ecosystem Inc.",
+    "ticker": "FFR",
+    "exchange": "Nasdaq",
+    "industry": "Finance Services",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053754",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...rate and operate the acquired business, commercialize its robotics technologies, achieve its business objectives, obtain additional financing and continue as a going concern, maintain compliance with Nasdaq listing requirements, compete effectively, manage its liquidity position and execute its strategic transition. Additional risks and uncertainties are described in FFR\u2019s filings with the U.S. Securities and Exchange Commission, includ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226053754/ex99-1.htm",
+    "sha256_proof": "f7728ed075c8748c7b70503c7a21141a33c4550b9c858436ef522eb7cf44b548"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:48.072182+00:00",
+    "score": 70,
+    "company": "Citius Pharmaceuticals, Inc.",
+    "ticker": "CTXR",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123210",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026123210/ea031250201ex99-1.htm",
+    "sha256_proof": "4af95096258db81888c8133c0c6a34792111bbd09b682dd627cf7b661392487b"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:48.485612+00:00",
+    "score": 70,
+    "company": "CITIUS ONCOLOGY, INC.",
+    "ticker": "CTOR",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123209",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/ea031250301ex99-1.htm",
+    "sha256_proof": "68215bf430fab9cfd84fa839a9a7a6a328c29d57eafd3a0cd4054cf7a09dd86f"
+  },
+  {
     "detected_utc": "2026-11-23T14:32:39.195862+00:00",
     "score": 70,
     "company": "Imunon, Inc.",
@@ -278,6 +440,42 @@
     "quote": "...our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; our ability to maintain the listing of our common stock on the NYSE American LLC; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; t...",
     "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/form8-k.htm",
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:50.393668+00:00",
+    "score": 60,
+    "company": "Revium Rx.",
+    "ticker": "RVRC",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123226",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...hoeae, as well as other liposomal therapies intended to improve the efficacy and tolerability of treatments for oncology and infectious disease indications. b. Going concern and management plans: The Company is in the research and development (R&D) stage and, as such, has not generated any revenue from its current operations. The Company\u2019s activities are primarily funded through investment. As of September 30, 2026, the Company reported...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839140/000121390026123226/ea0313120-10q_revium.htm",
+    "sha256_proof": "f6eb3d7b5204caf8caf37b846a242ec0ac48f175ffc0792085798b456f54a1b0"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:52.024167+00:00",
+    "score": 60,
+    "company": "Revium Rx.",
+    "ticker": "RVRC",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q/A",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123155",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...hoeae, as well as other liposomal therapies intended to improve the efficacy and tolerability of treatments for oncology and infectious disease indications. b. Going concern and management plans: The Company is in the research and development (R&D) stage and, as such, has not generated any revenue from its current operations. The Company\u2019s activities are primarily funded through investment. As of June 30, 2026, the Company reported an a...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839140/000121390026123155/ea0313122-10qa1_revium.htm",
+    "sha256_proof": "cb6c764124cf5b1f48578d1dd06fa137e6dc0441a0528704dda2257a97d9625f"
   },
   {
     "detected_utc": "2026-11-23T20:52:08.421175+00:00",
@@ -368,6 +566,23 @@
     "quote": "...d but not yet adopted accounting pronouncements will have a material impact on the Company\u2019s financial position, results of operations, or cash flows. NOTE 3 \u2013 GOING CONCERN The Company\u2019s financial statements have been prepared on a going concern basis, which contemplates the realization of assets and settlement of liabilities and commitments in the normal course of business. The Company had an accumulated deficit of $ 2,220,173 , and w...",
     "url": "https://www.sec.gov/Archives/edgar/data/1672571/000149315226053596/form10-q.htm",
     "sha256_proof": "76bb0f412aaa6f753cdb0f4f6e8e8978f9c0a7bf1fc47669130a90084399ac0f"
+  },
+  {
+    "detected_utc": "2026-11-23T21:46:52.732432+00:00",
+    "score": 55,
+    "company": "Valion Bio, Inc.",
+    "ticker": "VBIO",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001437749-26-038066",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...e of the results that may be expected for the fiscal year ending December 31, 2026 . The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. The accompanying condensed consolidated financial statements do not include any adjustment that might be necessary if the Company ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926038066/vbio20260930_10q.htm",
+    "sha256_proof": "82329760c955a31ea2c6b1c6af30db44724ae87b7012736f3a52b51a30f567ff"
   },
   {
     "detected_utc": "2026-11-23T19:58:00.663810+00:00",
@@ -516,235 +731,5 @@
     "quote": "...missory note with a principal amount and cash proceeds of $ 500,000 . The promissory note accrued interest at an annual rate of 12 %. Upon the occurrence of an event of default, the promissory note accrued default interest at an annual rate of 15 %. The promissory note matured on April 5, 2022. For the three months ended September 30, 2026 and 2025, the Company recorded interest expense of $ 18,904 and $ 34,028 , respectively, in the co...",
     "url": "https://www.sec.gov/Archives/edgar/data/1318268/000175392626002217/g086038_10q.htm",
     "sha256_proof": "85af3f1f73002f06a91b43924899e964a0c30a893e7837fb4aa652e64b938b00"
-  },
-  {
-    "detected_utc": "2026-11-20T23:15:32.744923+00:00",
-    "score": 100,
-    "company": "SPECIFICITY, INC.",
-    "ticker": "SPTY",
-    "exchange": "OTC",
-    "industry": "Services-Advertising Agencies",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001520138-26-000513",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...actor representing interest expense under this arrangement was approximately 40.1% (including underwriting fees, origination fees and financing spread). In the event of default, the Company may be required to pay a fixed default penalty of $2,500 or up to 25% of the unpaid balance to cover legal fees required to pursue collection in the event of default. During the year ended December 31, 2025, the Company partially repaid this funder l...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1840102/000152013826000513/spty-20260930_10q.htm",
-    "sha256_proof": "4b4666de71cdba357ccdd6a4a04e27cfc3238adad6c911fe6c6111c4019fbbb0"
-  },
-  {
-    "detected_utc": "2026-11-20T22:16:26.437775+00:00",
-    "score": 100,
-    "company": "EQUUS TOTAL RETURN, INC.",
-    "ticker": "EQS",
-    "exchange": "NYSE",
-    "industry": "",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001712543-26-000063",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...an In Default\u2014 As of September 30, 2026, our convertible senior note of $2.0 million had matured and remained unpaid. On July 29, 2026, we received a Notice of Event of Default from the lender. Payment on the note was secured by a pledge of our holding of shares and warrants in CitroTech, Inc. (\u201cCitroTech\u201d) as collateral. On October 16, 2026, the lender foreclosed against the collateral and seized our CitroTech shares and warrants in pa...",
-    "url": "https://www.sec.gov/Archives/edgar/data/878932/000171254326000063/f10q_equus09302026.htm",
-    "sha256_proof": "147fb868b49f8d777fe9b553c6386493c6d6429dd6180072571d893650eedc86"
-  },
-  {
-    "detected_utc": "2026-11-20T22:16:26.882961+00:00",
-    "score": 100,
-    "company": "EXICURE, INC.",
-    "ticker": "XCUR",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001193125-26-470486",
-    "triggers": [
-      "event of default",
-      "going concern"
-    ],
-    "quote": "...mand letter and notice of default from Dren Bio Management, Inc. (formerly known as Dren Brio, Inc.) (\u201cDren Bio\u201d) whereby Dren Bio notified the Company that an event of default has occurred under the sublease for failure to make rent payments and related late charges and interest and demanded that the Company immediately pay the past due rent and late charges and interest. On March 3, 2026, the Company received a Three Day Notice to Pay...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1698530/000119312526470486/xcur-20260930.htm",
-    "sha256_proof": "b50694939cbd320ce035c84a11592783971939523011b80dd6885be463e64dad"
-  },
-  {
-    "detected_utc": "2026-11-20T21:23:38.314171+00:00",
-    "score": 100,
-    "company": "VenHub Global, Inc.",
-    "ticker": "VHUB",
-    "exchange": "Nasdaq",
-    "industry": "Misc Industrial & Commercial Machinery & Equipment",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001213900-26-122696",
-    "triggers": [
-      "event of default",
-      "delisting"
-    ],
-    "quote": "... day of each of the three (3) consecutive calendar months thereafter (each, a \u201cFunding Date\u201d). The Holder\u2019s funding obligation for any Tranche is subject to no Event of Default (as defined below) then continuing. The Holder may, by written notice to the Company, suspend funding of any subsequent Tranche if, as of the applicable Funding Date, (a) an Event of Default, or an event that with notice or lapse of time would become an Event of ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026122696/ea031282601ex10-1.htm",
-    "sha256_proof": "cd174a2832fff7e34654fd06b65a62bb3269404ed1049d87028b8483c4edfa76"
-  },
-  {
-    "detected_utc": "2026-11-20T21:23:41.301276+00:00",
-    "score": 100,
-    "company": "GIVBUX, INC.",
-    "ticker": "GBUX",
-    "exchange": "OTC",
-    "industry": "Services-Business Services, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001640334-26-001865",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...s have conversion price at lessor of fixed price of $0.003 or 35% discount to the lowest operative trading market price. \u00b7 Certain notes are convertible in the event of default with conversion price of 102% lowest price. \u00b7 Certain notes are convertible in the event of default \u00b7 Collateral- The Company has pledged 2,775,000 restricted shares of common stock as collateral for repayment of two notes During the nine months ended September 3...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1169138/000164033426001865/gbux_10q.htm",
-    "sha256_proof": "00a4f22a25d61c95a0ab288ba473dd11e99ec4f16a3f62fd98bcba9319f713ca"
-  },
-  {
-    "detected_utc": "2026-11-20T19:33:58.764396+00:00",
-    "score": 100,
-    "company": "Vivakor, Inc.",
-    "ticker": "VIVK",
-    "exchange": "Nasdaq",
-    "industry": "Refuse Systems",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001829126-26-012700",
-    "triggers": [
-      "forbearance",
-      "going concern",
-      "material weakness",
-      "acceleration"
-    ],
-    "quote": "...ultant 30,684 31 814,983 - - - 815,014 Common stock issued - Series A Preferred Stock Dividends 35,789 36 5,583,824 - ( 5,583,860 ) - - Shares issued with debt forbearance agreement - - 1,845 2 842,748 - - - 842,750 Shares issued with debt conversion - - 539,493 539 17,403,344 - - - 17,403,883 Net loss - - - - - - ( 14,957,004 ) - ( 14,957,004 ) June 30, 2026 96,731 $ 97 623,566 $ 624 $ 271,729,489 $ ( 20,000 ) $ ( 224,810,383 ) $ ( 4,1...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626012700/vivakor_10q.htm",
-    "sha256_proof": "8129613a4d1c38706586cea7fefcff8e943c4325fc8a52773e6eae160ce610ab"
-  },
-  {
-    "detected_utc": "2026-11-20T16:26:01.511746+00:00",
-    "score": 100,
-    "company": "HyOrc Corp",
-    "ticker": "HYOR",
-    "exchange": "OTC",
-    "industry": "Services-Engineering Services",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053390",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "waiver",
-      "material weakness"
-    ],
-    "quote": "...of $ 11,000 , maturing September 13, 2026 . The note bears interest at 12 % per annum (20% upon default) and becomes convertible into common stock only upon an event of default, at a conversion price equal to 77% of the lowest traded price of the common stock during the 15 trading days preceding conversion. May 2026 notes. On May 9, 2026, the Company issued two notes, to Monroe Street Capital Partners LP and Lambda Ventures LLC, in the ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226053390/form10-q.htm",
-    "sha256_proof": "aca41944324370c7432ff2e429744bd53531087318e2199e97a5e77f2feb8e5e"
-  },
-  {
-    "detected_utc": "2026-11-20T14:18:26.198125+00:00",
-    "score": 100,
-    "company": "C. H. ROBINSON WORLDWIDE, INC.",
-    "ticker": "CHRW",
-    "exchange": "Nasdaq",
-    "industry": "Arrangement of  Transportation of  Freight & Cargo",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001043277-26-000051",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "going concern",
-      "waiver",
-      "acceleration"
-    ],
-    "quote": "...dvances 29 2.9. Conversion and Continuation of Outstanding Advances; Maximum Number of Interest Periods 30 2.10. Interest Rates 30 2.11. Rates Applicable After Event of Default 31 2.12. Method of Payment 31 2.13. Notes; Evidence of Indebtedness 31 2.14. Telephonic Notices 32 2.15. Interest Payment Dates; Interest and Fee Basis 32 2.16. Notification of Advances, Interest Rates, Prepayments and Commitment Reductions 33 2.17. Lending Insta...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1043277/000104327726000051/exhibit101-delayeddrawterm.htm",
-    "sha256_proof": "0862672db1cb4414453c01fef44e7cb57f5d96784fe21604455642081aa7f6ba"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:52.800693+00:00",
-    "score": 95,
-    "company": "TruGolf Holdings, Inc.",
-    "ticker": "TRUG",
-    "exchange": "Nasdaq",
-    "industry": "Sporting & Athletic Goods, NEC",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053548",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "... 30, 2026, the Company\u2019s recurring losses, negative operating cash flows and working capital deficit raise substantial doubt about its ability to continue as a going concern. Subsequent Events On October 8, 2026, the Company completed its acquisition of Polymath, issuing 257,494 shares of Class A common stock and 136,956 shares of Series C convertible preferred stock to former Polymath shareholders. Conversion of the Series C preferred ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
-    "sha256_proof": "d57eb02957bddcbc1efe007c273f4aa6b19601a7801e033010e2b1eea2d39f4b"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:53.161004+00:00",
-    "score": 95,
-    "company": "Senti Biosciences Holdings, Inc.",
-    "ticker": "SNTI",
-    "exchange": "Nasdaq",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001628280-26-075306",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "... or accounting principles, except that such reports contained an explanatory paragraph regarding substantial doubt about the Company\u2019s ability to continue as a going concern due to the Company\u2019s recurring losses, negative cash flows from operations, and accumulated deficit. During the fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through November 17, 2026, there were (i) no \u201cdisagreements\u201d (as defined i...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026075306/snti-20261117.htm",
-    "sha256_proof": "cd435c04c72c2efc3a78c5d89cea881319b76c4c52700f26f4ffe63f4a881798"
-  },
-  {
-    "detected_utc": "2026-11-20T21:23:37.190763+00:00",
-    "score": 90,
-    "company": "Tempest Therapeutics, Inc.",
-    "ticker": "TPST",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001213900-26-122694",
-    "triggers": [
-      "going concern",
-      "delisting"
-    ],
-    "quote": "... financing to support ongoing operations; the Company\u2019s need for additional capital to fund its planned programs and operations and to continue to operate as a going concern; unexpected safety or efficacy data observed during preclinical or clinical trials; the possibility that results from prior clinical trials and preclinical studies may not necessarily be predictive of future results; past results may not be indicative of future resu...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026122694/ea0313132-8k_tempest.htm",
-    "sha256_proof": "cf320a27a02e2d9c496e5ac6c7dbe27486ed7ba70cda9b629e8132457c9ff37f"
-  },
-  {
-    "detected_utc": "2026-11-20T18:26:52.974491+00:00",
-    "score": 90,
-    "company": "CaliberCos Inc.",
-    "ticker": "CWD",
-    "exchange": "Nasdaq",
-    "industry": "Real Estate",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001627282-26-000090",
-    "triggers": [
-      "going concern",
-      "delisting"
-    ],
-    "quote": "...dance and reaffirmed its Platform Adjusted EBITDA guidance. It no longer provides net operating income guidance. Why do Caliber's financial statements include \"going concern\" language? Because accounting rules require it when there is substantial doubt that a company can cover what it owes as it comes due over the twelve months after its financial statements are issued. In that test, management's plans, such as refinancing debt or raisi...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000090/caliber_investorxfaqv11cle.htm",
-    "sha256_proof": "cfc05aea04d6f400f587c2c432a36d36d218d6456648d60a4ffb786be6834b53"
   }
 ]
