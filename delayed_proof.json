@@ -1,5 +1,87 @@
 [
   {
+    "detected_utc": "2026-11-23T22:47:22.993856+00:00",
+    "score": 100,
+    "company": "Polar Power, Inc.",
+    "ticker": "POLA",
+    "exchange": "Nasdaq",
+    "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053820",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "... first installment of $198, followed by four installments of $49). The note matures on August 30, 2027. The note is convertible into Common Stock only after an Event of Default, at 75% of the lowest trading price during the 10 trading days before conversion, subject to a 4.99% beneficial ownership limitation. Upon an Event of Default, the note becomes payable at 150% of the amount then due (200% in certain cases) and bears default inter...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226053820/form10-q.htm",
+    "sha256_proof": "d0ac00497ab463682a47a6189fbf1e07bd64c34352cfabc339f82eeda80af14b"
+  },
+  {
+    "detected_utc": "2026-11-23T22:47:23.752662+00:00",
+    "score": 100,
+    "company": "KALA BIO, Inc.",
+    "ticker": "KALA",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-131184",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...s, while preserving the Company\u2019s ability to meet its anticipated working capital and operational obligations. 15 Table of Contents The Note includes customary event of default provisions, including, but not limited to, for a breach of any representations and warranties or covenants, any bankruptcy or insolvency proceedings of the Borrower, and the failure of the Borrower to pay, upon 15 days \u2019 written notice of default, any principal a...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1479419/000110465926131184/kala-20260930x10q.htm",
+    "sha256_proof": "ac387cd2168217e72f9b8f5c76151c469dbb30a77499be9c9e16fa99f421de1a"
+  },
+  {
+    "detected_utc": "2026-11-23T22:47:24.531269+00:00",
+    "score": 100,
+    "company": "Local Bounti Corporation/DE",
+    "ticker": "LOCL",
+    "exchange": "NYSE",
+    "industry": "Agricultural Production-Crops",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001628280-26-075561",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...described in Note 6, Debt . In November 2026, the Company was not in compliance with the minimum liquidity covenant, and Cargill Financial waived the resulting event of default. The Company's current operating plan anticipates that it will continue to incur operating losses and negative cash flows from operations in the near term. Based on this operating plan, the Company's cash on hand as of September 30, 2026, together with projected ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075561/locl-20260930.htm",
+    "sha256_proof": "5cd05a400e7ec416744c90b5acc1adaaabbc95b422c1ea2c3dbf85b3e544debc"
+  },
+  {
+    "detected_utc": "2026-11-23T22:47:25.229143+00:00",
+    "score": 100,
+    "company": "CID Holdco, Inc.",
+    "ticker": "DAIC",
+    "exchange": "Nasdaq",
+    "industry": "Services-Computer Integrated Systems Design",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123252",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...ncludes beneficial ownership and conversion limitations, customary events of default, and a provision reducing the conversion price to $ 0.01 per share upon an event of default. The Company may prepay the note at any time. The Company elected to account for the H Capital Note under the fair value option, with changes in the fair value of the note recognized in earnings each reporting period through settlement. The fair value of the H Ca...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026123252/ea0312526-10q_cidholdco.htm",
+    "sha256_proof": "fdab08ace52403a4b57022651e04f66cdb35c10bf277e306bf97cb1a66f7da83"
+  },
+  {
     "detected_utc": "2026-11-23T21:46:46.810099+00:00",
     "score": 100,
     "company": "zSpace, Inc.",
@@ -442,6 +524,42 @@
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
   },
   {
+    "detected_utc": "2026-11-23T22:47:25.932919+00:00",
+    "score": 60,
+    "company": "OZ VISION INC.",
+    "ticker": "OZVN",
+    "exchange": "OTC",
+    "industry": "Transportation Services",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053800",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ith the acquisition of Jebour Two Limited were held by, or received from, Final Fight Championship, Inc., an entity of which Mr. Zovko is a director. NOTE 10 - Going Concern The accompanying financial statements and notes have been prepared assuming that the Company will continue as a going concern. For the three months period ended September 30, 2026, the Company had a cash balance of $ 71 , a net loss of $ 4,317 , negative working cap...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053800/form10-q.htm",
+    "sha256_proof": "0a0bff4f61447f2deae5c0d33315f4f7f68b9672051d787deec2d302e349b89e"
+  },
+  {
+    "detected_utc": "2026-11-23T22:47:26.666163+00:00",
+    "score": 60,
+    "company": "Invech Holdings, Inc.",
+    "ticker": "IVHI",
+    "exchange": "OTC",
+    "industry": "Services-Management Consulting Services",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001683168-26-009078",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...re any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. NOTE 3 \u2013 GOING CONCERN The accompanying unaudited financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has no revenue and has an accumulated deficit ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826009078/invech_i10q-093026.htm",
+    "sha256_proof": "7b66ee33837caa6ce555c7943f4951f541a60df9bc31d535d0dbc239984461b8"
+  },
+  {
     "detected_utc": "2026-11-23T21:46:50.393668+00:00",
     "score": 60,
     "company": "Revium Rx.",
@@ -617,119 +735,5 @@
     "quote": "...ny today announced its intention to delist its common stock of US $1.00 from the LSE with effect from 8:00 a.m. (London time) on December 22, 2026 (the \u201cLondon Delisting\u201d). International Paper shares will continue to be listed and admitted to trading on the NYSE under the symbol \u201cIP\u201d following the London Delisting, and, once the London Delisting takes effect, International Paper shares will only be listed on the NYSE. Following the sepa...",
     "url": "https://www.sec.gov/Archives/edgar/data/51434/000162828026075360/exhibit991-8xk.htm",
     "sha256_proof": "8197680e383b1b90df4fd8015c5aa4332eb79abe33088a5adeb63e5d606ded9e"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:54.800395+00:00",
-    "score": 50,
-    "company": "Artificial Intelligence Technology Solutions Inc.",
-    "ticker": "AITX",
-    "exchange": "OTC",
-    "industry": "Services-Prepackaged Software",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053603",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...itments; the availability and terms of financing and its potential dilutive effects; the Company\u2019s history of operating losses and its ability to continue as a going concern; and the other risks described in the Company\u2019s most recent annual and quarterly reports, any amendments to those reports, and subsequent filings with the Securities and Exchange Commission, available at www.sec.gov . The proof of concept is an evaluation. Its initi...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226053603/ex99-1.htm",
-    "sha256_proof": "05833b7d888c9dd2ce648a0217badde3ef682ddefe7d3b220072bb7dd1729fa1"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:55.624503+00:00",
-    "score": 100,
-    "company": "Advanced Biomed Inc.",
-    "ticker": "ADVB",
-    "exchange": "Nasdaq",
-    "industry": "Services-Medical Laboratories",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001213900-26-122692",
-    "triggers": [
-      "going concern",
-      "acceleration",
-      "delisting"
-    ],
-    "quote": "... Company\u2019s financial statements for its most recent fiscal year end and interim financial statements have been prepared assuming the Company will continue as a going concern, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. v. No Off-Balance Sheet Arrangements . There is no transaction, arrangement, or other relationship between the Company or its Taiwan Subsidiary and an...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1941029/000121390026122692/ea031311201ex10-1.htm",
-    "sha256_proof": "4d114ee5d48167c3317b3cbce5f9bd4d0bc6862651c7197fe454a90c550f2639"
-  },
-  {
-    "detected_utc": "2026-11-23T11:51:01.397321+00:00",
-    "score": 100,
-    "company": "Edible Garden AG Inc",
-    "ticker": "EDBL",
-    "exchange": "Nasdaq",
-    "industry": "Agricultural Production-Crops",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001477932-26-007209",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "delisting"
-    ],
-    "quote": "... including, among others, failure to make required payments, bankruptcy or insolvency events, and breaches of representations, warranties or covenants. Upon an event of default, the outstanding obligations may become immediately due and payable and may accrue interest at a default rate as defined in the agreement. The Company evaluated the accounting treatment of the Streeterville Note under applicable accounting guidance, including ASC...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226007209/edbl_10q.htm",
-    "sha256_proof": "a967f8bcd42fcc7dbb7e4a702817033d62ec995aa0b6156ee8663004ef884748"
-  },
-  {
-    "detected_utc": "2026-11-23T11:51:01.969907+00:00",
-    "score": 100,
-    "company": "Alchemy Investments Acquisition Corp 1",
-    "ticker": "ALCYF",
-    "exchange": "OTC",
-    "industry": "Blank Checks",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001104659-26-130685",
-    "triggers": [
-      "going concern",
-      "waiver",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...ITION CORP 1 NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS September 30, 2026 (UNAUDITED) \u200b NOTE 1. DESCRIPTION OF ORGANIZATION, BUSINESS OPERATIONS AND GOING CONCERN Alchemy Investments Acquisition Corp 1 (the \u201cCompany\u201d) is a blank check company incorporated in Cayman Islands on October 27, 2021. The Company was formed for the purpose of entering into a merger, capital share exchange, asset acquisition, share purchase, reorganiz...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1901336/000110465926130685/alcy-20260930x10q.htm",
-    "sha256_proof": "6bb841816bbfe2a633690aff4f3ca3a730edcd8f4c5de486284599d0a34a8684"
-  },
-  {
-    "detected_utc": "2026-11-21T00:15:47.366315+00:00",
-    "score": 100,
-    "company": "CNL Strategic Capital, LLC",
-    "ticker": "UNLISTED",
-    "exchange": "OTC/Private",
-    "industry": "Investment Advice",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001999371-26-025949",
-    "triggers": [
-      "event of default",
-      "forbearance",
-      "waiver",
-      "acceleration"
-    ],
-    "quote": "...Bank. Guarantor hereby authorizes Bank, at any time and from time to time, without notice, which is hereby expressly waived by Guarantor, and whether or not an Event of Default (as defined below) shall have occurred or Bank shall have declared the Obligations to be due and payable in accordance with the terms hereof (i) to set off against, and to appropriate and apply to the payment of Guarantor\u2019s obligations and liabilities under this ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126025949/ex10-2.htm",
-    "sha256_proof": "2187dda262b3eaf9cd24652209d7466536f0576dfa34d82f1a73e641c1aa1cf1"
-  },
-  {
-    "detected_utc": "2026-11-20T23:15:31.935648+00:00",
-    "score": 100,
-    "company": "Madison Technologies Inc.",
-    "ticker": "MDEX",
-    "exchange": "OTC",
-    "industry": "Retail-Miscellaneous Retail",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001753926-26-002217",
-    "triggers": [
-      "event of default",
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...missory note with a principal amount and cash proceeds of $ 500,000 . The promissory note accrued interest at an annual rate of 12 %. Upon the occurrence of an event of default, the promissory note accrued default interest at an annual rate of 15 %. The promissory note matured on April 5, 2022. For the three months ended September 30, 2026 and 2025, the Company recorded interest expense of $ 18,904 and $ 34,028 , respectively, in the co...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1318268/000175392626002217/g086038_10q.htm",
-    "sha256_proof": "85af3f1f73002f06a91b43924899e964a0c30a893e7837fb4aa652e64b938b00"
   }
 ]
