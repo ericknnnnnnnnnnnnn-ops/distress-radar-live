@@ -222,6 +222,42 @@
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
   },
   {
+    "detected_utc": "2026-11-23T18:53:55.054305+00:00",
+    "score": 60,
+    "company": "Invech Holdings, Inc.",
+    "ticker": "IVHI",
+    "exchange": "OTC",
+    "industry": "Services-Management Consulting Services",
+    "form": "10-Q/A",
+    "file_date": "2026-11-23",
+    "accession": "0001683168-26-009044",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 10 NOTE 3 \u2013 GOING CONCERN The accompanying unaudited financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has no revenue and has an accumulated deficit ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826009044/invech_i10qa3-063026.htm",
+    "sha256_proof": "6bea283db2571ad8e45caca24e141ccaa1ab02da2a609e951cf870fd61cf4fd8"
+  },
+  {
+    "detected_utc": "2026-11-23T18:53:57.499319+00:00",
+    "score": 60,
+    "company": "Omnitek Engineering Corp",
+    "ticker": "OMTK",
+    "exchange": "OTC",
+    "industry": "Motor Vehicle Parts & Accessories",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001096906-26-001876",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...the Company is no longer subject to U.S. federal, state, and local, or non-U.S. income tax examinations by tax authorities for years before 2012. Liquidity and Going Concern Historically, the Company has incurred net losses and negative cash flows from operations. As of September 30, 2026, the Company had an accumulated deficit of $ 22,343,104 and total stockholders\u2019 deficit of $ 507,902 . At September 30, 2026, the Company had current ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404804/000109690626001876/omtk-20260930_10q.htm",
+    "sha256_proof": "d86c4c1f72aab40c0714c66c3d3f9386e7ce98c6a76a5ba6695a73d8d091cb5a"
+  },
+  {
     "detected_utc": "2026-11-23T11:50:59.273752+00:00",
     "score": 60,
     "company": "Antiaging Quantum Living Inc.",
@@ -705,41 +741,5 @@
     "quote": "...\u201cNPD\u201d). On February 3, 2025, Mycotopia Therapies, Inc. amended its articles of incorporation to change its name to Aibotics Inc., (the \u201cName Change\u201d). NOTE 2 - GOING CONCERN The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. To date, the Company has generated no revenues, experienced...",
     "url": "https://www.sec.gov/Archives/edgar/data/1763329/000109690626001860/tpia-20260930_10q.htm",
     "sha256_proof": "c00086b7b276eac01bc4980b9f594e95fa65fb0bff838333412c585f463982ed"
-  },
-  {
-    "detected_utc": "2026-11-21T00:15:52.085117+00:00",
-    "score": 60,
-    "company": "BIOXYTRAN, INC",
-    "ticker": "BIXT",
-    "exchange": "OTC",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053529",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...on to specific industries and are not expected to a have a material impact on the Company\u2019s financial position, results of operations or cash flows. 9 NOTE 3 \u2013 GOING CONCERN AND MANAGEMENT\u2019S LIQUIDITY PLANS As at September 30, 2026, the Company had cash of $ 74,369 and a negative working capital of $ 6,381,654 . As at September 30, 2026, the Company has not yet generated any revenues from operations, and has incurred an accumulated defi...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1445815/000149315226053529/form10-q.htm",
-    "sha256_proof": "633026b47029b11ad64512b065c8a4b9bb766a1dd18955edc51c3db88851545d"
-  },
-  {
-    "detected_utc": "2026-11-20T20:29:39.653610+00:00",
-    "score": 60,
-    "company": "TV Channels Network Inc.",
-    "ticker": "TVCN",
-    "exchange": null,
-    "industry": "Communications Services, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001952670-26-000024",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ting our business. Forward-looking statements are subject to risks, uncertainties and assumptions, including: our ability to obtain financing and continue as a going concern; our dependence on advances from our Chief Executive Officer; our ability to develop and commercialize our streaming platform; the outcome of our Nasdaq listing application; changes in relationships with content partners; our ability to retain management; and other ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1952670/000195267026000024/tvcn-20260930_10q.htm",
-    "sha256_proof": "4ca364fec20269e1276e39c20e4e3ce52c8dbfd1b0c3f08bc2f25f9c71c07731"
   }
 ]
