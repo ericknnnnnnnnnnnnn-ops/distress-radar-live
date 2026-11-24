@@ -1,5 +1,44 @@
 [
   {
+    "detected_utc": "2026-11-23T20:52:10.075891+00:00",
+    "score": 100,
+    "company": "Cosmos Health Inc.",
+    "ticker": "COSM",
+    "exchange": "Nasdaq",
+    "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001477932-26-007237",
+    "triggers": [
+      "event of default",
+      "going concern"
+    ],
+    "quote": "... into an amendment to its June 2025 Note. The amendment was executed following the Company\u2019s failure to make its initial interest payment, which constituted an event of default under the original agreement. Under the terms of the amendment, the Company issued 25,000 shares of common stock to the investor as consideration for curing the default and agreeing to subordinate its lien position to that of the August 2025 Note (as defined belo...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226007237/cosm_10q.htm",
+    "sha256_proof": "4485f496df3c278246549e08898fd9981cad6301c46a71b0661bb146129407a7"
+  },
+  {
+    "detected_utc": "2026-11-23T19:58:01.524940+00:00",
+    "score": 100,
+    "company": "Regenerative Medical Technology Group Inc.",
+    "ticker": "RMTG",
+    "exchange": "OTC",
+    "industry": "Retail-Retail Stores, NEC",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123103",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "material weakness",
+      "acceleration"
+    ],
+    "quote": ".... The convertible notes bear no interest and have a four ( 4 ) year maturity date with an additional 10 % of the outstanding balance upon the occurrence of the event of default. As of September 30, 2026, and December 31, 2025, the outstanding loan balance was $ 47,452 and $ 47,452 , respectively. This loan is currently in default. On October 24, 2025, the Company entered into an Exchange Agreement where the lender may exchange the princ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1760026/000121390026123103/ea0313215-10q_regenerative.htm",
+    "sha256_proof": "75cc7ec1269b0e4ac83e6c4f3596d53ae467380a9c2efe487b08e02d45cc6de3"
+  },
+  {
     "detected_utc": "2026-11-23T16:55:23.431979+00:00",
     "score": 100,
     "company": "SOAR AI, Inc.",
@@ -170,6 +209,25 @@
     "sha256_proof": "0ca3ce2c27c489538c000cf27601f47dce70e399f773b95fff5beed9a74f1206"
   },
   {
+    "detected_utc": "2026-11-23T19:58:04.884442+00:00",
+    "score": 80,
+    "company": "Spark I Acquisition Corp",
+    "ticker": "SPKLF",
+    "exchange": "OTC",
+    "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+    "form": "10-Q/A",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-130988",
+    "triggers": [
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...ARK I ACQUISITION CORPORATION NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) NOTE 1 \u2014 DESCRIPTION OF ORGANIZATION AND BUSINESS OPERATIONS AND GOING CONCERN Spark I Acquisition Corporation (the \u201cCompany\u201d) was incorporated in the Cayman Islands on July 12, 2021 . The Company was formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business comb...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1884046/000110465926130988/spkl-20260930x10qa.htm",
+    "sha256_proof": "cebdfe1d6efc6849ac24f3a65bf4a7b1d3f0d0771885a7c932476817f93c7086"
+  },
+  {
     "detected_utc": "2026-11-23T13:05:48.389708+00:00",
     "score": 80,
     "company": "Niki BioSolutions, Inc.",
@@ -220,6 +278,42 @@
     "quote": "...our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; our ability to maintain the listing of our common stock on the NYSE American LLC; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; t...",
     "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/form8-k.htm",
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
+  },
+  {
+    "detected_utc": "2026-11-23T20:52:08.421175+00:00",
+    "score": 60,
+    "company": "Techlott Inc.",
+    "ticker": "LOTT",
+    "exchange": "OTC",
+    "industry": "Services-Computer Programming Services",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053734",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...and has no revenue from operations. Since its incorporation and as of the financial statements date, SleepX holds 66.7 % of the voting interest of Ta-nooma. D. Going Concern The financial statements are presented on a going-concern basis. To date, the Company has not generated any significant revenues, suffered recurring losses from operations, incurred negative cash flows from operating activities, and is dependent upon external source...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1568969/000149315226053734/form10-q.htm",
+    "sha256_proof": "9ecac90f7c07f1cec53930c2df3a95f0aaa3a574d5a9d519470077948bd7f267"
+  },
+  {
+    "detected_utc": "2026-11-23T19:58:02.199457+00:00",
+    "score": 60,
+    "company": "OZ VISION INC.",
+    "ticker": "OZVN",
+    "exchange": "OTC",
+    "industry": "Transportation Services",
+    "form": "10-K/A",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053720",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...u may lose all or part of your investment. Risks Related to Our Financial Condition and Liquidity There is substantial doubt about our ability to continue as a going concern. At June 30, 2026 we had $4,388 of cash, an accumulated deficit of $2,778,523 (as restated), negative working capital and, as restated, a stockholders\u2019 deficit of $589,712. As described in Note 10 to our financial statements, these conditions raise substantial doubt...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053720/form10-ka.htm",
+    "sha256_proof": "bb37c55bd7148970d918f7ed321bdef0ac5ab0078ab24beeb14c3c95de914e64"
   },
   {
     "detected_utc": "2026-11-23T18:53:55.054305+00:00",
@@ -274,6 +368,23 @@
     "quote": "...d but not yet adopted accounting pronouncements will have a material impact on the Company\u2019s financial position, results of operations, or cash flows. NOTE 3 \u2013 GOING CONCERN The Company\u2019s financial statements have been prepared on a going concern basis, which contemplates the realization of assets and settlement of liabilities and commitments in the normal course of business. The Company had an accumulated deficit of $ 2,220,173 , and w...",
     "url": "https://www.sec.gov/Archives/edgar/data/1672571/000149315226053596/form10-q.htm",
     "sha256_proof": "76bb0f412aaa6f753cdb0f4f6e8e8978f9c0a7bf1fc47669130a90084399ac0f"
+  },
+  {
+    "detected_utc": "2026-11-23T19:58:00.663810+00:00",
+    "score": 55,
+    "company": "EON Resources Inc.",
+    "ticker": "EONR",
+    "exchange": "NYSE",
+    "industry": "Crude Petroleum & Natural Gas",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001437749-26-038029",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...ustis Field (\"SJF\") in Lea County, New Mexico, which are both sub-areas of the Permian Basin. The Company focuses exclusively on vertical development drilling. Going Concern Considerations At September 30, 2026 , the Company had $ 1,141,248 in cash and a working capital deficit of $ 31,033,185 . These conditions raise substantial doubt about the Company\u2019s ability to continue as a going concern within one year after the date that the fin...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1842556/000143774926038029/eonr20260930_10q.htm",
+    "sha256_proof": "d2da322dda9f041113855709d0e4e2d34bfa3dd404f1f757db710b11fcde5bfc"
   },
   {
     "detected_utc": "2026-11-23T13:05:47.195683+00:00",
@@ -635,111 +746,5 @@
     "quote": "...dance and reaffirmed its Platform Adjusted EBITDA guidance. It no longer provides net operating income guidance. Why do Caliber's financial statements include \"going concern\" language? Because accounting rules require it when there is substantial doubt that a company can cover what it owes as it comes due over the twelve months after its financial statements are issued. In that test, management's plans, such as refinancing debt or raisi...",
     "url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000090/caliber_investorxfaqv11cle.htm",
     "sha256_proof": "cfc05aea04d6f400f587c2c432a36d36d218d6456648d60a4ffb786be6834b53"
-  },
-  {
-    "detected_utc": "2026-11-20T18:26:57.658687+00:00",
-    "score": 85,
-    "company": "Mosaic ImmunoEngineering Inc.",
-    "ticker": "CPMV",
-    "exchange": "OTC",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001683168-26-008982",
-    "triggers": [
-      "going concern",
-      "waiver",
-      "material weakness"
-    ],
-    "quote": "...subsidiaries: Mosaic ImmunoEngineering Development Company, a corporation organized under Delaware law on March 30, 2020 and Patriot Data Solutions Group, Inc. Going Concern and Management\u2019s Plans The accompanying unaudited condensed consolidated financial statements have been prepared assuming the Company will continue as a going concern. At September 30, 2026, the Company had cash and cash equivalents of $ 151 and has not yet generate...",
-    "url": "https://www.sec.gov/Archives/edgar/data/836564/000168316826008982/mosaic_i10q-093026.htm",
-    "sha256_proof": "8b46d0bd8438e7ca5214da2c1e06121e35ce41d2f75d0e6a828f872d1cebf09b"
-  },
-  {
-    "detected_utc": "2026-11-20T16:26:00.860780+00:00",
-    "score": 70,
-    "company": "My Size, Inc.",
-    "ticker": "MYSZ",
-    "exchange": "Nasdaq",
-    "industry": "Services-Prepackaged Software",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053380",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...ting cash will be sufficient to fund operations for less than 12 months. Accordingly, substantial doubt exists regarding the Company\u2019s ability to continue as a going concern. MySize will require additional capital in the near term to support its operations and potential strategic initiatives. There can be no assurance that additional financing will be available on acceptable terms or at all. Outlook Looking ahead, MySize\u2019s priorities in...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1211805/000149315226053380/ex99-1.htm",
-    "sha256_proof": "db6d82e9779bb2b06068d91bdb91788862e69be3efc9a7979fece9df4bdfd785"
-  },
-  {
-    "detected_utc": "2026-11-20T11:52:57.002100+00:00",
-    "score": 70,
-    "company": "IT TECH PACKAGING, INC.",
-    "ticker": "ITP",
-    "exchange": "NYSE",
-    "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001213900-26-122369",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...EX-99.1 2 ea031305301ex99-1.htm PRESS RELEASE DATED NOVEMBER 19, 2026 Exhibit 99.1 FOR IMMEDIATE RELEASE IT Tech Packaging, Inc. Announces Receipt of Going Concern Opinion from Its Independent Registered Public Accounting Firm BAODING, China, November 19, 2026 /PRNewswire/ -- IT Tech Packaging, Inc. (NYSE American: ITP) (\u201cIT Tech Packaging\u201d or the \u201cCompany\u201d), a leading manufacturer and distributor of diversified paper products...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1358190/000121390026122369/ea031305301ex99-1.htm",
-    "sha256_proof": "e41274c1b2f38106d463df3dcb77a5e4a52c7997ac9ab57471ce297f7375c940"
-  },
-  {
-    "detected_utc": "2026-11-20T11:52:59.431901+00:00",
-    "score": 70,
-    "company": "Mentari Therapeutics, Inc.",
-    "ticker": "MTRI",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001193125-26-468852",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...\u2019s Board of Directors (the \u201cAudit Committee\u201d). Except for an explanatory paragraph stating that substantial doubt exists about InMed\u2019s ability to continue as a going concern, the reports of CBIZ on the consolidated financial statements of InMed for the fiscal years ended June 30, 2026 and 2025 did not contain an adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting princ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526468852/d163854d8k.htm",
-    "sha256_proof": "3d4df7fe7ee392ca239db12fd70bc0a2e8d8b3d078679003a2ba3eb45ea0518e"
-  },
-  {
-    "detected_utc": "2026-11-23T11:51:02.502710+00:00",
-    "score": 60,
-    "company": "IWAC Holding Co Inc.",
-    "ticker": "UNLISTED",
-    "exchange": "OTC/Private",
-    "industry": "Retail-Nonstore Retailers",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001104659-26-130661",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "... as determined by IWAC\u2019s Board of Directors. As of the date these financial statements were issued, the Business Combination had not been consummated. NOTE 2 \u2014 GOING CONCERN The Company\u2019s financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities during the normal course of operations. As of June 30, 2026, the Company had cash of $ 1 and a working ca...",
-    "url": "https://www.sec.gov/Archives/edgar/data/2033522/000110465926130661/tmb-20260630x10q.htm",
-    "sha256_proof": "bd79e5c5b817ea6e9b4541f4847ab07df043998a3264413d89499aca98b28edb"
-  },
-  {
-    "detected_utc": "2026-11-21T00:15:50.335307+00:00",
-    "score": 60,
-    "company": "AIBOTICS THERAPIES, INC.",
-    "ticker": "AIBT",
-    "exchange": "OTC",
-    "industry": "Medicinal Chemicals & Botanical Products",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001096906-26-001860",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...\u201cNPD\u201d). On February 3, 2025, Mycotopia Therapies, Inc. amended its articles of incorporation to change its name to Aibotics Inc., (the \u201cName Change\u201d). NOTE 2 - GOING CONCERN The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. To date, the Company has generated no revenues, experienced...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1763329/000109690626001860/tpia-20260930_10q.htm",
-    "sha256_proof": "c00086b7b276eac01bc4980b9f594e95fa65fb0bff838333412c585f463982ed"
   }
 ]
