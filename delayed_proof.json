@@ -1,5 +1,24 @@
 [
   {
+    "detected_utc": "2026-11-23T14:32:37.859609+00:00",
+    "score": 100,
+    "company": "MOBIX LABS, INC",
+    "ticker": "MOBX",
+    "exchange": "Nasdaq",
+    "industry": "Semiconductors & Related Devices",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053655",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "waiver"
+    ],
+    "quote": "...3 and 4 of this Amendment. This waiver is limited to the matters described in this Section 5 and does not waive any other provision of the Note or apply to any Event of Default other than the Specified Defaults, whether arising before, on or after the Effective Date (including any failure to pay the Obligations in full on the Maturity Date), and the Holder reserves all of its rights and remedies with respect thereto. For purposes of Sec...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226053655/ex4-1.htm",
+    "sha256_proof": "f5db7ab1f87f06d701951973a083ea13c4e48fee19338ea56b1462c2049d461b"
+  },
+  {
     "detected_utc": "2026-11-23T13:05:45.310575+00:00",
     "score": 100,
     "company": "Childrens Place, Inc.",
@@ -148,6 +167,23 @@
     "quote": "...tive Officer or Chief Financial Officer, in each case for so long as the former DiamiR stockholders own at least 25 % of the Company\u2019s outstanding shares. 6 2. GOING CONCERN The Company reported a net loss of $ 1,411,530 and $ 2,718,830 for the three and nine months ended September 30, 2026, respectively, and net operating cash outflow of $ 2,202,040 for the nine months ended September 30, 2026. In addition, the Company had negative wor...",
     "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122909/ea0312450-10q_nikibio.htm",
     "sha256_proof": "604b4ad4751f7db321068d2f1a6e6bddc8fc1e7c2029d54b9b6d66b90a583ada"
+  },
+  {
+    "detected_utc": "2026-11-23T14:32:39.195862+00:00",
+    "score": 70,
+    "company": "Imunon, Inc.",
+    "ticker": "IMNN",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053680",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...operations, including the OVATION 3 trial, and the risk that such capital may not be available on acceptable terms or at all; IMUNON\u2019s ability to continue as a going concern; IMUNON\u2019s ability to maintain the listing of its common stock on Nasdaq; the need for IMUNON to evaluate its future development plans; possible actions by customers, suppliers, competitors or regulatory authorities; and other risks detailed from time to time in IMUN...",
+    "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226053680/ex99-1.htm",
+    "sha256_proof": "3e5d280efa9cb6fb76c4bb793474911785627dadfd2b05452c9f8ae63c803b9e"
   },
   {
     "detected_utc": "2026-11-23T13:05:45.795394+00:00",
@@ -704,41 +740,5 @@
     "quote": "...ctober 14, 2026. Management is of the opinion that all necessary adjustments have been made to make these interim financial statements not misleading. NOTE 2 \u2013 GOING CONCERN The accompanying financial statements have been prepared in US dollars and in accordance with accounting principles generally accepted in the United States (\u201cGAAP\u201d) on a going concern basis, which contemplates the realization of assets and the satisfaction of liabil...",
     "url": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226007203/ilxp_10q.htm",
     "sha256_proof": "65efb5a86ce0ba109364f22dd49ef65beaa84fa88291500c3d4a05218b56511b"
-  },
-  {
-    "detected_utc": "2026-11-20T18:26:55.594595+00:00",
-    "score": 60,
-    "company": "Elite Health Systems Inc.",
-    "ticker": "EHSI",
-    "exchange": "OTC",
-    "industry": "Services-Specialty Outpatient Facilities, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001437749-26-037860",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ognized in net (loss) income. All amounts are shown in nearest thousands in the Consolidated Financial Statements and accompanying notes therein. Liquidity and Going Concern In the nine months ended September 30, 2026, the Company incurred a net loss of $ 4,312,000 compared to $ 2,026,000 in the same period of fiscal year 2025. The Company has received state and Federal approval to operate as a Medicare Advantage plan and began operatin...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1089815/000143774926037860/ehsi20260930_10q.htm",
-    "sha256_proof": "462d237461fe5615016e8730852cf06d137da7c99b9c3710aa0be59d9f434b1e"
-  },
-  {
-    "detected_utc": "2026-11-20T12:58:25.224862+00:00",
-    "score": 60,
-    "company": "Accustem Sciences Inc.",
-    "ticker": "ACUT",
-    "exchange": "OTC",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053362",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ompany dedicated to improving quality of life and outcomes for the more than 18 million people worldwide who are diagnosed with cancer each year. Liquidity and Going Concern The condensed consolidated financial statements have been prepared on the going concern basis, which contemplates the realization of assets and discharge of liabilities in the normal course of business. The Company has financed its activities principally from suppor...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1850767/000149315226053362/form10-q.htm",
-    "sha256_proof": "a940384eed1e8b9155816e6d5b0f282f3b9f826952c03b749810b3e781a46089"
   }
 ]
