@@ -1,5 +1,42 @@
 [
   {
+    "detected_utc": "2026-11-23T13:05:45.310575+00:00",
+    "score": 100,
+    "company": "Childrens Place, Inc.",
+    "ticker": "PLCEQ",
+    "exchange": null,
+    "industry": "Retail-Family Clothing Stores",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-130861",
+    "triggers": [
+      "chapter 11",
+      "delisting"
+    ],
+    "quote": "...escribed below, and the assumption of certain liabilities. The Assignment Agreement contemplates Mithaq\u2019s designation as stalking horse bidder in the Company\u2019s chapter 11 cases before the United States Bankruptcy Court for the District of New Jersey (the \u201cBankruptcy Court\u201d). The proposed sale remains subject to higher or better bids, an auction if applicable, Bankruptcy Court approval and the granting of a Canadian sale recognition and ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1041859/000110465926130861/tm2629801d2_8k.htm",
+    "sha256_proof": "fad8ea996d73a5d0af5fddc282c12fcd491d14e929d2fd3e1d8c3938ca81b0e8"
+  },
+  {
+    "detected_utc": "2026-11-23T13:05:50.859828+00:00",
+    "score": 100,
+    "company": "Future Money Acquisition Corp",
+    "ticker": "FMAC",
+    "exchange": "Nasdaq",
+    "industry": "Blank Checks",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053648",
+    "triggers": [
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...fficers or directors will indemnify the Company for claims by third parties including, without limitation, claims by vendors and prospective target businesses. Going Concern Consideration As of July 31, 2026, the Company had $ 55,702 of cash and a working capital of $ 425,961 . The Company has incurred and expects to continue to incur significant costs in pursuit of the consummation of an initial Business Combination. In addition, the C...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2099232/000149315226053648/form10-q.htm",
+    "sha256_proof": "da24c5eacdbeaf078e0466bad96fa2c0a23f1ba2f8ef4c0d3534a23136131fb8"
+  },
+  {
     "detected_utc": "2026-11-23T11:50:58.237076+00:00",
     "score": 100,
     "company": "Brand Engagement Network Inc.",
@@ -95,6 +132,41 @@
     "sha256_proof": "0ca3ce2c27c489538c000cf27601f47dce70e399f773b95fff5beed9a74f1206"
   },
   {
+    "detected_utc": "2026-11-23T13:05:48.389708+00:00",
+    "score": 80,
+    "company": "Niki BioSolutions, Inc.",
+    "ticker": "NIKI",
+    "exchange": "Nasdaq",
+    "industry": "Measuring & Controlling Devices, NEC",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-122909",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...tive Officer or Chief Financial Officer, in each case for so long as the former DiamiR stockholders own at least 25 % of the Company\u2019s outstanding shares. 6 2. GOING CONCERN The Company reported a net loss of $ 1,411,530 and $ 2,718,830 for the three and nine months ended September 30, 2026, respectively, and net operating cash outflow of $ 2,202,040 for the nine months ended September 30, 2026. In addition, the Company had negative wor...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122909/ea0312450-10q_nikibio.htm",
+    "sha256_proof": "604b4ad4751f7db321068d2f1a6e6bddc8fc1e7c2029d54b9b6d66b90a583ada"
+  },
+  {
+    "detected_utc": "2026-11-23T13:05:45.795394+00:00",
+    "score": 70,
+    "company": "SOAR AI, Inc.",
+    "ticker": "SOAR",
+    "exchange": "NYSE",
+    "industry": "Air Transportation, Nonscheduled",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053633",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; our ability to maintain the listing of our common stock on the NYSE American LLC; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; t...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/form8-k.htm",
+    "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
+  },
+  {
     "detected_utc": "2026-11-23T11:50:59.273752+00:00",
     "score": 60,
     "company": "Antiaging Quantum Living Inc.",
@@ -111,6 +183,23 @@
     "quote": "...d but not yet adopted accounting pronouncements will have a material impact on the Company\u2019s financial position, results of operations, or cash flows. NOTE 3 \u2013 GOING CONCERN The Company\u2019s financial statements have been prepared on a going concern basis, which contemplates the realization of assets and settlement of liabilities and commitments in the normal course of business. The Company had an accumulated deficit of $ 2,220,173 , and w...",
     "url": "https://www.sec.gov/Archives/edgar/data/1672571/000149315226053596/form10-q.htm",
     "sha256_proof": "76bb0f412aaa6f753cdb0f4f6e8e8978f9c0a7bf1fc47669130a90084399ac0f"
+  },
+  {
+    "detected_utc": "2026-11-23T13:05:47.195683+00:00",
+    "score": 55,
+    "company": "INTERNATIONAL PAPER CO /NEW/",
+    "ticker": "IP",
+    "exchange": "NYSE",
+    "industry": "Paper Mills",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001628280-26-075360",
+    "triggers": [
+      "delisting"
+    ],
+    "quote": "...ny today announced its intention to delist its common stock of US $1.00 from the LSE with effect from 8:00 a.m. (London time) on December 22, 2026 (the \u201cLondon Delisting\u201d). International Paper shares will continue to be listed and admitted to trading on the NYSE under the symbol \u201cIP\u201d following the London Delisting, and, once the London Delisting takes effect, International Paper shares will only be listed on the NYSE. Following the sepa...",
+    "url": "https://www.sec.gov/Archives/edgar/data/51434/000162828026075360/exhibit991-8xk.htm",
+    "sha256_proof": "8197680e383b1b90df4fd8015c5aa4332eb79abe33088a5adeb63e5d606ded9e"
   },
   {
     "detected_utc": "2026-11-23T11:50:54.800395+00:00",
@@ -651,90 +740,5 @@
     "quote": "...ompany dedicated to improving quality of life and outcomes for the more than 18 million people worldwide who are diagnosed with cancer each year. Liquidity and Going Concern The condensed consolidated financial statements have been prepared on the going concern basis, which contemplates the realization of assets and discharge of liabilities in the normal course of business. The Company has financed its activities principally from suppor...",
     "url": "https://www.sec.gov/Archives/edgar/data/1850767/000149315226053362/form10-q.htm",
     "sha256_proof": "a940384eed1e8b9155816e6d5b0f282f3b9f826952c03b749810b3e781a46089"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:55.162968+00:00",
-    "score": 55,
-    "company": "Compass Therapeutics, Inc.",
-    "ticker": "CMPX",
-    "exchange": "Nasdaq",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001171843-26-007621",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...ition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610 Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing On November 19, 2026, Compass Therapeutics, Inc. (the \u201cCompany\u201d) received a deficiency letter from the Nasdaq Listing Qualifications Department (the \u201cStaff\u201d) of The Nasdaq Stock Market LLC (...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326007621/f8k_111926.htm",
-    "sha256_proof": "4dcc300c53715afc0cfff45b128dc093571970982a18268269aa4f781339c633"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:56.457700+00:00",
-    "score": 55,
-    "company": "Presidio Property Trust, Inc.",
-    "ticker": "SQFT",
-    "exchange": "Nasdaq",
-    "industry": "Real Estate Investment Trusts",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053509",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...ition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610 Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On November 18, 2026, Presidio Property Trust, Inc. (the \u201cCompany\u201d) received a letter from the Listing Qualifications Department of thee Nasdaq Stock Market LLC (\u201cNasdaq\u201d) indicating that, ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1080657/000149315226053509/form8-k.htm",
-    "sha256_proof": "96e4c390f91844e6183f255583e481aefa09f9bcb587f255ff7f6140fd4f5f6f"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:56.847052+00:00",
-    "score": 55,
-    "company": "Scilex Holding Co",
-    "ticker": "SCLX",
-    "exchange": "Nasdaq",
-    "industry": "Biological Products, (No Diagnostic Substances)",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001193125-26-470221",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...ition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2612 Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On November 17, 2026, Scilex Holding Company (the \u201cCompany\u201d) was notified by the Listing Qualifications Department of The Nasdaq Stock Market LLC (\u201cNasdaq\u201d) that, for the 30 consecutive bus...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526470221/sclx-20261117.htm",
-    "sha256_proof": "6c16ac0d4f8ff101a6b123a2fe591d6a8cf1ba1f032ba4725e5178f68665e1d2"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:57.252034+00:00",
-    "score": 55,
-    "company": "Biofrontera Inc.",
-    "ticker": "BFRI",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0001493152-26-053526",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...tion period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610 Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On November 16, 2026, Biofrontera Inc., a Delaware corporation (the \u201cCompany\u201d), received a letter from the Listing Qualifications Department of The Nasdaq Stock Market LLC (\u201cNasdaq\u201d) notify...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1858685/000149315226053526/form8-k.htm",
-    "sha256_proof": "76f512a308f1ce7a3c205759bb64458c1b1142c2ad83c527fbf5f9ad2ce87289"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:57.717456+00:00",
-    "score": 55,
-    "company": "CENTURY CASINOS INC /CO/",
-    "ticker": "CNTY",
-    "exchange": "Nasdaq",
-    "industry": "Hotels & Motels",
-    "form": "8-K",
-    "file_date": "2026-11-20",
-    "accession": "0000911147-26-000059",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...ion period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u00a8 \u200e Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On November 18, 2026, Century Casinos, Inc. (the \u201cCompany\u201d) received notice from The Nasdaq Stock Market (\u201cNasdaq\u201d) that it was not in compliance with the minimum bid price requirement for ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000059/cnty-20261118x8k.htm",
-    "sha256_proof": "beb08064294a270437b5d25d75df7f9408c0cca9dfe036bc6bcde50968a932a7"
   }
 ]
