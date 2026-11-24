@@ -1,5 +1,24 @@
 [
   {
+    "detected_utc": "2026-11-23T16:55:23.431979+00:00",
+    "score": 100,
+    "company": "SOAR AI, Inc.",
+    "ticker": "SOAR",
+    "exchange": "NYSE",
+    "industry": "Air Transportation, Nonscheduled",
+    "form": "8-K/A",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053685",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "waiver"
+    ],
+    "quote": "... issued under the February 2023 SPA generally have the following terms: \u25cf bear interest at 12% per annum, increasing to 18% per annum upon the occurrence of an event of default; \u25cf interest accrued from the Issue Date through the first anniversary of the Issue Date is payable on such anniversary; \u25cf all accrued and unpaid interest is due and payable in full on the maturity date; \u25cf mature on the dates specified in the applicable note agree...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053685/ex99-1.htm",
+    "sha256_proof": "34db2fba735e0dcdce8fb0f538e660b044f95b0aa8b1798f3c21ecce501d1af5"
+  },
+  {
     "detected_utc": "2026-11-23T14:32:37.859609+00:00",
     "score": 100,
     "company": "MOBIX LABS, INC",
@@ -722,23 +741,5 @@
     "quote": "...ting our business. Forward-looking statements are subject to risks, uncertainties and assumptions, including: our ability to obtain financing and continue as a going concern; our dependence on advances from our Chief Executive Officer; our ability to develop and commercialize our streaming platform; the outcome of our Nasdaq listing application; changes in relationships with content partners; our ability to retain management; and other ...",
     "url": "https://www.sec.gov/Archives/edgar/data/1952670/000195267026000024/tvcn-20260930_10q.htm",
     "sha256_proof": "4ca364fec20269e1276e39c20e4e3ce52c8dbfd1b0c3f08bc2f25f9c71c07731"
-  },
-  {
-    "detected_utc": "2026-11-20T19:33:57.425235+00:00",
-    "score": 60,
-    "company": "ECOMINAS CORP.",
-    "ticker": "ILXP",
-    "exchange": null,
-    "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-    "form": "10-Q",
-    "file_date": "2026-11-20",
-    "accession": "0001477932-26-007203",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ctober 14, 2026. Management is of the opinion that all necessary adjustments have been made to make these interim financial statements not misleading. NOTE 2 \u2013 GOING CONCERN The accompanying financial statements have been prepared in US dollars and in accordance with accounting principles generally accepted in the United States (\u201cGAAP\u201d) on a going concern basis, which contemplates the realization of assets and the satisfaction of liabil...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226007203/ilxp_10q.htm",
-    "sha256_proof": "65efb5a86ce0ba109364f22dd49ef65beaa84fa88291500c3d4a05218b56511b"
   }
 ]
