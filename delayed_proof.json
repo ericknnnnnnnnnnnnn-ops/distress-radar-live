@@ -1,5 +1,26 @@
 [
   {
+    "detected_utc": "2026-11-24T11:53:17.096722+00:00",
+    "score": 100,
+    "company": "Venu Holding Corp",
+    "ticker": "VENU",
+    "exchange": "NYSE",
+    "industry": "Services-Amusement & Recreation Services",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001493152-26-053843",
+    "triggers": [
+      "event of default",
+      "waiver",
+      "material weakness",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...o any property or assets acquired with the proceeds of such indebtedness (even though the rights and remedies of the seller or bank under such agreement in the event of default are limited to repossession or sale of such property), (F) all monetary obligations under any leasing or similar arrangement which, in connection with GAAP, consistently applied for the periods covered thereby, is classified as a capital lease, (G) all indebtedne...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226053843/ex10-1.htm",
+    "sha256_proof": "ce41a78c2a325f4f83a68a6619d8e310a7886e51d20d67357ad849f9122c7df9"
+  },
+  {
     "detected_utc": "2026-11-24T00:35:58.141805+00:00",
     "score": 100,
     "company": "PELOTON INTERACTIVE, INC.",
@@ -729,23 +750,5 @@
     "quote": "...and has no revenue from operations. Since its incorporation and as of the financial statements date, SleepX holds 66.7 % of the voting interest of Ta-nooma. D. Going Concern The financial statements are presented on a going-concern basis. To date, the Company has not generated any significant revenues, suffered recurring losses from operations, incurred negative cash flows from operating activities, and is dependent upon external source...",
     "url": "https://www.sec.gov/Archives/edgar/data/1568969/000149315226053734/form10-q.htm",
     "sha256_proof": "9ecac90f7c07f1cec53930c2df3a95f0aaa3a574d5a9d519470077948bd7f267"
-  },
-  {
-    "detected_utc": "2026-11-23T19:58:02.199457+00:00",
-    "score": 60,
-    "company": "OZ VISION INC.",
-    "ticker": "OZVN",
-    "exchange": "OTC",
-    "industry": "Transportation Services",
-    "form": "10-K/A",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053720",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...u may lose all or part of your investment. Risks Related to Our Financial Condition and Liquidity There is substantial doubt about our ability to continue as a going concern. At June 30, 2026 we had $4,388 of cash, an accumulated deficit of $2,778,523 (as restated), negative working capital and, as restated, a stockholders\u2019 deficit of $589,712. As described in Note 10 to our financial statements, these conditions raise substantial doubt...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053720/form10-ka.htm",
-    "sha256_proof": "bb37c55bd7148970d918f7ed321bdef0ac5ab0078ab24beeb14c3c95de914e64"
   }
 ]
