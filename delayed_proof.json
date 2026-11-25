@@ -1,5 +1,26 @@
 [
   {
+    "detected_utc": "2026-11-24T21:51:29.687992+00:00",
+    "score": 100,
+    "company": "Local Bounti Corporation/DE",
+    "ticker": "LOCL",
+    "exchange": "NYSE",
+    "industry": "Agricultural Production-Crops",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001628280-26-075757",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...ects (or, in the case of any such representation or warranty already qualified by materiality, in all respects) on and as of the date hereof. (e) No Default or Event of Default has occurred and is continuing as of the date hereof, and no Default or Event of Default would result from, (i) the execution and delivery of this Amendment or any other agreement, instrument or document entered into in connection herewith or (ii) the consummatio...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075757/exhibit106-thirteenthamend.htm",
+    "sha256_proof": "59411d5c2aeade721535b40109d4306be30536cd2ea433d099f58d4d7a3c616b"
+  },
+  {
     "detected_utc": "2026-11-24T19:57:47.120679+00:00",
     "score": 100,
     "company": "OMNIQ Corp.",
@@ -733,23 +754,5 @@
     "quote": "...tical markets. We look for small to mid-size brands that have a strong brick-and-mortar presence and have a desire to increase their digital presence. NOTE 2 \u2013 GOING CONCERN UNCERTAINTY As reflected in the accompanying financial statements, the Company has an accumulated deficit of $ 2,569,840 and a net loss of $ 366,136 for the six months ended September 30, 2026. These factors among others raise substantial doubt about our ability to ...",
     "url": "https://www.sec.gov/Archives/edgar/data/1678105/000164033426001873/caro_10q.htm",
     "sha256_proof": "b8e12bd621df8e88ce28f7d83bef326e8e70ffdb2216c09a80abdda3956598f4"
-  },
-  {
-    "detected_utc": "2026-11-23T22:47:25.932919+00:00",
-    "score": 60,
-    "company": "OZ VISION INC.",
-    "ticker": "OZVN",
-    "exchange": "OTC",
-    "industry": "Transportation Services",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053800",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ith the acquisition of Jebour Two Limited were held by, or received from, Final Fight Championship, Inc., an entity of which Mr. Zovko is a director. NOTE 10 - Going Concern The accompanying financial statements and notes have been prepared assuming that the Company will continue as a going concern. For the three months period ended September 30, 2026, the Company had a cash balance of $ 71 , a net loss of $ 4,317 , negative working cap...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053800/form10-q.htm",
-    "sha256_proof": "0a0bff4f61447f2deae5c0d33315f4f7f68b9672051d787deec2d302e349b89e"
   }
 ]
