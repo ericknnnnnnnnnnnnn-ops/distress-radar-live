@@ -1,5 +1,24 @@
 [
   {
+    "detected_utc": "2026-11-24T22:52:56.645135+00:00",
+    "score": 100,
+    "company": "Southwest Gas Holdings, Inc.",
+    "ticker": "SWX",
+    "exchange": "NYSE",
+    "industry": "Natural Gas Transmisison & Distribution",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001193125-26-476043",
+    "triggers": [
+      "event of default",
+      "acceleration",
+      "delisting"
+    ],
+    "quote": "...lting Party or an Affected Party, as the case may be, and (ii) upon announcement of any event that, if consummated, would constitute an Extraordinary Event, an Event of Default or a Potential Adjustment Event. (e) Neither Counterparty nor any of its \u201caffiliated purchasers\u201d (as defined by Rule 10b-18 under the Exchange Act (\u201c Rule 10b-18 \u201d)) shall take or refrain from taking any action (including, without limitation, any direct purchases...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692115/000119312526476043/d121995dex12.htm",
+    "sha256_proof": "a17672f3b014ebc462fcdef8bb0e9d576154b585a2ba85a221a5c393d7e7797b"
+  },
+  {
     "detected_utc": "2026-11-24T21:51:29.687992+00:00",
     "score": 100,
     "company": "Local Bounti Corporation/DE",
@@ -736,23 +755,5 @@
     "quote": "...our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; our ability to maintain the listing of our common stock on the NYSE American LLC; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; t...",
     "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/form8-k.htm",
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
-  },
-  {
-    "detected_utc": "2026-11-24T00:36:05.874761+00:00",
-    "score": 60,
-    "company": "Caro Holdings Inc.",
-    "ticker": "CAHO",
-    "exchange": "OTC",
-    "industry": "Retail-Catalog & Mail-Order Houses",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001640334-26-001873",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...tical markets. We look for small to mid-size brands that have a strong brick-and-mortar presence and have a desire to increase their digital presence. NOTE 2 \u2013 GOING CONCERN UNCERTAINTY As reflected in the accompanying financial statements, the Company has an accumulated deficit of $ 2,569,840 and a net loss of $ 366,136 for the six months ended September 30, 2026. These factors among others raise substantial doubt about our ability to ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1678105/000164033426001873/caro_10q.htm",
-    "sha256_proof": "b8e12bd621df8e88ce28f7d83bef326e8e70ffdb2216c09a80abdda3956598f4"
   }
 ]
