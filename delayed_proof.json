@@ -21,6 +21,40 @@
     "sha256_proof": "ce41a78c2a325f4f83a68a6619d8e310a7886e51d20d67357ad849f9122c7df9"
   },
   {
+    "detected_utc": "2026-11-24T13:06:27.408638+00:00",
+    "score": 70,
+    "company": "DocGo Inc.",
+    "ticker": "DCGO",
+    "exchange": "Nasdaq",
+    "industry": "Transportation Services",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001628280-26-075607",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...; the Company\u2019s ability to retain its workforce and management personnel and successfully manage leadership transitions; the Company\u2019s ability to continue as a going concern; the Company\u2019s ability to maintain its listing on Nasdaq; the Company\u2019s ability to pursue strategic initiatives to deliver on shareholder value; the Company\u2019s ability to expand its programs with insurance partners, hospital systems, municipalities and other strategi...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026075607/ex991crmsrelease.htm",
+    "sha256_proof": "ef628c8653b1aa6f188331bb3a355ca1ad4e594782e44325b9a41b9a5127bbd2"
+  },
+  {
+    "detected_utc": "2026-11-24T13:06:29.014012+00:00",
+    "score": 50,
+    "company": "Jushi Holdings Inc.",
+    "ticker": "JUSH",
+    "exchange": "OTC",
+    "industry": "Medicinal Chemicals & Botanical Products",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001171843-26-007670",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...the Company at the time they were provided or made and such information involves known and unknown risks, uncertainties, including our ability to continue as a going concern, and other factors that may cause the actual results, level of activity, performance or achievements of the Company, as applicable, to be materially different from any future results, performance or achievements expressed or implied by such forward\u2010looking informati...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1909747/000117184326007670/exh_991.htm",
+    "sha256_proof": "7e54206b36ea98d411c513087111453ef4c407a4eee3981bcc0184efb00e3001"
+  },
+  {
     "detected_utc": "2026-11-24T00:35:58.141805+00:00",
     "score": 100,
     "company": "PELOTON INTERACTIVE, INC.",
@@ -714,41 +748,5 @@
     "quote": "...hoeae, as well as other liposomal therapies intended to improve the efficacy and tolerability of treatments for oncology and infectious disease indications. b. Going concern and management plans: The Company is in the research and development (R&D) stage and, as such, has not generated any revenue from its current operations. The Company\u2019s activities are primarily funded through investment. As of September 30, 2026, the Company reported...",
     "url": "https://www.sec.gov/Archives/edgar/data/1839140/000121390026123226/ea0313120-10q_revium.htm",
     "sha256_proof": "f6eb3d7b5204caf8caf37b846a242ec0ac48f175ffc0792085798b456f54a1b0"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:52.024167+00:00",
-    "score": 60,
-    "company": "Revium Rx.",
-    "ticker": "RVRC",
-    "exchange": "OTC",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q/A",
-    "file_date": "2026-11-23",
-    "accession": "0001213900-26-123155",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...hoeae, as well as other liposomal therapies intended to improve the efficacy and tolerability of treatments for oncology and infectious disease indications. b. Going concern and management plans: The Company is in the research and development (R&D) stage and, as such, has not generated any revenue from its current operations. The Company\u2019s activities are primarily funded through investment. As of June 30, 2026, the Company reported an a...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1839140/000121390026123155/ea0313122-10qa1_revium.htm",
-    "sha256_proof": "cb6c764124cf5b1f48578d1dd06fa137e6dc0441a0528704dda2257a97d9625f"
-  },
-  {
-    "detected_utc": "2026-11-23T20:52:08.421175+00:00",
-    "score": 60,
-    "company": "Techlott Inc.",
-    "ticker": "LOTT",
-    "exchange": "OTC",
-    "industry": "Services-Computer Programming Services",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053734",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...and has no revenue from operations. Since its incorporation and as of the financial statements date, SleepX holds 66.7 % of the voting interest of Ta-nooma. D. Going Concern The financial statements are presented on a going-concern basis. To date, the Company has not generated any significant revenues, suffered recurring losses from operations, incurred negative cash flows from operating activities, and is dependent upon external source...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1568969/000149315226053734/form10-q.htm",
-    "sha256_proof": "9ecac90f7c07f1cec53930c2df3a95f0aaa3a574d5a9d519470077948bd7f267"
   }
 ]
