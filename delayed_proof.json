@@ -1,5 +1,25 @@
 [
   {
+    "detected_utc": "2026-11-24T14:28:29.298957+00:00",
+    "score": 100,
+    "company": "AMERICAS CARMART INC",
+    "ticker": "CRMT",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Auto Dealers & Gasoline Stations",
+    "form": "8-K",
+    "file_date": "2026-11-24",
+    "accession": "0001171843-26-007671",
+    "triggers": [
+      "chapter 11",
+      "chapter 7",
+      "event of default",
+      "acceleration"
+    ],
+    "quote": "...\u201cDebtors\u201d) filed voluntary petitions for relief (collectively, the \u201cBankruptcy Petitions,\u201d and the cases commenced thereby, the \u201cBankruptcy Proceedings\u201d) under chapter 11 of title 11 of the United States Code (the \u201cBankruptcy Code\u201d) in the United States Bankruptcy Court for the Southern District of Texas (the \u201cBankruptcy Court\u201d). The Debtors have filed a motion with the Bankruptcy Court seeking to administer the Bankruptcy Proceedings j...",
+    "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326007671/f8k_112426.htm",
+    "sha256_proof": "ed0af01abd22a87aa3189634a932dd06b38b0d8d2747080392d610b7405a121b"
+  },
+  {
     "detected_utc": "2026-11-24T11:53:17.096722+00:00",
     "score": 100,
     "company": "Venu Holding Corp",
@@ -730,23 +750,5 @@
     "quote": "...re any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. NOTE 3 \u2013 GOING CONCERN The accompanying unaudited financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has no revenue and has an accumulated deficit ...",
     "url": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826009078/invech_i10q-093026.htm",
     "sha256_proof": "7b66ee33837caa6ce555c7943f4951f541a60df9bc31d535d0dbc239984461b8"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:50.393668+00:00",
-    "score": 60,
-    "company": "Revium Rx.",
-    "ticker": "RVRC",
-    "exchange": "OTC",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001213900-26-123226",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...hoeae, as well as other liposomal therapies intended to improve the efficacy and tolerability of treatments for oncology and infectious disease indications. b. Going concern and management plans: The Company is in the research and development (R&D) stage and, as such, has not generated any revenue from its current operations. The Company\u2019s activities are primarily funded through investment. As of September 30, 2026, the Company reported...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1839140/000121390026123226/ea0313120-10q_revium.htm",
-    "sha256_proof": "f6eb3d7b5204caf8caf37b846a242ec0ac48f175ffc0792085798b456f54a1b0"
   }
 ]
