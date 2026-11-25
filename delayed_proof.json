@@ -1,5 +1,86 @@
 [
   {
+    "detected_utc": "2026-11-24T00:35:58.141805+00:00",
+    "score": 100,
+    "company": "PELOTON INTERACTIVE, INC.",
+    "ticker": "PTON",
+    "exchange": "Nasdaq",
+    "industry": "Sporting & Athletic Goods, NEC",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001639825-26-000052",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...efinancing Indebtedness in respect thereof) remain outstanding. \u201cDefault\u201d means any event or condition which upon notice, lapse of time or both would become an Event of Default. \u201cDefaulting Lender\u201d means any Lender that has (a) defaulted in (or is otherwise unable to perform) its obligations under this Agreement, including without limitation, to make a Loan within one Business Day of the date required to be made by it hereunder or to fu...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1639825/000163982526000052/pton-8xkex101creditagree.htm",
+    "sha256_proof": "ca3e2a448c0843ec8895af360177c70328f409b6313cabd1f929ae4f1af7558d"
+  },
+  {
+    "detected_utc": "2026-11-24T00:35:59.522736+00:00",
+    "score": 100,
+    "company": "TechnipFMC plc",
+    "ticker": "FTI",
+    "exchange": "NYSE",
+    "industry": "Oil & Gas Field Machinery & Equipment",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001628280-26-075503",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "......................88 SECTION 3.19. Affected Financial Institutions .............................................................88 SECTION 3.20. No Default or Event of Default ............................................................88 SECTION 3.21. [Reserved] ............................................................................................88 SECTION 3.22. [Reserved] ..........................................................",
+    "url": "https://www.sec.gov/Archives/edgar/data/1681459/000162828026075503/exh101-technipfmcxfirsta.htm",
+    "sha256_proof": "d0bfb8a1457629246aeb291a6c5271aeccf54db2dae7c7ff1e96d83c9270f27f"
+  },
+  {
+    "detected_utc": "2026-11-24T00:36:01.622124+00:00",
+    "score": 100,
+    "company": "Franklin BSP Capital Corp",
+    "ticker": "FRBP",
+    "exchange": "OTC",
+    "industry": "",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001213900-26-123058",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...ch representations and warranties which by their terms contain materiality qualifiers, shall be true and correct) as of such earlier date, and (ii) no Default, Event of Default or Market Value Event has occurred and is continuing; (c) The Administrative Agent shall have received reasonably satisfactory written opinions of counsel for the Company and the Portfolio Manager, covering such matters relating to the transactions contemplated h...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1825248/000121390026123058/ea031308501ex10-1.htm",
+    "sha256_proof": "6f95d85e35bf5b8c6634609ff157fbaa3d9ff862d87bbb616b7e121add0e0d9b"
+  },
+  {
+    "detected_utc": "2026-11-24T00:36:02.874179+00:00",
+    "score": 100,
+    "company": "Digital Brands Group, Inc.",
+    "ticker": "DBGI",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Apparel & Accessory Stores",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001493152-26-053807",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "acceleration"
+    ],
+    "quote": "...ents of $ 29,624 commencing July 15, 2026, with a final installment due March 15, 2027 . Amounts not paid when due bear interest at 22 % per annum, and upon an event of default the Company becomes obligated for 150 % of outstanding principal, accrued interest and default interest. The Company may prepay at any time without penalty and is required to repay the note within five business days of the closing of its next public offering of s...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226053807/form10-q.htm",
+    "sha256_proof": "9dd8b16d1834cedd320dbdf2f8a420f116518215a7eaf59e7b6c0928cc88256c"
+  },
+  {
     "detected_utc": "2026-11-23T22:47:22.993856+00:00",
     "score": 100,
     "company": "Polar Power, Inc.",
@@ -331,6 +412,24 @@
     "sha256_proof": "961195f04c1559ba6e461b122cbfbce04f6130e1f57ee69f9e2686989244b485"
   },
   {
+    "detected_utc": "2026-11-24T00:35:56.420979+00:00",
+    "score": 95,
+    "company": "Exyn Technologies, Inc.",
+    "ticker": "EXYN",
+    "exchange": "Nasdaq",
+    "industry": "Services-Prepackaged Software",
+    "form": "8-K",
+    "file_date": "2026-11-23",
+    "accession": "0001104659-26-131109",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ffer materially from those expressed or implied by such statements. These risks and uncertainties include, among others, the Company's ability to continue as a going concern and raise substantial additional funds in the future; the restatement of the Company's financial statements for the quarters ended March 31, 2026 and June 30, 2026, and any resulting litigation, regulatory inquiries or other consequences; the Company's ability to ti...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/tm2630488d1_ex99-1.htm",
+    "sha256_proof": "161813d0b6b5b7ff8d59074f45877f4f4e0048c79e4f66ef854752e8a3a86e91"
+  },
+  {
     "detected_utc": "2026-11-23T11:50:52.415893+00:00",
     "score": 90,
     "company": "BIOTRICITY INC.",
@@ -524,6 +623,24 @@
     "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
   },
   {
+    "detected_utc": "2026-11-24T00:36:05.874761+00:00",
+    "score": 60,
+    "company": "Caro Holdings Inc.",
+    "ticker": "CAHO",
+    "exchange": "OTC",
+    "industry": "Retail-Catalog & Mail-Order Houses",
+    "form": "10-Q",
+    "file_date": "2026-11-23",
+    "accession": "0001640334-26-001873",
+    "triggers": [
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...tical markets. We look for small to mid-size brands that have a strong brick-and-mortar presence and have a desire to increase their digital presence. NOTE 2 \u2013 GOING CONCERN UNCERTAINTY As reflected in the accompanying financial statements, the Company has an accumulated deficit of $ 2,569,840 and a net loss of $ 366,136 for the six months ended September 30, 2026. These factors among others raise substantial doubt about our ability to ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1678105/000164033426001873/caro_10q.htm",
+    "sha256_proof": "b8e12bd621df8e88ce28f7d83bef326e8e70ffdb2216c09a80abdda3956598f4"
+  },
+  {
     "detected_utc": "2026-11-23T22:47:25.932919+00:00",
     "score": 60,
     "company": "OZ VISION INC.",
@@ -630,110 +747,5 @@
     "quote": "...u may lose all or part of your investment. Risks Related to Our Financial Condition and Liquidity There is substantial doubt about our ability to continue as a going concern. At June 30, 2026 we had $4,388 of cash, an accumulated deficit of $2,778,523 (as restated), negative working capital and, as restated, a stockholders\u2019 deficit of $589,712. As described in Note 10 to our financial statements, these conditions raise substantial doubt...",
     "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053720/form10-ka.htm",
     "sha256_proof": "bb37c55bd7148970d918f7ed321bdef0ac5ab0078ab24beeb14c3c95de914e64"
-  },
-  {
-    "detected_utc": "2026-11-23T18:53:55.054305+00:00",
-    "score": 60,
-    "company": "Invech Holdings, Inc.",
-    "ticker": "IVHI",
-    "exchange": "OTC",
-    "industry": "Services-Management Consulting Services",
-    "form": "10-Q/A",
-    "file_date": "2026-11-23",
-    "accession": "0001683168-26-009044",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 10 NOTE 3 \u2013 GOING CONCERN The accompanying unaudited financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has no revenue and has an accumulated deficit ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826009044/invech_i10qa3-063026.htm",
-    "sha256_proof": "6bea283db2571ad8e45caca24e141ccaa1ab02da2a609e951cf870fd61cf4fd8"
-  },
-  {
-    "detected_utc": "2026-11-23T18:53:57.499319+00:00",
-    "score": 60,
-    "company": "Omnitek Engineering Corp",
-    "ticker": "OMTK",
-    "exchange": "OTC",
-    "industry": "Motor Vehicle Parts & Accessories",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001096906-26-001876",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...the Company is no longer subject to U.S. federal, state, and local, or non-U.S. income tax examinations by tax authorities for years before 2012. Liquidity and Going Concern Historically, the Company has incurred net losses and negative cash flows from operations. As of September 30, 2026, the Company had an accumulated deficit of $ 22,343,104 and total stockholders\u2019 deficit of $ 507,902 . At September 30, 2026, the Company had current ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1404804/000109690626001876/omtk-20260930_10q.htm",
-    "sha256_proof": "d86c4c1f72aab40c0714c66c3d3f9386e7ce98c6a76a5ba6695a73d8d091cb5a"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:59.273752+00:00",
-    "score": 60,
-    "company": "Antiaging Quantum Living Inc.",
-    "ticker": "AAQL",
-    "exchange": "OTC",
-    "industry": "Services-Direct Mail Advertising Services",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053596",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...d but not yet adopted accounting pronouncements will have a material impact on the Company\u2019s financial position, results of operations, or cash flows. NOTE 3 \u2013 GOING CONCERN The Company\u2019s financial statements have been prepared on a going concern basis, which contemplates the realization of assets and settlement of liabilities and commitments in the normal course of business. The Company had an accumulated deficit of $ 2,220,173 , and w...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1672571/000149315226053596/form10-q.htm",
-    "sha256_proof": "76bb0f412aaa6f753cdb0f4f6e8e8978f9c0a7bf1fc47669130a90084399ac0f"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:52.732432+00:00",
-    "score": 55,
-    "company": "Valion Bio, Inc.",
-    "ticker": "VBIO",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001437749-26-038066",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...e of the results that may be expected for the fiscal year ending December 31, 2026 . The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. The accompanying condensed consolidated financial statements do not include any adjustment that might be necessary if the Company ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926038066/vbio20260930_10q.htm",
-    "sha256_proof": "82329760c955a31ea2c6b1c6af30db44724ae87b7012736f3a52b51a30f567ff"
-  },
-  {
-    "detected_utc": "2026-11-23T19:58:00.663810+00:00",
-    "score": 55,
-    "company": "EON Resources Inc.",
-    "ticker": "EONR",
-    "exchange": "NYSE",
-    "industry": "Crude Petroleum & Natural Gas",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001437749-26-038029",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...ustis Field (\"SJF\") in Lea County, New Mexico, which are both sub-areas of the Permian Basin. The Company focuses exclusively on vertical development drilling. Going Concern Considerations At September 30, 2026 , the Company had $ 1,141,248 in cash and a working capital deficit of $ 31,033,185 . These conditions raise substantial doubt about the Company\u2019s ability to continue as a going concern within one year after the date that the fin...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1842556/000143774926038029/eonr20260930_10q.htm",
-    "sha256_proof": "d2da322dda9f041113855709d0e4e2d34bfa3dd404f1f757db710b11fcde5bfc"
-  },
-  {
-    "detected_utc": "2026-11-23T13:05:47.195683+00:00",
-    "score": 55,
-    "company": "INTERNATIONAL PAPER CO /NEW/",
-    "ticker": "IP",
-    "exchange": "NYSE",
-    "industry": "Paper Mills",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001628280-26-075360",
-    "triggers": [
-      "delisting"
-    ],
-    "quote": "...ny today announced its intention to delist its common stock of US $1.00 from the LSE with effect from 8:00 a.m. (London time) on December 22, 2026 (the \u201cLondon Delisting\u201d). International Paper shares will continue to be listed and admitted to trading on the NYSE under the symbol \u201cIP\u201d following the London Delisting, and, once the London Delisting takes effect, International Paper shares will only be listed on the NYSE. Following the sepa...",
-    "url": "https://www.sec.gov/Archives/edgar/data/51434/000162828026075360/exhibit991-8xk.htm",
-    "sha256_proof": "8197680e383b1b90df4fd8015c5aa4332eb79abe33088a5adeb63e5d606ded9e"
   }
 ]
