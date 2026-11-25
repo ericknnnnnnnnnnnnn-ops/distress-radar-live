@@ -1,5 +1,24 @@
 [
   {
+    "detected_utc": "2026-11-24T19:57:47.120679+00:00",
+    "score": 100,
+    "company": "OMNIQ Corp.",
+    "ticker": "OMQS",
+    "exchange": "OTC",
+    "industry": "Services-Computer Integrated Systems Design",
+    "form": "10-Q",
+    "file_date": "2026-11-24",
+    "accession": "0001493152-26-053964",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...certain financial covenants related to the Bank Leumi and Bank Hapoalim debt. The Company\u2019s failure to comply with these financial covenants could result in an event of default under its debt agreements. Therefore, we reclassified the total balance as current debt on the balance sheet. On December 29, 2025, a new covenants agreement was signed with Bank Hapoalim, pursuant to which the Company is required to comply with the financial cov...",
+    "url": "https://www.sec.gov/Archives/edgar/data/278165/000149315226053964/form10-q.htm",
+    "sha256_proof": "e13faf00e19ffb826aa5a4eaa1e566918b363b0cbed21d64118ebdf29287c88e"
+  },
+  {
     "detected_utc": "2026-11-24T14:28:29.298957+00:00",
     "score": 100,
     "company": "AMERICAS CARMART INC",
@@ -732,23 +751,5 @@
     "quote": "...ith the acquisition of Jebour Two Limited were held by, or received from, Final Fight Championship, Inc., an entity of which Mr. Zovko is a director. NOTE 10 - Going Concern The accompanying financial statements and notes have been prepared assuming that the Company will continue as a going concern. For the three months period ended September 30, 2026, the Company had a cash balance of $ 71 , a net loss of $ 4,317 , negative working cap...",
     "url": "https://www.sec.gov/Archives/edgar/data/1751707/000149315226053800/form10-q.htm",
     "sha256_proof": "0a0bff4f61447f2deae5c0d33315f4f7f68b9672051d787deec2d302e349b89e"
-  },
-  {
-    "detected_utc": "2026-11-23T22:47:26.666163+00:00",
-    "score": 60,
-    "company": "Invech Holdings, Inc.",
-    "ticker": "IVHI",
-    "exchange": "OTC",
-    "industry": "Services-Management Consulting Services",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001683168-26-009078",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...re any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. NOTE 3 \u2013 GOING CONCERN The accompanying unaudited financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has no revenue and has an accumulated deficit ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826009078/invech_i10q-093026.htm",
-    "sha256_proof": "7b66ee33837caa6ce555c7943f4951f541a60df9bc31d535d0dbc239984461b8"
   }
 ]
