@@ -1,5 +1,119 @@
 [
   {
+    "detected_utc": "2026-11-25T22:49:54.611537+00:00",
+    "score": 100,
+    "company": "Scilex Holding Co",
+    "ticker": "SCLX",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "8-K",
+    "file_date": "2026-11-25",
+    "accession": "0001193125-26-478695",
+    "triggers": [
+      "event of default",
+      "delisting"
+    ],
+    "quote": "... transferred to a more limited market than Nasdaq, which could affect the market price, trading volume, liquidity and resale price of such shares; \u2022 causing an event of default under the Company\u2019s existing debt instruments; \u2022 reducing the number of investors, including institutional investors, willing to hold or acquire our Common Stock, which could negatively impact our ability to raise equity; \u2022 decreasing the amount of news and analy...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526478695/sclx-20261124.htm",
+    "sha256_proof": "f68da2452ae842f3fbdc7f0d7fc73f74aaf96b7d102c1333f07a4f9cc40eec82"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:28.570135+00:00",
+    "score": 100,
+    "company": "Vesicor Therapeutics Holdings, Inc.",
+    "ticker": "BKHA",
+    "exchange": "Nasdaq",
+    "industry": "Biological Products, (No Diagnostic Substances)",
+    "form": "8-K",
+    "file_date": "2026-11-25",
+    "accession": "0001829126-26-012883",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "delisting"
+    ],
+    "quote": "...plicable note, reflecting a 15% original issue discount. The form of convertible promissory note provides for a 12-month maturity, 0% annual interest absent an event of default (increasing to 18% during an uncured event of default), a 7% payment premium on principal amounts paid in circumstances specified in the note, and conversion at the lower of a fixed-price formula and 95% of the lowest daily VWAP during the five trading days prece...",
+    "url": "https://www.sec.gov/Archives/edgar/data/2000775/000182912626012883/vesicorsuper_ex99-2.htm",
+    "sha256_proof": "801d6a43d394da1c1270408cc54440432813e81d45916ae680bccb4e28350b37"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:29.461910+00:00",
+    "score": 100,
+    "company": "AMERICAS CARMART INC",
+    "ticker": "CRMT",
+    "exchange": "Nasdaq",
+    "industry": "Retail-Auto Dealers & Gasoline Stations",
+    "form": "8-K/A",
+    "file_date": "2026-11-25",
+    "accession": "0001171843-26-007728",
+    "triggers": [
+      "chapter 11",
+      "delisting"
+    ],
+    "quote": "...sdaq Stock Market (\u201cNasdaq\u201d) notifying the Company that, as a result of the Company and certain of its subsidiaries filing voluntary petitions for relief under chapter 11 of title 11 of the United States Code (the \u201cBankruptcy Filings\u201d) and in accordance with Nasdaq Listing Rules 5101, 5110(b) and IM-5101-1, the Staff of Nasdaq has determined that the Company\u2019s securities will be delisted from Nasdaq. In the Delisting Notice, the Staff o...",
+    "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326007728/f8ka_112426.htm",
+    "sha256_proof": "05b1339b37d931bf04a0fe03e79badddd80dfa17a91c2593561780486fc0240a"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:31.184555+00:00",
+    "score": 100,
+    "company": "Aspira Women's Health Inc.",
+    "ticker": "AWHL",
+    "exchange": "OTC",
+    "industry": "In Vitro & In Vivo Diagnostic Substances",
+    "form": "10-Q/A",
+    "file_date": "2026-11-25",
+    "accession": "0000926617-26-000066",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...rized to take actions to perfect the security interests; however, the Subordinated Loan Agreement provides that a financing statement may be filed only upon an event of default. During the three and six months ended June 30, 2026, the Company has made payments of approximately $ 646,000 and $ 1,093,000 , respectively. Interest paid for the Promissory Note was $ 194,000 and $ 401,000 for the three and six months ended June 30, 2026, resp...",
+    "url": "https://www.sec.gov/Archives/edgar/data/926617/000092661726000066/awhl-20260630x10qa.htm",
+    "sha256_proof": "cec0a54db8306308b9ce29c770284dc5debc440cbb0c8e3b1d10f32b7d509706"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:31.669905+00:00",
+    "score": 100,
+    "company": "Aspira Women's Health Inc.",
+    "ticker": "AWHL",
+    "exchange": "OTC",
+    "industry": "In Vitro & In Vivo Diagnostic Substances",
+    "form": "10-Q/A",
+    "file_date": "2026-11-25",
+    "accession": "0000926617-26-000065",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "...rized to take actions to perfect the security interests; however, the Subordinated Loan Agreement provides that a financing statement may be filed only upon an event of default. During the three months ended March 31, 2026, the Company has made payments of approximately $ 447,000 . Interest paid for the Promissory Note was $ 207,000 for the three months ended March 31, 2026. As of March 31, 2026, the balance of the Promissory Note was $...",
+    "url": "https://www.sec.gov/Archives/edgar/data/926617/000092661726000065/awhl-20260331x10qa.htm",
+    "sha256_proof": "80038e160c453b001abbb89741d46b0ad35ed837e99a21e34248abb9ab0a3ab8"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:32.318982+00:00",
+    "score": 100,
+    "company": "Tofla Megaline Inc.",
+    "ticker": "UNLISTED",
+    "exchange": "OTC/Private",
+    "industry": "Services-Prepackaged Software",
+    "form": "10-K",
+    "file_date": "2026-11-25",
+    "accession": "0001731122-26-001489",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "...ncluding failure to pay principal or interest when due, failure to issue shares upon conversion, and breaches of material covenants or representations. Upon an event of default, the Note may become immediately due and payable, and the Company may be required to pay a default amount ranging from 110% to 200% of the outstanding principal, accrued interest, and other amounts, depending on the nature of the default. The Purchase Agreement i...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1885849/000173112226001489/e8081_10-k.htm",
+    "sha256_proof": "a5c71eb9de15e9be960d1ee4c7f9a0664d87c82727420355e57522d3624af9b3"
+  },
+  {
     "detected_utc": "2026-11-25T17:45:36.666218+00:00",
     "score": 100,
     "company": "Athena Technology Acquisition Corp. II",
@@ -76,6 +190,23 @@
     "quote": "...n D promulgated thereunder, as these securities were sold to \u201caccredited investors\u201d within the meaning of Regulation D. On November 28, 2022, we entered into a forbearance agreement with the institutional investor relating to that certain Senior Secured Note. Pursuant to the forbearance agreement, the investor, through December 12, 2022, agreed to forbear from exercising any rights and remedies against the Company related to the outstan...",
     "url": "https://www.sec.gov/Archives/edgar/data/1343009/000168316826009123/cnbx_i10k-083126.htm",
     "sha256_proof": "f78ba91ed360a947f878d463f63a72f065428b622d6c630d30feb6f7cc0447ad"
+  },
+  {
+    "detected_utc": "2026-11-25T21:52:30.406340+00:00",
+    "score": 55,
+    "company": "Dare Bioscience, Inc.",
+    "ticker": "DARE",
+    "exchange": "Nasdaq",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-25",
+    "accession": "0001401914-26-000059",
+    "triggers": [
+      "delisting"
+    ],
+    "quote": "...ition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u00a8 Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. As previously reported, on July 13, 2026, in accordance with Nasdaq Listing Rule 5815(d)(4)(B), Dar\u00e9 Bioscience, Inc. (\u201cDar\u00e9,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d) was notified by the Listing Qualificatio...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1401914/000140191426000059/dare-20261120.htm",
+    "sha256_proof": "acc7aeb0a9a6179931c0eea2c9ce3c9354898ea9b45506f07bd09ac466cef04e"
   },
   {
     "detected_utc": "2026-11-25T13:12:54.990074+00:00",
@@ -639,131 +770,5 @@
     "quote": "...ncipal amount plus accrued but unpaid interest under the Note. Contin g ent interest feature The Note is subject to certain customary events of default. If any event of default occurs, the outstanding principal amount, plus accrued but unpaid interest, liquidated damages and other amounts owing, shall become immediately due and payable, and at the holder\u2019s election, in cash at the mandatory default amount or in common stock at the manda...",
     "url": "https://www.sec.gov/Archives/edgar/data/1707919/000114036126045126/ef20080645_10q.htm",
     "sha256_proof": "961195f04c1559ba6e461b122cbfbce04f6130e1f57ee69f9e2686989244b485"
-  },
-  {
-    "detected_utc": "2026-11-24T00:35:56.420979+00:00",
-    "score": 95,
-    "company": "Exyn Technologies, Inc.",
-    "ticker": "EXYN",
-    "exchange": "Nasdaq",
-    "industry": "Services-Prepackaged Software",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001104659-26-131109",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ffer materially from those expressed or implied by such statements. These risks and uncertainties include, among others, the Company's ability to continue as a going concern and raise substantial additional funds in the future; the restatement of the Company's financial statements for the quarters ended March 31, 2026 and June 30, 2026, and any resulting litigation, regulatory inquiries or other consequences; the Company's ability to ti...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/tm2630488d1_ex99-1.htm",
-    "sha256_proof": "161813d0b6b5b7ff8d59074f45877f4f4e0048c79e4f66ef854752e8a3a86e91"
-  },
-  {
-    "detected_utc": "2026-11-23T11:50:52.415893+00:00",
-    "score": 90,
-    "company": "BIOTRICITY INC.",
-    "ticker": "BTCY",
-    "exchange": "OTC",
-    "industry": "Surgical & Medical Instruments & Apparatus",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053584",
-    "triggers": [
-      "forbearance",
-      "going concern"
-    ],
-    "quote": "...rating efficiency; the scope and timing of the cardiac screening program and related device deployment; the refinancing of the Company\u2019s term loan; and further forbearance from its term lender. These statements are based on current expectations and assumptions and are subject to risks and uncertainties, many of which are beyond the Company\u2019s control, that could cause actual results to differ materially, including: the Company\u2019s ability ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
-    "sha256_proof": "0ca3ce2c27c489538c000cf27601f47dce70e399f773b95fff5beed9a74f1206"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:51.014156+00:00",
-    "score": 80,
-    "company": "Shreya Acquisition Group",
-    "ticker": "SAGU",
-    "exchange": "NYSE",
-    "industry": "Blank Checks",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001829126-26-012748",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...take priority over the claims of the Public Shareholders. In the event of liquidation and subsequent dissolution, the rights will expire and will be worthless. Going Concern Consideration In connection with the Company\u2019s assessment of going concern considerations in accordance with Financial Accounting Standards Board (\u201cFASB\u201d) Accounting Standards Codification (\u201cASC\u201d) 205-40, \u201cPresentation of Financial Statements - Going Concern,\u201d manag...",
-    "url": "https://www.sec.gov/Archives/edgar/data/2083452/000182912626012748/shreyaacq_10q.htm",
-    "sha256_proof": "4205764424b44f23b9c6493d33ea4cf1d47d2c51558defd482fc918678e8bb27"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:51.504936+00:00",
-    "score": 80,
-    "company": "DeFi Capital Markets, Inc.",
-    "ticker": "DCM",
-    "exchange": "NYSE",
-    "industry": "Wholesale-Electronic Parts & Equipment, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001104659-26-131101",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...ances of convertible debt and, in the prior fiscal year, through the proceeds of the sale of assets to Feit Electric Company, Inc. Our ability to continue as a going concern is dependent on our ability to generate cash flows from operations and find additional sources of funding through either equity offerings, debt financings, or a combination of any such transactions. As of September 30, 2026, Universal DeFi had a remaining commitment...",
-    "url": "https://www.sec.gov/Archives/edgar/data/102109/000110465926131101/dcm-20260930x10q.htm",
-    "sha256_proof": "042afcf5f5d002af9b94a63c2958aa0e5435056c45347da8d8c0e6293913d7ad"
-  },
-  {
-    "detected_utc": "2026-11-23T19:58:04.884442+00:00",
-    "score": 80,
-    "company": "Spark I Acquisition Corp",
-    "ticker": "SPKLF",
-    "exchange": "OTC",
-    "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-    "form": "10-Q/A",
-    "file_date": "2026-11-23",
-    "accession": "0001104659-26-130988",
-    "triggers": [
-      "going concern",
-      "material weakness",
-      "delisting"
-    ],
-    "quote": "...ARK I ACQUISITION CORPORATION NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) NOTE 1 \u2014 DESCRIPTION OF ORGANIZATION AND BUSINESS OPERATIONS AND GOING CONCERN Spark I Acquisition Corporation (the \u201cCompany\u201d) was incorporated in the Cayman Islands on July 12, 2021 . The Company was formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business comb...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1884046/000110465926130988/spkl-20260930x10qa.htm",
-    "sha256_proof": "cebdfe1d6efc6849ac24f3a65bf4a7b1d3f0d0771885a7c932476817f93c7086"
-  },
-  {
-    "detected_utc": "2026-11-23T13:05:48.389708+00:00",
-    "score": 80,
-    "company": "Niki BioSolutions, Inc.",
-    "ticker": "NIKI",
-    "exchange": "Nasdaq",
-    "industry": "Measuring & Controlling Devices, NEC",
-    "form": "10-Q",
-    "file_date": "2026-11-23",
-    "accession": "0001213900-26-122909",
-    "triggers": [
-      "going concern",
-      "material weakness"
-    ],
-    "quote": "...tive Officer or Chief Financial Officer, in each case for so long as the former DiamiR stockholders own at least 25 % of the Company\u2019s outstanding shares. 6 2. GOING CONCERN The Company reported a net loss of $ 1,411,530 and $ 2,718,830 for the three and nine months ended September 30, 2026, respectively, and net operating cash outflow of $ 2,202,040 for the nine months ended September 30, 2026. In addition, the Company had negative wor...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122909/ea0312450-10q_nikibio.htm",
-    "sha256_proof": "604b4ad4751f7db321068d2f1a6e6bddc8fc1e7c2029d54b9b6d66b90a583ada"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:47.246445+00:00",
-    "score": 70,
-    "company": "Sky Quarry Inc.",
-    "ticker": "SKYQ",
-    "exchange": "Nasdaq",
-    "industry": "Hazardous Waste Management",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001096906-26-001880",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...any regional price premium, the Company\u2019s ability to obtain sufficient working capital and additional financing, manage existing indebtedness and continue as a going concern, as well as commodity price volatility, regulatory requirements and other risks described under \u201cRisk Factors\u201d in the Company\u2019s most recent Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q and other filings with the U.S. Securities and Exchange ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1812447/000109690626001880/skyq_ex99z1.htm",
-    "sha256_proof": "9001429c255e28d9bd6f4d1f0693b633caf02e2ed889f5f30a3100c692a9176a"
   }
 ]
