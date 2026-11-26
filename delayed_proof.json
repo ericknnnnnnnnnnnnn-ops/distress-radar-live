@@ -1,5 +1,25 @@
 [
   {
+    "detected_utc": "2026-11-25T17:45:36.666218+00:00",
+    "score": 100,
+    "company": "Athena Technology Acquisition Corp. II",
+    "ticker": "ATEK",
+    "exchange": "OTC",
+    "industry": "Hazardous Waste Management",
+    "form": "10-Q",
+    "file_date": "2026-11-25",
+    "accession": "0001213900-26-124058",
+    "triggers": [
+      "event of default",
+      "going concern",
+      "material weakness",
+      "delisting"
+    ],
+    "quote": "... 0 as subscription expense related to the recognition of the Default Shares, $ 164,000 as return of capital subscription shares expense, $ 0 gain on changes of event of default subscription share liability and $ 16,400 gain on change in fair value of Return of capital subscription shares liability. As of September 30, 2026, the Company had outstanding balance of $ 0 on default shares liability and $ 148,400 on return of capital subscrip...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1882198/000121390026124058/ea0313434-10q_athena2.htm",
+    "sha256_proof": "69efaa99567c5ce67ea14ae0ea1e54bed85fc0c88d9bacb93b019c9586776060"
+  },
+  {
     "detected_utc": "2026-11-25T11:56:17.447446+00:00",
     "score": 100,
     "company": "Surgery Partners, Inc.",
@@ -38,6 +58,24 @@
     "quote": "... 2014. In October 2015, when it was being led by a successor management team, Miller Energy Resources, Inc. filed a voluntary petition for reorganization under chapter 11 of title 11 of the U.S. Code in a pre-packaged bankruptcy. It remained a debtor in possession and emerged from bankruptcy in March 2016. Mr. Boruff was a director and 49% owner of Dimirak Securities Corporation, a broker-dealer and member of FINRA, from April 2009 unti...",
     "url": "https://www.sec.gov/Archives/edgar/data/1584693/000149315226054068/form10-k.htm",
     "sha256_proof": "f7354740f1f1f95a84d138967822902686ba222f5e0a49cd2368f78b09aef79f"
+  },
+  {
+    "detected_utc": "2026-11-25T16:48:43.262172+00:00",
+    "score": 75,
+    "company": "CNBX Pharmaceuticals Inc.",
+    "ticker": "CNBX",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "10-K",
+    "file_date": "2026-11-25",
+    "accession": "0001683168-26-009123",
+    "triggers": [
+      "forbearance",
+      "going concern"
+    ],
+    "quote": "...n D promulgated thereunder, as these securities were sold to \u201caccredited investors\u201d within the meaning of Regulation D. On November 28, 2022, we entered into a forbearance agreement with the institutional investor relating to that certain Senior Secured Note. Pursuant to the forbearance agreement, the investor, through December 12, 2022, agreed to forbear from exercising any rights and remedies against the Company related to the outstan...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1343009/000168316826009123/cnbx_i10k-083126.htm",
+    "sha256_proof": "f78ba91ed360a947f878d463f63a72f065428b622d6c630d30feb6f7cc0447ad"
   },
   {
     "detected_utc": "2026-11-25T13:12:54.990074+00:00",
@@ -727,39 +765,5 @@
     "quote": "...any regional price premium, the Company\u2019s ability to obtain sufficient working capital and additional financing, manage existing indebtedness and continue as a going concern, as well as commodity price volatility, regulatory requirements and other risks described under \u201cRisk Factors\u201d in the Company\u2019s most recent Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q and other filings with the U.S. Securities and Exchange ...",
     "url": "https://www.sec.gov/Archives/edgar/data/1812447/000109690626001880/skyq_ex99z1.htm",
     "sha256_proof": "9001429c255e28d9bd6f4d1f0693b633caf02e2ed889f5f30a3100c692a9176a"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:47.704673+00:00",
-    "score": 70,
-    "company": "FF EAI Robotics Ecosystem Inc.",
-    "ticker": "FFR",
-    "exchange": "Nasdaq",
-    "industry": "Finance Services",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053754",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...rate and operate the acquired business, commercialize its robotics technologies, achieve its business objectives, obtain additional financing and continue as a going concern, maintain compliance with Nasdaq listing requirements, compete effectively, manage its liquidity position and execute its strategic transition. Additional risks and uncertainties are described in FFR\u2019s filings with the U.S. Securities and Exchange Commission, includ...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226053754/ex99-1.htm",
-    "sha256_proof": "f7728ed075c8748c7b70503c7a21141a33c4550b9c858436ef522eb7cf44b548"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:48.072182+00:00",
-    "score": 70,
-    "company": "Citius Pharmaceuticals, Inc.",
-    "ticker": "CTXR",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001213900-26-123210",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026123210/ea031250201ex99-1.htm",
-    "sha256_proof": "4af95096258db81888c8133c0c6a34792111bbd09b682dd627cf7b661392487b"
   }
 ]
