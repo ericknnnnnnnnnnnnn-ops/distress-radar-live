@@ -40,6 +40,23 @@
     "sha256_proof": "f7354740f1f1f95a84d138967822902686ba222f5e0a49cd2368f78b09aef79f"
   },
   {
+    "detected_utc": "2026-11-25T13:12:54.990074+00:00",
+    "score": 50,
+    "company": "CANNAPHARMARX, INC.",
+    "ticker": "CPMD",
+    "exchange": "OTC",
+    "industry": "Pharmaceutical Preparations",
+    "form": "8-K",
+    "file_date": "2026-11-25",
+    "accession": "0001683168-26-009108",
+    "triggers": [
+      "going concern"
+    ],
+    "quote": "...hs ended September 30, 2026, compared with a net loss of $3,581,863 during the corresponding period in 2025, representing a reduction of 54.1%. 1 Liquidity and Going Concern As of September 30, 2026, the Company had cash of $32,037, a working capital deficiency of $30,929,128, and an accumulated deficit of $113,961,237. Cash used in operating activities was $537,675 for the nine months ended September 30, 2026, compared with $1,850,544 ...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1081938/000168316826009108/canna_ex9901.htm",
+    "sha256_proof": "51fe4c75324b7c49487462d2739b949e8feed0fc09d5db7f85fa237548bb59f2"
+  },
+  {
     "detected_utc": "2026-11-24T22:52:56.645135+00:00",
     "score": 100,
     "company": "Southwest Gas Holdings, Inc.",
@@ -744,22 +761,5 @@
     "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
     "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026123210/ea031250201ex99-1.htm",
     "sha256_proof": "4af95096258db81888c8133c0c6a34792111bbd09b682dd627cf7b661392487b"
-  },
-  {
-    "detected_utc": "2026-11-23T21:46:48.485612+00:00",
-    "score": 70,
-    "company": "CITIUS ONCOLOGY, INC.",
-    "ticker": "CTOR",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001213900-26-123209",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/ea031250301ex99-1.htm",
-    "sha256_proof": "68215bf430fab9cfd84fa839a9a7a6a328c29d57eafd3a0cd4054cf7a09dd86f"
   }
 ]
