@@ -1,5 +1,45 @@
 [
   {
+    "detected_utc": "2026-11-25T11:56:17.447446+00:00",
+    "score": 100,
+    "company": "Surgery Partners, Inc.",
+    "ticker": "SGRY",
+    "exchange": "Nasdaq",
+    "industry": "Services-General Medical & Surgical Hospitals, NEC",
+    "form": "8-K",
+    "file_date": "2026-11-25",
+    "accession": "0001104659-26-131732",
+    "triggers": [
+      "event of default",
+      "forbearance",
+      "going concern",
+      "waiver",
+      "acceleration"
+    ],
+    "quote": "...215 11.6 ERISA 216 11.7 Guarantee 216 11.8 Pledge Agreement 216 11.9 Security Agreement 216 11.10 Judgments 216 11.11 Change of Control 216 11.12 Remedies Upon Event of Default 216 11.13 Application of Proceeds 218 iii 11.14 Equity Cure 219 SECTION 12 THE AGENTS 12.1 Appointment 220 12.2 Delegation of Duties 221 12.3 Exculpatory Provisions 221 12.4 Reliance by Agents 221 12.5 Notice of Default 222 12.6 Non-Reliance on Administrative Age...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926131732/tm2628254d11_ex10-1.htm",
+    "sha256_proof": "b51bd7f9ef7686dcb7a7a439be3404c634512d80d3e0e9ee8d01197add4f9580"
+  },
+  {
+    "detected_utc": "2026-11-25T11:56:18.573526+00:00",
+    "score": 100,
+    "company": "SafeSpace Global Corp",
+    "ticker": "SSGC",
+    "exchange": "OTC",
+    "industry": "Services-Amusement & Recreation Services",
+    "form": "10-K",
+    "file_date": "2026-11-25",
+    "accession": "0001493152-26-054068",
+    "triggers": [
+      "chapter 11",
+      "going concern",
+      "material weakness"
+    ],
+    "quote": "... 2014. In October 2015, when it was being led by a successor management team, Miller Energy Resources, Inc. filed a voluntary petition for reorganization under chapter 11 of title 11 of the U.S. Code in a pre-packaged bankruptcy. It remained a debtor in possession and emerged from bankruptcy in March 2016. Mr. Boruff was a director and 49% owner of Dimirak Securities Corporation, a broker-dealer and member of FINRA, from April 2009 unti...",
+    "url": "https://www.sec.gov/Archives/edgar/data/1584693/000149315226054068/form10-k.htm",
+    "sha256_proof": "f7354740f1f1f95a84d138967822902686ba222f5e0a49cd2368f78b09aef79f"
+  },
+  {
     "detected_utc": "2026-11-24T22:52:56.645135+00:00",
     "score": 100,
     "company": "Southwest Gas Holdings, Inc.",
@@ -721,39 +761,5 @@
     "quote": "...endar year-end; our need for substantial additional funds and our ability to raise additional money to fund our operations for at least the next 12 months as a going concern; our cash resources are expected to fund operations only into the near term, and we may not satisfy the net revenue and liquidity milestones required to draw additional term loan tranches; our ability to successfully commercialize LYMPHIR and establish a sustainable...",
     "url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/ea031250301ex99-1.htm",
     "sha256_proof": "68215bf430fab9cfd84fa839a9a7a6a328c29d57eafd3a0cd4054cf7a09dd86f"
-  },
-  {
-    "detected_utc": "2026-11-23T14:32:39.195862+00:00",
-    "score": 70,
-    "company": "Imunon, Inc.",
-    "ticker": "IMNN",
-    "exchange": "Nasdaq",
-    "industry": "Pharmaceutical Preparations",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053680",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...operations, including the OVATION 3 trial, and the risk that such capital may not be available on acceptable terms or at all; IMUNON\u2019s ability to continue as a going concern; IMUNON\u2019s ability to maintain the listing of its common stock on Nasdaq; the need for IMUNON to evaluate its future development plans; possible actions by customers, suppliers, competitors or regulatory authorities; and other risks detailed from time to time in IMUN...",
-    "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226053680/ex99-1.htm",
-    "sha256_proof": "3e5d280efa9cb6fb76c4bb793474911785627dadfd2b05452c9f8ae63c803b9e"
-  },
-  {
-    "detected_utc": "2026-11-23T13:05:45.795394+00:00",
-    "score": 70,
-    "company": "SOAR AI, Inc.",
-    "ticker": "SOAR",
-    "exchange": "NYSE",
-    "industry": "Air Transportation, Nonscheduled",
-    "form": "8-K",
-    "file_date": "2026-11-23",
-    "accession": "0001493152-26-053633",
-    "triggers": [
-      "going concern"
-    ],
-    "quote": "...our ability to raise funding in the future, as needed, and the terms of such funding, including potential dilution caused thereby; our ability to continue as a going concern; our ability to maintain the listing of our common stock on the NYSE American LLC; the outcome of any current legal proceedings or future legal proceedings that may be instituted against us; unanticipated difficulties or expenditures relating to our business plan; t...",
-    "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/form8-k.htm",
-    "sha256_proof": "ed90073aa1c7e08b784120f5e61375ace36e29aa88d2437845bf699b02c8bf4d"
   }
 ]
